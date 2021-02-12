@@ -25,50 +25,50 @@
       "perception": "420+",
       "imageUrl": "Pumice9519.png",
       "description": "Volcanic rock riddled with countless tiny holes which make the stone remarkably lighter than it appears. Parchment makers rub the pieces on vellum to prepare the pages for receiving ink.",
-      "descriptionFr": "Cette roche d'origine volcanique se distingue par ses nombreux trous. Elle est trÃ¨s pratique pour travailler les tissus et les cuirs.",
-      "descriptionDe": "Ein Stein, der von Myriaden von LÃ¶chern durchsÃ¤t ist. Er wird verwendet, um OberflÃ¤chen zu glÃ¤tten."
+      "descriptionFr": "Cette roche d'origine volcanique se distingue par ses nombreux trous. Elle est très pratique pour travailler les tissus et les cuirs.",
+      "descriptionDe": "Ein Stein, der von Myriaden von Löchern durchsät ist. Er wird verwendet, um Oberflächen zu glätten."
     },
     {
       "id": "3",
       "slot": 7,
       "name": "Antumbral Rock",
-      "nameFr": "Roche antÃ©ombrale",
+      "nameFr": "Roche antéombrale",
       "nameDe": "Schlagschattenfels",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Antumbral Rock8030.png",
       "description": "A rock with an elemental aspect leaning unnaturally towards umbral.",
-      "descriptionFr": "Une roche dont l'aspect Ã©lÃ©mentaire penche fortement vers l'ombral.",
-      "descriptionDe": "Gestein, dessen elementare Beschaffenheit noch stÃ¤rker zur Dunkelheit tendiert als bei gewÃ¶hnlichem Schattenfels."
+      "descriptionFr": "Une roche dont l'aspect élémentaire penche fortement vers l'ombral.",
+      "descriptionDe": "Gestein, dessen elementare Beschaffenheit noch stärker zur Dunkelheit tendiert als bei gewöhnlichem Schattenfels."
     },
     {
       "id": "117",
       "slot": 8,
       "name": "Dark Matter Cluster",
-      "nameFr": "AgrÃ©gat de matiÃ¨re sombre",
+      "nameFr": "Agrégat de matière sombre",
       "nameDe": "Dunkelmaterie",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "",
       "imageUrl": "Dark Matter Cluster10335.png",
       "description": "This substance of unknown origin has the faculty to assimilate with other forms of matter, effectively restoring them to their original condition. Pieces this large are quite rare.",
-      "descriptionFr": "Un minerai rÃ©agissant Ã  l'Ã©nergie spirituelle, et qui a des facultÃ©s d'assimilation avec d'autres matiÃ¨res.",
-      "descriptionDe": "Diese Substanz von unbekannter Herkunft hat die Eigenschaft, sich mit anderen Formen von Materie zu vereinen, und diese so in ihren ursprÃ¼nglichen Zustand zu versetzen. Solch groÃŸe StÃ¼cke sind zie"
+      "descriptionFr": "Un minerai réagissant à l'énergie spirituelle, et qui a des facultés d'assimilation avec d'autres matières.",
+      "descriptionDe": "Diese Substanz von unbekannter Herkunft hat die Eigenschaft, sich mit anderen Formen von Materie zu vereinen, und diese so in ihren ursprünglichen Zustand zu versetzen. Solch große Stücke sind zie"
     },
     {
       "id": "4",
       "slot": 6,
       "name": "Ferberite",
-      "nameFr": "Minerai de ferbÃ©rite",
+      "nameFr": "Minerai de ferbérite",
       "nameDe": "Ferberit",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Ferberite7588.png",
       "description": "A jet-black mineral with alluring luster.",
-      "descriptionFr": "Un minÃ©ral brillant et noir comme le jais.",
-      "descriptionDe": "Ein tiefschwarzes Mineral, das verfÃ¼hrerisch glÃ¤nzt."
+      "descriptionFr": "Un minéral brillant et noir comme le jais.",
+      "descriptionDe": "Ein tiefschwarzes Mineral, das verführerisch glänzt."
     },
     {
       "id": "5",
@@ -82,49 +82,49 @@
       "imageUrl": "Raw Topaz5149.png",
       "description": "An uncut, unpolished stone containing what appears to be topaz.",
       "descriptionFr": "Une pierre brute qui semble contenir une topaze.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Topas-Einschluss."
+      "descriptionDe": "Ein ungeschliffener Stein mit Topas-Einschluss."
     },
     {
       "id": "6",
       "slot": 8,
       "name": "Raw Iolite",
-      "nameFr": "CordiÃ©rite brute",
+      "nameFr": "Cordiérite brute",
       "nameDe": "Roh-Luchssaphir",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Raw Iolite5150.png",
       "description": "An uncut, unpolished stone containing what appears to be iolite.",
-      "descriptionFr": "Une pierre brute qui semble contenir une cordiÃ©rite.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Luchssaphir-Einschluss."
+      "descriptionFr": "Une pierre brute qui semble contenir une cordiérite.",
+      "descriptionDe": "Ein ungeschliffener Stein mit Luchssaphir-Einschluss."
     },
     {
       "id": "7",
       "slot": 6,
       "name": "Native Gold",
-      "nameFr": "PÃ©pite d'or natif",
+      "nameFr": "Pépite d'or natif",
       "nameDe": "Naturgold",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Native Gold7589.png",
       "description": "A high-purity, naturally occurring nugget of gold.",
-      "descriptionFr": "Une pÃ©pite d'or naturel de trÃ¨s haute qualitÃ©.",
-      "descriptionDe": "Der Glanz dieses natÃ¼rlich vorkommenden Goldes Ã¼berstrahlt beinah alles."
+      "descriptionFr": "Une pépite d'or naturel de très haute qualité.",
+      "descriptionDe": "Der Glanz dieses natürlich vorkommenden Goldes überstrahlt beinah alles."
     },
     {
       "id": "9",
       "slot": 7,
       "name": "Raw Emerald",
-      "nameFr": "Ã‰meraude brute",
+      "nameFr": "Émeraude brute",
       "nameDe": "Roh-Smaragd",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Raw Emerald5148.png",
       "description": "An uncut, unpolished stone containing what appears to be emerald.",
-      "descriptionFr": "Une pierre brute qui semble contenir une Ã©meraude.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Smaragd-Einschluss."
+      "descriptionFr": "Une pierre brute qui semble contenir une émeraude.",
+      "descriptionDe": "Ein ungeschliffener Stein mit Smaragd-Einschluss."
     },
     {
       "id": "10",
@@ -138,7 +138,7 @@
       "imageUrl": "Raw Diamond5147.png",
       "description": "An uncut, unpolished stone containing what appears to be diamond.",
       "descriptionFr": "Une pierre brute qui semble contenir un diamant.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Diamant-Einschluss."
+      "descriptionDe": "Ein ungeschliffener Stein mit Diamant-Einschluss."
     },
     {
       "id": "8",
@@ -172,15 +172,15 @@
       "id": "12",
       "slot": 5,
       "name": "Water Cluster",
-      "nameFr": "AgrÃ©gat d'eau",
+      "nameFr": "Agrégat d'eau",
       "nameDe": "Wasserpolykristall",
       "level": "50",
       "gatheringSkill": "50",
       "perception": "~",
       "imageUrl": "Water Cluster19.png",
       "description": "A large crystalline manifestation of aetheric water energy.",
-      "descriptionFr": "Un agrÃ©gat de cristaux d'eau.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Wasserenergie."
+      "descriptionFr": "Un agrégat de cristaux d'eau.",
+      "descriptionDe": "Ein Dendrit aus ätherischer Wasserenergie."
     },
     {
       "id": "13",
@@ -193,8 +193,8 @@
       "perception": "",
       "imageUrl": "Grade 3 Thanalan Topsoil7766.png",
       "description": "Grade 3 topsoil obtained in the Thanalan region. Increases the likelihood that plants will intercross with one another.",
-      "descriptionFr": "Du terreau de grade III provenant du Thanalan. \u0003[AmÃ©liore les chances d'obtenir des produits hybrides lors du jardinage.]",
-      "descriptionDe": "Aus Thanalan stammender Humus der GÃ¼teklasse 3. ErhÃ¶ht die Wahr\u0003schein\u0003lich\u0003keit, dass Kreuzungen entstehen."
+      "descriptionFr": "Du terreau de grade III provenant du Thanalan. [Améliore les chances d'obtenir des produits hybrides lors du jardinage.]",
+      "descriptionDe": "Aus Thanalan stammender Humus der Güteklasse 3. Erhöht die Wahrscheinlichkeit, dass Kreuzungen entstehen."
     },
     {
       "id": "14",
@@ -207,36 +207,36 @@
       "perception": "332+",
       "imageUrl": "Umbral Rock7610.png",
       "description": "A rock with an elemental aspect leaning heavily towards umbral.",
-      "descriptionFr": "Une roche dont l'aspect Ã©lÃ©mentaire semble pencher vers l'ombral.",
+      "descriptionFr": "Une roche dont l'aspect élémentaire semble pencher vers l'ombral.",
       "descriptionDe": "Gestein, dessen elementare Beschaffenheit zur Dunkelheit tendiert."
     },
     {
       "id": "15",
       "slot": 8,
       "name": "Grade 3 Shroud Topsoil",
-      "nameFr": "Terreau sombrelinÃ§ois III",
+      "nameFr": "Terreau sombrelinçois III",
       "nameDe": "Finsterwald-Humus III",
       "level": "50*",
       "gatheringSkill": "55",
       "perception": "",
       "imageUrl": "Grade 3 Shroud Topsoil7763.png",
       "description": "Grade 3 topsoil obtained in the Black Shroud region. Increases the likelihood that plants will yield more crops.",
-      "descriptionFr": "Du terreau de grade III provenant de la forÃªt de Sombrelinceul. \u0003[AmÃ©liore les chances d'obtenir une plus grosse rÃ©colte lors du jardinage.]",
-      "descriptionDe": "Aus Finsterwald stammender Humus der GÃ¼teklasse 3. Verbessert potenziell die Erntemenge von Gartenerzeugnissen."
+      "descriptionFr": "Du terreau de grade III provenant de la forêt de Sombrelinceul. [Améliore les chances d'obtenir une plus grosse récolte lors du jardinage.]",
+      "descriptionDe": "Aus Finsterwald stammender Humus der Güteklasse 3. Verbessert potenziell die Erntemenge von Gartenerzeugnissen."
     },
     {
       "id": "16",
       "slot": 1,
       "name": "Gregarious Worm",
-      "nameFr": "Ver grÃ©gaire",
+      "nameFr": "Ver grégaire",
       "nameDe": "Herdenwurm",
       "level": "50*",
       "gatheringSkill": "55",
       "perception": "",
       "imageUrl": "Gregarious Worm10095.png",
       "description": "A rare form of earthworm, these fat invertebrates also make fine chocobo feed, providing an excellent source of protein for growing birds.",
-      "descriptionFr": "Cette variÃ©tÃ© rare d'invertÃ©brÃ© vit sous le sol et est idÃ©ale pour nourrir les chocobos de course.",
-      "descriptionDe": "Herdenwurmnester sind nicht besonders schÃ¶n anzusehen, die WÃ¼rmer aber stellen fÃ¼r heranwachsende Chocobos einen nicht zu verschmÃ¤henden Leckerbissen und eine exzellente Proteinquelle dar."
+      "descriptionFr": "Cette variété rare d'invertébré vit sous le sol et est idéale pour nourrir les chocobos de course.",
+      "descriptionDe": "Herdenwurmnester sind nicht besonders schön anzusehen, die Würmer aber stellen für heranwachsende Chocobos einen nicht zu verschmähenden Leckerbissen und eine exzellente Proteinquelle dar."
     },
     {
       "id": "17",
@@ -262,43 +262,43 @@
       "gatheringSkill": "51",
       "perception": "",
       "imageUrl": "Coblyn Larva6199.png",
-      "description": "Too dangerous to allow to grow any larger...too adorable to condemn to the furnace.\u0003\u0003Use item to acquire the coblyn larva minion.",
-      "descriptionFr": "[Mascotte]\u0003Les insectes sont nos amis, il faut les aimer aussi.",
-      "descriptionDe": "Zu gefÃ¤hrlich, um sie weiter wachsen zu lassen ... aber zu sÃ¼ÃŸ, um sie jetzt schon zu beseitigen.\u0003\u0003Benutze diesen Gegenstand, um die Kobalos-Larve zu rufen."
+      "description": "Too dangerous to allow to grow any larger...too adorable to condemn to the furnace.Use item to acquire the coblyn larva minion.",
+      "descriptionFr": "[Mascotte]Les insectes sont nos amis, il faut les aimer aussi.",
+      "descriptionDe": "Zu gefährlich, um sie weiter wachsen zu lassen ... aber zu süß, um sie jetzt schon zu beseitigen.Benutze diesen Gegenstand, um die Kobalos-Larve zu rufen."
     },
     {
       "id": "19",
       "slot": 1,
       "name": "Grade 4 Carbonized Matter",
-      "nameFr": "MatiÃ¨re carbonique grade IV",
+      "nameFr": "Matière carbonique grade IV",
       "nameDe": "Karbonisierte Materie G4",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "",
       "imageUrl": "Grade 4 Carbonized Matter5602.png",
-      "description": "Naturally occurring coal infused with dark matter.\u0003\u0003[A catalyst used when affixing materia of grade IV or below.]",
-      "descriptionFr": "Cette matiÃ¨re noire a fusionnÃ© avec de la houille. Elle est employÃ©e comme catalyseur dans le processus de sertissage de matÃ©ria.\u0003[Catalyseur pour matÃ©rias grades I Ã  IV]",
-      "descriptionDe": "NatÃ¼rlich vorkommende, von Dunkelmaterie durchzogene Kohle.\u0003Katalysator zum Einsetzen von Materia vom Grad IV oder niedriger."
+      "description": "Naturally occurring coal infused with dark matter.[A catalyst used when affixing materia of grade IV or below.]",
+      "descriptionFr": "Cette matière noire a fusionné avec de la houille. Elle est employée comme catalyseur dans le processus de sertissage de matéria.[Catalyseur pour matérias grades I à IV]",
+      "descriptionDe": "Natürlich vorkommende, von Dunkelmaterie durchzogene Kohle.Katalysator zum Einsetzen von Materia vom Grad IV oder niedriger."
     },
     {
       "id": "20",
       "slot": 2,
       "name": "Lightning Cluster",
-      "nameFr": "AgrÃ©gat de foudre",
+      "nameFr": "Agrégat de foudre",
       "nameDe": "Blitzpolykristall",
       "level": "50",
       "gatheringSkill": "50",
       "perception": "",
       "imageUrl": "Lightning Cluster18.png",
       "description": "A large crystalline manifestation of aetheric lightning energy.",
-      "descriptionFr": "Un agrÃ©gat de cristaux de foudre.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Blitzenergie."
+      "descriptionFr": "Un agrégat de cristaux de foudre.",
+      "descriptionDe": "Ein Dendrit aus ätherischer Blitzenergie."
     },
     {
       "id": "21",
       "slot": 3,
       "name": "Fire Cluster",
-      "nameFr": "AgrÃ©gat de feu",
+      "nameFr": "Agrégat de feu",
       "nameDe": "Feuerpolykristall",
       "level": "50",
       "gatheringSkill": "50",
@@ -306,49 +306,49 @@
       "imageUrl": "Fire Cluster14.png",
       "description": "A large crystalline manifestation of aetheric fire energy.",
       "descriptionFr": "A large crystalline manifestation of aetheric fire energy.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Feuerenergie."
+      "descriptionDe": "Ein Dendrit aus ätherischer Feuerenergie."
     },
     {
       "id": "22",
       "slot": 4,
       "name": "Wind Cluster",
-      "nameFr": "AgrÃ©gat de vent",
+      "nameFr": "Agrégat de vent",
       "nameDe": "Windpolykristall",
       "level": "50",
       "gatheringSkill": "50",
       "perception": "",
       "imageUrl": "Wind Cluster16.png",
       "description": "A large crystalline manifestation of aetheric wind energy.",
-      "descriptionFr": "Un agrÃ©gat de cristaux de vent.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Windenergie."
+      "descriptionFr": "Un agrégat de cristaux de vent.",
+      "descriptionDe": "Ein Dendrit aus ätherischer Windenergie."
     },
     {
       "id": "23",
       "slot": 6,
       "name": "Ice Cluster",
-      "nameFr": "AgrÃ©gat de glace",
+      "nameFr": "Agrégat de glace",
       "nameDe": "Eispolykristall",
       "level": "50",
       "gatheringSkill": "50",
       "perception": "",
       "imageUrl": "Ice Cluster15.png",
       "description": "A large crystalline manifestation of aetheric ice energy.",
-      "descriptionFr": "Un agrÃ©gat de cristaux de glace.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Eisenergie."
+      "descriptionFr": "Un agrégat de cristaux de glace.",
+      "descriptionDe": "Ein Dendrit aus ätherischer Eisenergie."
     },
     {
       "id": "24",
       "slot": 7,
       "name": "Earth Cluster",
-      "nameFr": "AgrÃ©gat de terre",
+      "nameFr": "Agrégat de terre",
       "nameDe": "Erdpolykristall",
       "level": "50",
       "gatheringSkill": "50",
       "perception": "",
       "imageUrl": "Earth Cluster17.png",
       "description": "A large crystalline manifestation of aetheric earth energy.",
-      "descriptionFr": "Un agrÃ©gat de cristaux de terre.",
-      "descriptionDe": "Ein Dendrit aus Ã¤therischer Erdenergie."
+      "descriptionFr": "Un agrégat de cristaux de terre.",
+      "descriptionDe": "Ein Dendrit aus ätherischer Erdenergie."
     },
     {
       "id": "25",
@@ -361,8 +361,8 @@
       "perception": "",
       "imageUrl": "Unaspected Crystal10099.png",
       "description": "For reasons unknown to you, this crystal has completely lost its elemental charge.",
-      "descriptionFr": "Ce cristal a com\u0003plÃ¨\u0003te\u0003ment perdu sa charge Ã©lÃ©mentaire pour des raisons inconnues.",
-      "descriptionDe": "Aus dir unbekannten GrÃ¼nden hat dieser Kristall seine elementare Ladung verloren."
+      "descriptionFr": "Ce cristal a complètement perdu sa charge élémentaire pour des raisons inconnues.",
+      "descriptionDe": "Aus dir unbekannten Gründen hat dieser Kristall seine elementare Ladung verloren."
     },
     {
       "id": "26",
@@ -375,22 +375,22 @@
       "perception": "238+",
       "imageUrl": "Virgin Basilisk Egg10093.png",
       "description": "While all eggs a basilisk lays contain traces of rare ore, the first egg laid in life is thought to contain the highest concentration, making it highly sought after by potion mixers and alchemists.",
-      "descriptionFr": "Un Å“uf issu de la premiÃ¨re ponte d'un basilic. Une fois rÃ©duite en poudre, sa coquille trÃ¨s dure a des vertus mÃ©dicinales.",
-      "descriptionDe": "Obwohl alle von Basilisken gelegten Eier Spuren von seltenen Erzen enthalten, ist die Konzentration im erstgelegten Ei am hÃ¶chsten. Aus diesem Grund ist es von Alchemisten heiÃŸ begehrt."
+      "descriptionFr": "Un Å“uf issu de la première ponte d'un basilic. Une fois réduite en poudre, sa coquille très dure a des vertus médicinales.",
+      "descriptionDe": "Obwohl alle von Basilisken gelegten Eier Spuren von seltenen Erzen enthalten, ist die Konzentration im erstgelegten Ei am höchsten. Aus diesem Grund ist es von Alchemisten heiß begehrt."
     },
     {
       "id": "27",
       "slot": 1,
       "name": "Volcanic Rock Salt",
-      "nameFr": "Sel gemme noscÃ©en",
+      "nameFr": "Sel gemme noscéen",
       "nameDe": "Vulkanisches Steinsalz",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "173+",
       "imageUrl": "Volcanic Rock Salt6152.png",
       "description": "The red hue of this rock salt is said to come from the volcanic soil of O'Ghomoro.",
-      "descriptionFr": "Un morceau de sel cristallisÃ© de haute qualitÃ©, rencontrÃ© surtout dans la Noscea.",
-      "descriptionDe": "Die rote FÃ¤rbung dieses Steinsalzklumpens kommt angeblich durch die vulkanische Erde von O'Ghomoro zustande."
+      "descriptionFr": "Un morceau de sel cristallisé de haute qualité, rencontré surtout dans la Noscea.",
+      "descriptionDe": "Die rote Färbung dieses Steinsalzklumpens kommt angeblich durch die vulkanische Erde von O'Ghomoro zustande."
     },
     {
       "id": "28",
@@ -404,7 +404,7 @@
       "imageUrl": "Raw Ruby5146.png",
       "description": "An uncut, unpolished stone containing what appears to be ruby.",
       "descriptionFr": "Une pierre brute qui semble contenir un rubis.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Rubin-Einschluss."
+      "descriptionDe": "Ein ungeschliffener Stein mit Rubin-Einschluss."
     },
     {
       "id": "29",
@@ -418,21 +418,21 @@
       "imageUrl": "Raw Sapphire5151.png",
       "description": "An uncut, unpolished stone containing what appears to be sapphire.",
       "descriptionFr": "Une pierre brute qui semble contenir un saphir.",
-      "descriptionDe": "Ein un\u0003geschlif\u0003fener Stein mit Saphir-Einschluss."
+      "descriptionDe": "Ein ungeschliffener Stein mit Saphir-Einschluss."
     },
     {
       "id": "30",
       "slot": 8,
       "name": "Grade 3 La Noscean Topsoil",
-      "nameFr": "Terreau noscÃ©en III",
+      "nameFr": "Terreau noscéen III",
       "nameDe": "La Noscea-Humus III",
       "level": "50*",
       "gatheringSkill": "55",
       "perception": "",
       "imageUrl": "Grade 3 La Noscean Topsoil7760.png",
       "description": "Grade 3 topsoil obtained in the La Noscean region. Increases the likelihood that plants will yield higher quality crops.",
-      "descriptionFr": "Du terreau de grade III provenant de la Noscea. \u0003[AmÃ©liore les chances d'obtenir des objets de haute qualitÃ© lors du jardinage.]",
-      "descriptionDe": "Aus La Noscea stammender Humus der GÃ¼teklasse 3. Verbessert potenziell die QualitÃ¤t von Gartenerzeugnissen."
+      "descriptionFr": "Du terreau de grade III provenant de la Noscea. [Améliore les chances d'obtenir des objets de haute qualité lors du jardinage.]",
+      "descriptionDe": "Aus La Noscea stammender Humus der Güteklasse 3. Verbessert potenziell die Qualität von Gartenerzeugnissen."
     },
     {
       "id": "31",
@@ -445,21 +445,21 @@
       "perception": "320+",
       "imageUrl": "Astral Rock5158.png",
       "description": "An uncut, unpolished stone imbued with an unbalanced elemental aspect tipping towards astral.",
-      "descriptionFr": "Une pierre emplie d'Ã©nergie astrale.",
-      "descriptionDe": "Ein Brocken ungeschliffenen Gesteins, das ungleichmÃ¤ÃŸig verteilte Elementarenergie enthÃ¤lt, die leicht zu Licht tendiert."
+      "descriptionFr": "Une pierre emplie d'énergie astrale.",
+      "descriptionDe": "Ein Brocken ungeschliffenen Gesteins, das ungleichmäßig verteilte Elementarenergie enthält, die leicht zu Licht tendiert."
     },
     {
       "id": "32",
       "slot": 4,
       "name": "Silkworm Cocoon",
-      "nameFr": "Cocon de vers Ã  soie",
+      "nameFr": "Cocon de vers à soie",
       "nameDe": "Kokon",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "320+",
       "imageUrl": "Silkworm Cocoon5350.png",
       "description": "The lightweight cocoon of the elusive silkworm.",
-      "descriptionFr": "Le cocon soyeux d'un vers Ã  soie.",
+      "descriptionFr": "Le cocon soyeux d'un vers à soie.",
       "descriptionDe": "Ein Kokon aus dem Faden der Seidenraupe."
     },
     {
@@ -473,50 +473,50 @@
       "perception": "322+",
       "imageUrl": "Fragrant Log7611.png",
       "description": "A pleasant-smelling log obtained in the Black Shroud.",
-      "descriptionFr": "Un rondin au doux parfum obtenu dans la forÃªt de Sombrelinceul.",
+      "descriptionFr": "Un rondin au doux parfum obtenu dans la forêt de Sombrelinceul.",
       "descriptionDe": "Frisch duftendes Holz aus dem Finsterwald."
     },
     {
       "id": "34",
       "slot": 6,
       "name": "Shroud Tea Leaves",
-      "nameFr": "Feuilles de thÃ© de Tinolqa",
-      "nameDe": "Gridanische TeeblÃ¤tter",
+      "nameFr": "Feuilles de thé de Tinolqa",
+      "nameDe": "Gridanische Teeblätter",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Shroud Tea Leaves7591.png",
       "description": "Picked from plants that grow wild in the Black Shroud, these leaves are extremely bitter and are not ideal for brewing tea.",
-      "descriptionFr": "Cueillies sur des arbustes sauvages de la forÃªt de Sombrelinceul, ces feuilles sont extrÃªmement amÃ¨res et peu adaptÃ©es Ã  la prÃ©paration de thÃ©.",
-      "descriptionDe": "BlÃ¤tter von Pflanzen, die im Finsterwald wachsen. Tee daraus hat ein sehr bitteres Aroma."
+      "descriptionFr": "Cueillies sur des arbustes sauvages de la forêt de Sombrelinceul, ces feuilles sont extrêmement amères et peu adaptées à la préparation de thé.",
+      "descriptionDe": "Blätter von Pflanzen, die im Finsterwald wachsen. Tee daraus hat ein sehr bitteres Aroma."
     },
     {
       "id": "35",
       "slot": 4,
       "name": "Scarlet Sap",
-      "nameFr": "SÃ¨ve Ã©carlate",
+      "nameFr": "Sève écarlate",
       "nameDe": "Rotharz",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "193+",
       "imageUrl": "Scarlet Sap7590.png",
       "description": "Its color reminiscent of blood, this sap is used in the working of aged lumber.",
-      "descriptionFr": "D'une couleur semblable Ã  celle du sang, cette sÃ¨ve est utilisÃ©e pour le travail du bois ancien.",
+      "descriptionFr": "D'une couleur semblable à celle du sang, cette sève est utilisée pour le travail du bois ancien.",
       "descriptionDe": "Dieses blutrote Harz wird verwendet, um altes Holz aufzuarbeiten."
     },
     {
       "id": "36",
       "slot": 6,
       "name": "Ebony Log",
-      "nameFr": "Rondin d'Ã©bÃ¨ne",
+      "nameFr": "Rondin d'ébène",
       "nameDe": "Ebenholz-Holzscheit",
       "level": "50***",
       "gatheringSkill": "80",
       "perception": "420+",
       "imageUrl": "Ebony Log5394.png",
       "description": "A rough-cut log of ebony timber.",
-      "descriptionFr": "Un imposant rondin d'Ã©bÃ¨ne brut.",
-      "descriptionDe": "Ein abgehacktes StÃ¼ck Ebenholz."
+      "descriptionFr": "Un imposant rondin d'ébène brut.",
+      "descriptionDe": "Ein abgehacktes Stück Ebenholz."
     },
     {
       "id": "37",
@@ -530,7 +530,7 @@
       "imageUrl": "Trillium5545.png",
       "description": "A beautiful, white, tripetaloid flower.",
       "descriptionFr": "Une ravissante fleur de trillium.",
-      "descriptionDe": "Eine wunderhÃ¼bsche, schneeweiÃŸe und dreiblÃ¤ttrige Blume."
+      "descriptionDe": "Eine wunderhübsche, schneeweiße und dreiblättrige Blume."
     },
     {
       "id": "38",
@@ -543,7 +543,7 @@
       "perception": "",
       "imageUrl": "Honey Lemon Seeds7733.png",
       "description": "Honey lemon seeds suitable for garden cultivation.",
-      "descriptionFr": "Ces graines servent Ã  faire pousser des citronniers miel.",
+      "descriptionFr": "Ces graines servent à faire pousser des citronniers miel.",
       "descriptionDe": "Zur Anpflanzung in einem Beet."
     },
     {
@@ -556,23 +556,23 @@
       "gatheringSkill": "51",
       "perception": "320+",
       "imageUrl": "Honey Lemon6147.png",
-      "description": "This rare type of lemon native to the continent of Othard is so sweet, it can be eaten raw.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Cette variÃ©tÃ© rare de citron au goÃ»t acide pousse dans les terres proche-orientales. Il est lÃ©gÃ¨rement sucrÃ©.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Diese seltene Zitronenart kommt von dem Kontinent Othard und ist so sÃ¼ÃŸ, dass man sie direkt so essen kann.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "This rare type of lemon native to the continent of Othard is so sweet, it can be eaten raw.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Cette variété rare de citron au goût acide pousse dans les terres proche-orientales. Il est légèrement sucré.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Diese seltene Zitronenart kommt von dem Kontinent Othard und ist so süß, dass man sie direkt so essen kann.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "40",
       "slot": 6,
       "name": "Young Cieldalaes Spinach",
-      "nameFr": "Jeunes Ã©pinards des Cieldalaes",
-      "nameDe": "Junger CiedalÃ¤en-Spinat",
+      "nameFr": "Jeunes épinards des Cieldalaes",
+      "nameDe": "Junger Ciedaläen-Spinat",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Young Cieldalaes Spinach7594.png",
       "description": "This bunch of Cieldalaes spinach has been picked young to reduce bitterness.",
-      "descriptionFr": "This bunch of Cieldalaes spinach has been picked young to reduce bitterness.",
-      "descriptionDe": "Diese Spinatsorte wird in einem frÃ¼hen Wachstumsstadium gepflÃ¼ckt. Die BlÃ¤tter sind dann noch nicht so bitter."
+      "descriptionFr": "Une plante rare des îles Cieldalaes, goûteuse car peu amère. [Matériau d'artisanat]",
+      "descriptionDe": "Diese Spinatsorte wird in einem frühen Wachstumsstadium gepflückt. Die Blätter sind dann noch nicht so bitter."
     },
     {
       "id": "41",
@@ -585,7 +585,7 @@
       "perception": "389+",
       "imageUrl": "Redolent Log8031.png",
       "description": "An unforgettably pleasant-smelling log obtained in the Black Shroud.",
-      "descriptionFr": "Un rondin au parfum fort obtenu dans la forÃªt de Sombrelinceul.",
+      "descriptionFr": "Un rondin au parfum fort obtenu dans la forêt de Sombrelinceul.",
       "descriptionDe": "Besonders edel duftendes Holz aus dem Finsterwald."
     },
     {
@@ -598,9 +598,9 @@
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Blood Orange7595.png",
-      "description": "A rare variety of orange grown in La Noscea, named for its unusual red flesh.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Une variÃ©tÃ© d'orange provenant de la Noscea. Elle tire son nom de sa chair d'un rouge profond.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Eine seltene Orangensorte aus La Noscea. Ihren Namen verdankt sie ihrem roten Fruchtfleisch. GewÃ¤hrt einen Routine-Bonus von 3 %.\u0003Wirkungsdauer: 30 Minuten"
+      "description": "A rare variety of orange grown in La Noscea, named for its unusual red flesh.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Une variété d'orange provenant de la Noscea. Elle tire son nom de sa chair d'un rouge profond.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Eine seltene Orangensorte aus La Noscea. Ihren Namen verdankt sie ihrem roten Fruchtfleisch. Gewährt einen Routine-Bonus von 3 %.Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "43",
@@ -613,22 +613,22 @@
       "perception": "389+",
       "imageUrl": "Bamboo Stick5365.png",
       "description": "A cut and dried piece of thick bamboo.",
-      "descriptionFr": "Une solide tige de bambou sÃ©chÃ©e.",
-      "descriptionDe": "Ein zugeschnittenes StÃ¼ck Bambusholz."
+      "descriptionFr": "Une solide tige de bambou séchée.",
+      "descriptionDe": "Ein zugeschnittenes Stück Bambusholz."
     },
     {
       "id": "44",
       "slot": 6,
       "name": "La Noscean Leek",
-      "nameFr": "Poireau noscÃ©en",
+      "nameFr": "Poireau noscéen",
       "nameDe": "La Noscea-Porree",
       "level": "50**",
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "La Noscean Leek7593.png",
       "description": "A rare variety of leek, typically harvested young for a milder flavor.",
-      "descriptionFr": "Une variÃ©tÃ© rare de poireaux que l'on rÃ©colte jeunes, car ils sont plus doux.",
-      "descriptionDe": "Eine seltene Porree-Art, die jung gepflÃ¼ckt wird."
+      "descriptionFr": "Une variété rare de poireaux que l'on récolte jeunes, car ils sont plus doux.",
+      "descriptionDe": "Eine seltene Porree-Art, die jung gepflückt wird."
     },
     {
       "id": "45",
@@ -641,8 +641,8 @@
       "perception": "",
       "imageUrl": "Waterfowl Feather8024.png",
       "description": "Unlike those of tree-dwelling cloudkin, waterfowl feathers are exceptional at trapping in heat while keeping out water.",
-      "descriptionFr": "Une plume provenant d'un oiseau aquatique et ayant pour qualitÃ© de conserver la chaleur.",
-      "descriptionDe": "Die Feder eines Wasservogels ist wasserabweisend und isoliert gegen KÃ¤lte."
+      "descriptionFr": "Une plume provenant d'un oiseau aquatique et ayant pour qualité de conserver la chaleur.",
+      "descriptionDe": "Die Feder eines Wasservogels ist wasserabweisend und isoliert gegen Kälte."
     },
     {
       "id": "46",
@@ -654,65 +654,65 @@
       "gatheringSkill": "70",
       "perception": "389+",
       "imageUrl": "Apricot7592.png",
-      "description": "A variety of stone fruit borne over from the Near East. Its orange flesh is at once sweet and tart.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Une espÃ¨ce de fruit Ã  noyau originaire du Proche-Orient. Sa chair orange est Ã  la fois sucrÃ©e et acide.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Eine Steinfrucht aus dem Nahen Osten, deren oranges Fruchtfleisch erfrischend sÃ¼ÃŸ ist. GewÃ¤hrt einen Routine-Bonus von 3 %.\u0003Dauer: 30 Minuten"
+      "description": "A variety of stone fruit borne over from the Near East. Its orange flesh is at once sweet and tart.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Une espèce de fruit à noyau originaire du Proche-Orient. Sa chair orange est à la fois sucrée et acide.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Eine Steinfrucht aus dem Nahen Osten, deren oranges Fruchtfleisch erfrischend süß ist. Gewährt einen Routine-Bonus von 3 %.Dauer: 30 Minuten"
     },
     {
       "id": "47",
       "slot": 6,
       "name": "Spruce Log",
-      "nameFr": "Rondin d'Ã©picÃ©a",
+      "nameFr": "Rondin d'épicéa",
       "nameDe": "Fichten-Holzscheit",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "173+",
       "imageUrl": "Spruce Log5395.png",
       "description": "A rough-cut log of spruce timber.",
-      "descriptionFr": "Un imposant rondin d'Ã©picÃ©a brut.",
-      "descriptionDe": "Ein abgehacktes StÃ¼ck Fichtenholz."
+      "descriptionFr": "Un imposant rondin d'épicéa brut.",
+      "descriptionDe": "Ein abgehacktes Stück Fichtenholz."
     },
     {
       "id": "48",
       "slot": 1,
       "name": "Prickly Pineapple Seeds",
-      "nameFr": "Graines d'ananas Ã©pineux",
+      "nameFr": "Graines d'ananas épineux",
       "nameDe": "Ananassamen",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "",
       "imageUrl": "Prickly Pineapple Seeds7734.png",
       "description": "Prickly pineapple seeds suitable for garden cultivation.",
-      "descriptionFr": "Ces graines servent Ã  faire pousser des ananas Ã©pineux.",
+      "descriptionFr": "Ces graines servent à faire pousser des ananas épineux.",
       "descriptionDe": "Zur Anpflanzung in einem Beet."
     },
     {
       "id": "49",
       "slot": 4,
       "name": "Prickly Pineapple",
-      "nameFr": "Ananas Ã©pineux",
+      "nameFr": "Ananas épineux",
       "nameDe": "Ananas",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "320+",
       "imageUrl": "Prickly Pineapple4816.png",
-      "description": "A sweet and tangy fruit covered in a thick, spike-laden skin.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Un fruit au goÃ»t aigre-doux originaire d'un continent situÃ© loin Ã  l'ouest d'Ã‰orzÃ©a.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Diese FrÃ¼chte sind wunderbar sÃ¼ÃŸ-sauer und stammen ursprÃ¼nglich vom neuen Kontinent.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "A sweet and tangy fruit covered in a thick, spike-laden skin.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Un fruit au goût aigre-doux originaire d'un continent situé loin à l'ouest d'Éorzéa.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Diese Früchte sind wunderbar süß-sauer und stammen ursprünglich vom neuen Kontinent.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "50",
       "slot": 6,
       "name": "Cypress Log",
-      "nameFr": "Rondin de cyprÃ¨s",
+      "nameFr": "Rondin de cyprès",
       "nameDe": "Zypressen-Bauholz",
       "level": "50***",
       "gatheringSkill": "80",
       "perception": "420+",
       "imageUrl": "Cypress Log9518.png",
       "description": "A rough-cut log of cypress timber.",
-      "descriptionFr": "Un imposant rondin de bois de cyprÃ¨s brut.",
-      "descriptionDe": "Zypressen-Holz, das fÃ¼r die Weiterverarbeitung zurechtgeschnitten wurde."
+      "descriptionFr": "Un imposant rondin de bois de cyprès brut.",
+      "descriptionDe": "Zypressen-Holz, das für die Weiterverarbeitung zurechtgeschnitten wurde."
     },
     {
       "id": "51",
@@ -725,8 +725,8 @@
       "perception": "320+",
       "imageUrl": "Vampire Plant5547.png",
       "description": "This rare variety of parasitic plant is known to suck the lifeblood from all flora with which it comes in contact.",
-      "descriptionFr": "Une plante qui se dÃ©veloppe aux dÃ©pens de l'arbre qui lui sert d'hÃ´te. Son mode de vie lui a valu son nom sinistre, par association avec les vampires suceurs de sang.",
-      "descriptionDe": "Diese seltene Unterart einer parasitÃ¤ren Pflanze ist dafÃ¼r bekannt, die gesamte Lebensenergie aus der Flora zu saugen, mit der sie in Kontakt kommt."
+      "descriptionFr": "Une plante qui se développe aux dépens de l'arbre qui lui sert d'hôte. Son mode de vie lui a valu son nom sinistre, par association avec les vampires suceurs de sang.",
+      "descriptionDe": "Diese seltene Unterart einer parasitären Pflanze ist dafür bekannt, die gesamte Lebensenergie aus der Flora zu saugen, mit der sie in Kontakt kommt."
     },
     {
       "id": "52",
@@ -739,21 +739,21 @@
       "perception": "",
       "imageUrl": "Mazlaya Greens10098.png",
       "description": "Once found growing all across the island of Mazlaya, this bright-green plant was almost completely wiped out when chocobos brought to the island by farmers devoured nearly every one they could find.",
-      "descriptionFr": "Les chocobos de course raffolent de ce lÃ©gume rare.",
-      "descriptionDe": "Einst weit verbreitet auf der Insel Mazlaya, wÃ¤ren diese leicht klebrigen Sprossen beinah gÃ¤nzlich von den Arbeits-Chocobos der dort ansÃ¤ssigen Bauern verschlungen worden."
+      "descriptionFr": "Les chocobos de course raffolent de ce légume rare.",
+      "descriptionDe": "Einst weit verbreitet auf der Insel Mazlaya, wären diese leicht klebrigen Sprossen beinah gänzlich von den Arbeits-Chocobos der dort ansässigen Bauern verschlungen worden."
     },
     {
       "id": "53",
       "slot": 7,
       "name": "Black Truffle",
       "nameFr": "Truffe noire",
-      "nameDe": "Schwarze TrÃ¼ffel",
+      "nameDe": "Schwarze Trüffel",
       "level": "50*",
       "gatheringSkill": "51",
       "perception": "320+",
       "imageUrl": "Black Truffle4800.png",
       "description": "A rare black mushroom that grows in the soil, rather than above it, making the specimen almost impossible to locate. It is treasured as a delicacy for its unique aroma.",
-      "descriptionFr": "Un champignon comestible de couleur noire trÃ¨s odorant, poussant dans le sol.",
+      "descriptionFr": "Un champignon comestible de couleur noire très odorant, poussant dans le sol.",
       "descriptionDe": "Diese aromatischen Pilze wachsen in der Erde."
     },
     {
@@ -767,7 +767,7 @@
       "perception": "",
       "imageUrl": "Dzemael Tomato Seeds7724.png",
       "description": "Dzemael tomato seeds suitable for garden cultivation.",
-      "descriptionFr": "Ces graines servent Ã  faire pousser des tomates Dzemael.",
+      "descriptionFr": "Ces graines servent à faire pousser des tomates Dzemael.",
       "descriptionDe": "Zur Anpflanzung in einem Beet."
     },
     {
@@ -781,8 +781,8 @@
       "perception": "320+",
       "imageUrl": "Dzemael Tomato6148.png",
       "description": "A rare crossbreed of ruby tomato developed and perfected by House Dzemael botanists.",
-      "descriptionFr": "Cette rare variÃ©tÃ© de tomate par\u0003ti\u0003cu\u0003liÃ¨\u0003rement goÃ»teuse a Ã©tÃ© obtenue par amÃ©lioration de l'espÃ¨ce. C'est un moine originaire de la maison Dzemael qui l'a mise au point.",
-      "descriptionDe": "Eine seltene Abart von Rubintomaten. GezÃ¼chtet und perfektioniert von GÃ¤rtnern des Hauses Dzemael."
+      "descriptionFr": "Cette rare variété de tomate particulièrement goûteuse a été obtenue par amélioration de l'espèce. C'est un moine originaire de la maison Dzemael qui l'a mise au point.",
+      "descriptionDe": "Eine seltene Abart von Rubintomaten. Gezüchtet und perfektioniert von Gärtnern des Hauses Dzemael."
     },
     {
       "id": "56",
@@ -795,8 +795,8 @@
       "perception": "450+",
       "imageUrl": "Rosemary10096.png",
       "description": "A savory herb treasured for its ability to enhance focus and concentration.",
-      "descriptionFr": "Une herbe savoureuse prisÃ©e pour sa capacitÃ© Ã  amÃ©liorer la con\u0003cen\u0003tra\u0003tion.",
-      "descriptionDe": "Ein pikantes GewÃ¼rz, das angeblich die Konzentration verbessern kann."
+      "descriptionFr": "Une herbe savoureuse prisée pour sa capacité à améliorer la concentration.",
+      "descriptionDe": "Ein pikantes Gewürz, das angeblich die Konzentration verbessern kann."
     },
     {
       "id": "57",
@@ -808,9 +808,9 @@
       "gatheringSkill": "51",
       "perception": "320+",
       "imageUrl": "Thavnairian Mistletoe5537.png",
-      "description": "A variety of parasitic plant that is commonly found growing on the stout acacia trees of Thavnair. The inhabitants of Thavnair's capital city of Radz\u0003at\u0003Han have a strange custom that states if two p",
-      "descriptionFr": "Une plante qui se dÃ©veloppe aux dÃ©pens de l'arbre qui lui sert d'hÃ´te, et qui pousse dans l'Ã®le proche-orientale de Thavnair.",
-      "descriptionDe": "Eine Variante einer parasitÃ¤ren Pflanze, die hÃ¤ufig an den strammen Akazien in Thavnair vorkommt. Die Bewohner von Thavnairs Hauptstadt Radz-at-Han haben einen seltsamen Brauch, demzufolge zwei Leu"
+      "description": "A variety of parasitic plant that is commonly found growing on the stout acacia trees of Thavnair. The inhabitants of Thavnair's capital city of RadzatHan have a strange custom that states if two p",
+      "descriptionFr": "Une plante qui se développe aux dépens de l'arbre qui lui sert d'hôte, et qui pousse dans l'île proche-orientale de Thavnair.",
+      "descriptionDe": "Eine Variante einer parasitären Pflanze, die häufig an den strammen Akazien in Thavnair vorkommt. Die Bewohner von Thavnairs Hauptstadt Radz-at-Han haben einen seltsamen Brauch, demzufolge zwei Leu"
     },
     {
       "id": "58",
@@ -822,9 +822,9 @@
       "gatheringSkill": "51",
       "perception": "",
       "imageUrl": "Kidragora6209.png",
-      "description": "Even in space, everyone can hear this seedkin scream.\u0003\u0003Use item to acquire the kidragora minion.",
-      "descriptionFr": "[Mascotte]\u0003MalgrÃ© sa taille rÃ©duite, cette mandragore peut pousser des cris trÃ¨s perÃ§ants.",
-      "descriptionDe": "Selbst im Weltraum hÃ¶rt man diese Pflanze schreien.\u0003\u0003Benutze diesen Gegenstand, um die Kindragora zu rufen."
+      "description": "Even in space, everyone can hear this seedkin scream.Use item to acquire the kidragora minion.",
+      "descriptionFr": "[Mascotte]Malgré sa taille réduite, cette mandragore peut pousser des cris très perçants.",
+      "descriptionDe": "Selbst im Weltraum hört man diese Pflanze schreien.Benutze diesen Gegenstand, um die Kindragora zu rufen."
     },
     {
       "id": "59",
@@ -838,21 +838,21 @@
       "imageUrl": "Trillium Bulb5546.png",
       "description": "If planted and tended with loving care, this bulb should grow into a lovely trillium plant.",
       "descriptionFr": "Le bulbe d'une fleur de trillium.",
-      "descriptionDe": "Wird diese Knolle eingepflanzt und liebevoll gegossen, so wÃ¤chst daraus eine Waldlilie."
+      "descriptionDe": "Wird diese Knolle eingepflanzt und liebevoll gegossen, so wächst daraus eine Waldlilie."
     },
     {
       "id": "61",
       "slot": "unknown",
       "name": "Silver Sovereign",
       "nameFr": "Souverain d'argent",
-      "nameDe": "Silberner SouverÃ¤n",
+      "nameDe": "Silberner Souverän",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Silver Sovereign7690.png",
       "description": "Known also by the name of tarpon, this rare fish is said to have swum the oceans of Eorzea since the dawn of time. Lord of the waters of Oschon's Torch.",
-      "descriptionFr": "Ce poisson ancien, Ã©galement connu sous le nom de tarpon, serait le maÃ®tre des eaux prÃ¨s de la Torche d'Oschon.",
-      "descriptionDe": "Auch unter dem Namen Tarpun bekannt, soll dieser Fisch die eorzÃ¤ischen Ozeane schon seit Anbeginn der Zeit durchqueren. UneingeschrÃ¤nkter Herrscher Ã¼ber die GewÃ¤sser von Oschons Fackel."
+      "descriptionFr": "Ce poisson ancien, également connu sous le nom de tarpon, serait le maître des eaux près de la Torche d'Oschon.",
+      "descriptionDe": "Auch unter dem Namen Tarpun bekannt, soll dieser Fisch die eorzäischen Ozeane schon seit Anbeginn der Zeit durchqueren. Uneingeschränkter Herrscher über die Gewässer von Oschons Fackel."
     },
     {
       "id": "62",
@@ -870,14 +870,14 @@
       "slot": "unknown",
       "name": "Navigator's Brand",
       "nameFr": "Sabre de Llymlaen",
-      "nameDe": "KÃ¶nigsdolchfisch",
+      "nameDe": "Königsdolchfisch",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Navigator's Brand7693.png",
       "description": "A king among Navigator's daggers, and lord of the waters of the Brewer's Beacon.",
-      "descriptionFr": "Une dague de Llymlaen lÃ©gendaire que l'on dit Ãªtre le maÃ®tre des eaux prÃ¨s du phare des Brasseurs.",
-      "descriptionDe": "Auch erfahrenen Seeleuten und Fischfreunden stockt der Atem, wenn sie den KÃ¶nig der Dolchfische Ã¼ber das Meer gleiten sehen. Dieser majestÃ¤tische Kapitalfisch beansprucht ein KÃ¼stengebiet um den"
+      "descriptionFr": "Une dague de Llymlaen légendaire que l'on dit être le maître des eaux près du phare des Brasseurs.",
+      "descriptionDe": "Auch erfahrenen Seeleuten und Fischfreunden stockt der Atem, wenn sie den König der Dolchfische über das Meer gleiten sehen. Dieser majestätische Kapitalfisch beansprucht ein Küstengebiet um den"
     },
     {
       "id": "64",
@@ -890,8 +890,8 @@
       "perception": "",
       "imageUrl": "Cupfish7902.png",
       "description": "A rare freshwater fish which spends the entirety of its life hiding in locations which rarely see the light of the sun.",
-      "descriptionFr": "Un poisson d'eau douce rare qui vit dans des endroits oÃ¹ la lumiÃ¨re ne parvient pas et que l'on dit Ãªtre l'un des maÃ®tres des eaux de la Noscea.",
-      "descriptionDe": "Ein seltsamer SÃ¼ÃŸwasserfisch, der in absolut dunklen GewÃ¤ssern lebt. GehÃ¶rt zu den Kapitalfischen."
+      "descriptionFr": "Un poisson d'eau douce rare qui vit dans des endroits oÃ¹ la lumière ne parvient pas et que l'on dit être l'un des maîtres des eaux de la Noscea.",
+      "descriptionDe": "Ein seltsamer Süßwasserfisch, der in absolut dunklen Gewässern lebt. Gehört zu den Kapitalfischen."
     },
     {
       "id": "65",
@@ -922,15 +922,15 @@
       "id": "67",
       "slot": "unknown",
       "name": "Gigant Clam",
-      "nameFr": "Cocoquillage gÃ©ant",
+      "nameFr": "Cocoquillage géant",
       "nameDe": "Gigamuschel",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gigant Clam10123.png",
       "description": "An especially large giant clam. Local fisher estimates put the age of this wavekin at over five score years.",
-      "descriptionFr": "Sorte de trÃ¨s gros bivalve dont la coquille striÃ©e rappelle la forme des vagues.",
-      "descriptionDe": "Eine ungewÃ¶hnlich groÃŸe Riesenmuschel. Ã–rtliche Fischer schÃ¤tzen ihr Alter auf Ã¼ber hundert Jahre."
+      "descriptionFr": "Sorte de très gros bivalve dont la coquille striée rappelle la forme des vagues.",
+      "descriptionDe": "Eine ungewöhnlich große Riesenmuschel. Örtliche Fischer schätzen ihr Alter auf über hundert Jahre."
     },
     {
       "id": "68",
@@ -943,22 +943,22 @@
       "perception": "273+",
       "imageUrl": "Yellow Quartz5162.png",
       "description": "Several small pieces of bright-yellow unpolished quartz.",
-      "descriptionFr": "Une petite pierre de couleur dorÃ©e.",
-      "descriptionDe": "Kleine StÃ¼cke gelben Quarzes."
+      "descriptionFr": "Une petite pierre de couleur dorée.",
+      "descriptionDe": "Kleine Stücke gelben Quarzes."
     },
     {
       "id": "69",
       "slot": 6,
       "name": "Green Quartz",
       "nameFr": "Quartz vert",
-      "nameDe": "GrÃ¼ner Quarz",
+      "nameDe": "Grüner Quarz",
       "level": "55",
       "gatheringSkill": "136",
       "perception": "351+",
       "imageUrl": "Green Quartz5161.png",
       "description": "Several small pieces of deep green unpolished quartz.",
       "descriptionFr": "Une petite pierre de couleur verte.",
-      "descriptionDe": "Kleine StÃ¼cke grÃ¼nen Quarzes."
+      "descriptionDe": "Kleine Stücke grünen Quarzes."
     },
     {
       "id": "70",
@@ -972,21 +972,21 @@
       "imageUrl": "Cuprite12942.png",
       "description": "Though its appearance suggests it is a precious gem, this ore is actually a rare form of red translucent copper.",
       "descriptionFr": "Un morceau de minerai contenant du cuivre.",
-      "descriptionDe": "Obwohl dieses Erz wie ein wertvoller Edelstein aussieht, handelt es sich doch bloÃŸ um eine seltene Form von durchsichtigem roten Kupfer."
+      "descriptionDe": "Obwohl dieses Erz wie ein wertvoller Edelstein aussieht, handelt es sich doch bloß um eine seltene Form von durchsichtigem roten Kupfer."
     },
     {
       "id": "71",
       "slot": 3,
       "name": "Light Kidney Ore",
-      "nameFr": "Minerai d'hÃ©matite",
-      "nameDe": "HÃ¤matit",
+      "nameFr": "Minerai d'hématite",
+      "nameDe": "Hämatit",
       "level": "57",
       "gatheringSkill": "142",
       "perception": "493+",
       "imageUrl": "Light Kidney Ore5117.png",
       "description": "A reddish ore containing large quantities of iron. Its wide availability makes it optimal for smelting in locations where purer forms of iron ore are difficult to procure, such as militia forges. Thi",
-      "descriptionFr": "Ce minÃ©ral composÃ© d'oxyde de fer est idÃ©al pour la fonte et l'affinage.",
-      "descriptionDe": "Dieses fast schwarze Mineral glÃ¤nzt poliert in dunklem Silber und kann wegen seines hohen Eisengehalts zur Gewinnung von weichem Eisen dienen."
+      "descriptionFr": "Ce minéral composé d'oxyde de fer est idéal pour la fonte et l'affinage.",
+      "descriptionDe": "Dieses fast schwarze Mineral glänzt poliert in dunklem Silber und kann wegen seines hohen Eisengehalts zur Gewinnung von weichem Eisen dienen."
     },
     {
       "id": "72",
@@ -999,8 +999,8 @@
       "perception": "645+",
       "imageUrl": "Astral Moraine5226.png",
       "description": "Gravel with an unbalanced elemental aspect tipping towards astral.",
-      "descriptionFr": "Un petit caillou empli d'Ã©nergie astrale.",
-      "descriptionDe": "Kies mit ungleichmÃ¤ÃŸig verteilter Elementarenergie, die leicht zu Licht tendiert."
+      "descriptionFr": "Un petit caillou empli d'énergie astrale.",
+      "descriptionDe": "Kies mit ungleichmäßig verteilter Elementarenergie, die leicht zu Licht tendiert."
     },
     {
       "id": "77",
@@ -1014,35 +1014,35 @@
       "imageUrl": "Violet Quartz5163.png",
       "description": "Several small pieces of deep purple unpolished quartz.",
       "descriptionFr": "Une petite pierre de couleur violette.",
-      "descriptionDe": "Kleine StÃ¼cke violetten Quarzes."
+      "descriptionDe": "Kleine Stücke violetten Quarzes."
     },
     {
       "id": "73",
       "slot": 6,
       "name": "Aurum Regis Ore",
       "nameFr": "Minerai d'aurum regis",
-      "nameDe": "KÃ¶nigsgold-Erz",
+      "nameDe": "Königsgold-Erz",
       "level": "60*",
       "gatheringSkill": "180",
       "perception": "645+",
       "imageUrl": "Aurum Regis Ore12536.png",
       "description": "A decent-sized piece of rock containing the rare metal aurum regis.",
       "descriptionFr": "Un morceau de minerai contenant de l'aurum regis.",
-      "descriptionDe": "Ein Erzklumpen mit hohem KÃ¶nigsgold-Gehalt."
+      "descriptionDe": "Ein Erzklumpen mit hohem Königsgold-Gehalt."
     },
     {
       "id": "74",
       "slot": 2,
       "name": "Sun Mica",
-      "nameFr": "Mica dorÃ©",
+      "nameFr": "Mica doré",
       "nameDe": "Sonnenglimmer",
       "level": "60*",
       "gatheringSkill": "180",
       "perception": "645+",
       "imageUrl": "Sun Mica12540.png",
       "description": "A decent-sized chunk of rock made up of what appears to be thousands of thin sheets of golden crystal compacted together into a single mass.",
-      "descriptionFr": "Un cristal qui contient un petit morceau de mica dorÃ©.",
-      "descriptionDe": "Ein ordentlicher Gesteinsbrocken, der aus tausenden von dÃ¼nnen Schichten eines goldenen Kristalls zu bestehen scheint."
+      "descriptionFr": "Un cristal qui contient un petit morceau de mica doré.",
+      "descriptionDe": "Ein ordentlicher Gesteinsbrocken, der aus tausenden von dünnen Schichten eines goldenen Kristalls zu bestehen scheint."
     },
     {
       "id": "75",
@@ -1056,7 +1056,7 @@
       "imageUrl": "Blue Quartz5160.png",
       "description": "Several small pieces of deep blue unpolished quartz.",
       "descriptionFr": "Une petite pierre de couleur bleue.",
-      "descriptionDe": "Kleine StÃ¼cke blauen Quarzes."
+      "descriptionDe": "Kleine Stücke blauen Quarzes."
     },
     {
       "id": "76",
@@ -1070,7 +1070,7 @@
       "imageUrl": "Red Alumen12945.png",
       "description": "A reddish variety of the mineral used by leatherworkers to tan animal hides. It lacks the deodorizing properties of its lighter counterpart.",
       "descriptionFr": "De la poudre de cristal d'alun de couleur rouge qu'on utilise en tannerie.",
-      "descriptionDe": "Eine rÃ¶tliche Variante des Gesteins, das Gerber zum Bearbeiten von TierhÃ¤uten verwenden. Ihr fehlen jedoch die geruchsbeseitigenden Eigenschaften."
+      "descriptionDe": "Eine rötliche Variante des Gesteins, das Gerber zum Bearbeiten von Tierhäuten verwenden. Ihr fehlen jedoch die geruchsbeseitigenden Eigenschaften."
     },
     {
       "id": "78",
@@ -1084,7 +1084,7 @@
       "imageUrl": "Chalcocite12941.png",
       "description": "A black metallic ore containing copper and traces of iron and saltpeter.",
       "descriptionFr": "Un morceau de minerai contenant du cuivre, du fer et du soufre.",
-      "descriptionDe": "Ein metallic schwarzes Erz, das Kupfer und Spuren von Eisen und Salpeter enthÃ¤lt."
+      "descriptionDe": "Ein metallic schwarzes Erz, das Kupfer und Spuren von Eisen und Salpeter enthält."
     },
     {
       "id": "79",
@@ -1105,14 +1105,14 @@
       "slot": 4,
       "name": "Limonite",
       "nameFr": "Minerai de limonite",
-      "nameDe": "Braun\u0003ei\u0003sen\u0003stein",
+      "nameDe": "Brauneisenstein",
       "level": "54",
       "gatheringSkill": "133",
       "perception": "330+",
       "imageUrl": "Limonite5112.png",
       "description": "A decent-sized piece of rock containing a small amount of oxidized iron. It is said to have deodorizing properties.",
-      "descriptionFr": "Un morceau de minerai contenant de la limonite, et qui a un effet dÃ©sodorisant.",
-      "descriptionDe": "Ein Gesteinsklumpen mit hohem Brauneisengehalt. Dieses Gestein kann allerlei GerÃ¼che neutralisieren."
+      "descriptionFr": "Un morceau de minerai contenant de la limonite, et qui a un effet désodorisant.",
+      "descriptionDe": "Ein Gesteinsklumpen mit hohem Brauneisengehalt. Dieses Gestein kann allerlei Gerüche neutralisieren."
     },
     {
       "id": "81",
@@ -1153,8 +1153,8 @@
       "perception": "353+",
       "imageUrl": "Abalathian Rock Salt12901.png",
       "description": "Mined from veins found in Abalathia's Spine, this pinkish salt has a high mineral content which adds depth to its flavor.",
-      "descriptionFr": "Du sel cristallisÃ© de saveur trÃ¨s forte qu'on trouve prin\u0003ci\u0003pa\u0003le\u0003ment Ã  Abalathia.",
-      "descriptionDe": "Ein aromatisches Salz, das vorwiegend in einem Bergwerk in Abalathias RÃ¼ckgrat gewonnen wird."
+      "descriptionFr": "Du sel cristallisé de saveur très forte qu'on trouve principalement à Abalathia.",
+      "descriptionDe": "Ein aromatisches Salz, das vorwiegend in einem Bergwerk in Abalathias Rückgrat gewonnen wird."
     },
     {
       "id": "84",
@@ -1168,7 +1168,7 @@
       "imageUrl": "Red Quartz5159.png",
       "description": "Several small pieces of deep red unpolished quartz.",
       "descriptionFr": "Une petite pierre de couleur rouge.",
-      "descriptionDe": "Kleine StÃ¼cke roten Quarzes."
+      "descriptionDe": "Kleine Stücke roten Quarzes."
     },
     {
       "id": "85",
@@ -1181,7 +1181,7 @@
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Old World fig seeds suitable for garden cultivation.",
-      "descriptionFr": "Ces graines servent Ã  faire pousser des figuiers du vieux continent.",
+      "descriptionFr": "Ces graines servent à faire pousser des figuiers du vieux continent.",
       "descriptionDe": "Zur Anpflanzung in einem Beet."
     },
     {
@@ -1194,9 +1194,9 @@
       "gatheringSkill": "80",
       "perception": "220+",
       "imageUrl": "Old World Fig12896.png",
-      "description": "A symbol of long life and femininity, this autumn fruit was originally brought from their home land to Eorzea by the Sharlayans.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Un fruit charnu d'un grand arbre. On l'appelle aussi â€œfruit de longÃ©vitÃ©â€.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Eine Frucht, die das Geheimnis ewiger Jugend enthalten soll. Es heiÃŸt, die Gelehrten aus Sharlayan hÃ¤tten sie nach Eorzea gebracht.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "A symbol of long life and femininity, this autumn fruit was originally brought from their home land to Eorzea by the Sharlayans.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Un fruit charnu d'un grand arbre. On l'appelle aussi â€œfruit de longévitéâ€.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Eine Frucht, die das Geheimnis ewiger Jugend enthalten soll. Es heißt, die Gelehrten aus Sharlayan hätten sie nach Eorzea gebracht.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "87",
@@ -1209,8 +1209,8 @@
       "perception": "645+",
       "imageUrl": "Seventh Heaven12634.png",
       "description": "A rare flower that has an elemental aspect tipped severely in the direction of astral.",
-      "descriptionFr": "Une fleur emplie d'Ã©nergie astrale.",
-      "descriptionDe": "Eine seltene Blume mit einer auÃŸer\u0003ge\u0003wÃ¶hn\u0003lich starken astralen PrÃ¤senz."
+      "descriptionFr": "Une fleur emplie d'énergie astrale.",
+      "descriptionDe": "Eine seltene Blume mit einer außergewöhnlich starken astralen Präsenz."
     },
     {
       "id": "88",
@@ -1223,8 +1223,8 @@
       "perception": "645+",
       "imageUrl": "Honeydew Almonds12902.png",
       "description": "A sweet variety of rare white almonds.",
-      "descriptionFr": "Une variÃ©tÃ© rare d'amandes de saveur trÃ¨s sucrÃ©e.",
-      "descriptionDe": "Eine seltene, honigsÃ¼ÃŸe Variante der weiÃŸen Mandel."
+      "descriptionFr": "Une variété rare d'amandes de saveur très sucrée.",
+      "descriptionDe": "Eine seltene, honigsüße Variante der weißen Mandel."
     },
     {
       "id": "89",
@@ -1237,8 +1237,8 @@
       "perception": "645+",
       "imageUrl": "Vanilla Beans4833.png",
       "description": "A sweet-smelling spice made from the dried pod of the rare vanilla plant. It is often used in the making confectionaries as well as medicines.",
-      "descriptionFr": "Le fruit d'une espÃ¨ce par\u0003ti\u0003cu\u0003liÃ¨\u0003re d'orchidÃ©e. On l'utilise en cuisine comme Ã©pice ou dans la prÃ©paration de mÃ©dicaments.",
-      "descriptionDe": "Der Inhalt dieser Schoten ist wunderbar sÃ¼ÃŸ und gibt vielen Gerichten erst die richtige Geschmacksnote."
+      "descriptionFr": "Le fruit d'une espèce particulière d'orchidée. On l'utilise en cuisine comme épice ou dans la préparation de médicaments.",
+      "descriptionDe": "Der Inhalt dieser Schoten ist wunderbar süß und gibt vielen Gerichten erst die richtige Geschmacksnote."
     },
     {
       "id": "90",
@@ -1250,9 +1250,9 @@
       "gatheringSkill": "180",
       "perception": "645+",
       "imageUrl": "Snurbleberry12904.png",
-      "description": "This sweet, yet tart red berry is covered in tiny soft hairs that can be removed by lightly rubbing the fruit between one's palms.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Une baie d'un rouge Ã©clatant couverte d'un fin duvet de minuscules poils blancs.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Diese sÃ¼ÃŸe Beere ist von rubinroter Farbe und in jedem Gericht ein Hingucker, sowie ein geschmacklicher HÃ¶hepunkt.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "This sweet, yet tart red berry is covered in tiny soft hairs that can be removed by lightly rubbing the fruit between one's palms.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Une baie d'un rouge éclatant couverte d'un fin duvet de minuscules poils blancs.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Diese süße Beere ist von rubinroter Farbe und in jedem Gericht ein Hingucker, sowie ein geschmacklicher Höhepunkt.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "91",
@@ -1265,36 +1265,36 @@
       "perception": "645+",
       "imageUrl": "Dravanian Paprika12903.png",
       "description": "A rare pepper that is more sweet than it is spicy.",
-      "descriptionFr": "Une variÃ©tÃ© rare de paprika peu amer.",
-      "descriptionDe": "Mehr sÃ¼ÃŸ als scharf ist diese Paprikasorte eine gern gesehene Zutat in der gehobenen KÃ¼che."
+      "descriptionFr": "Une variété rare de paprika peu amer.",
+      "descriptionDe": "Mehr süß als scharf ist diese Paprikasorte eine gern gesehene Zutat in der gehobenen Küche."
     },
     {
       "id": "92",
       "slot": 5,
       "name": "Wattle Bark",
-      "nameFr": "Ã‰corce d'acacia",
+      "nameFr": "Écorce d'acacia",
       "nameDe": "Akazienrinde",
       "level": "60*",
       "gatheringSkill": "180",
       "perception": "645+",
       "imageUrl": "Wattle Bark12587.png",
       "description": "This bark, when boiled down, produces large amounts of tannin?a substance used by leatherworkers to tan hides.",
-      "descriptionFr": "Cette Ã©corce sert Ã  tanner le cuir.",
-      "descriptionDe": "Diese Rinde produziert beim Einkochen eine groÃŸe Menge an Tannin - eine Substanz, die von Gerbern beim Bearbeiten von HÃ¤uten benutzt wird."
+      "descriptionFr": "Cette écorce sert à tanner le cuir.",
+      "descriptionDe": "Diese Rinde produziert beim Einkochen eine große Menge an Tannin - eine Substanz, die von Gerbern beim Bearbeiten von Häuten benutzt wird."
     },
     {
       "id": "93",
       "slot": 6,
       "name": "Chysahl Greens",
-      "nameFr": "LÃ©gumes cabus",
+      "nameFr": "Légumes cabus",
       "nameDe": "Kohlkraut",
       "level": "60",
       "gatheringSkill": "150",
       "perception": "565",
       "imageUrl": "Chysahl Greens12900.png",
       "description": "Though nearly identical in shape and color to gysahl greens, chysahl greens have a deeper, earthier flavor that chocobos (and man) seem to prefer.",
-      "descriptionFr": "Un lÃ©gume-feuille originaire du Coerthas, proche du lÃ©gume de Gysahl.",
-      "descriptionDe": "Das Gizar-Kraut soll durch AuslesezÃ¼chtung des wild wachsenden Kohlkrautes entstanden sein."
+      "descriptionFr": "Un légume-feuille originaire du Coerthas, proche du légume de Gysahl.",
+      "descriptionDe": "Das Gizar-Kraut soll durch Auslesezüchtung des wild wachsenden Kohlkrautes entstanden sein."
     },
     {
       "id": "94",
@@ -1307,8 +1307,8 @@
       "perception": "",
       "imageUrl": "Chives12884.png",
       "description": "A thin green onion used in many Ishgardian dishes.",
-      "descriptionFr": "Une plante aromatique Ã  longues feuilles fines originaire de la rÃ©gion du Coerthas.",
-      "descriptionDe": "Ein dÃ¼nnes und lÃ¤ngliches BlattgemÃ¼se, das in Coerthas angebaut und in vielen Ishgarder Gerichten verwendet wird."
+      "descriptionFr": "Une plante aromatique à longues feuilles fines originaire de la région du Coerthas.",
+      "descriptionDe": "Ein dünnes und längliches Blattgemüse, das in Coerthas angebaut und in vielen Ishgarder Gerichten verwendet wird."
     },
     {
       "id": "95",
@@ -1324,14 +1324,14 @@
       "id": "96",
       "slot": 3,
       "name": "Coerthan Tea Seeds",
-      "nameFr": "Graines de thÃ©ier du Coerthas",
+      "nameFr": "Graines de théier du Coerthas",
       "nameDe": "Coerthische Teesamen",
       "level": "",
       "gatheringSkill": "53",
       "perception": "",
       "imageUrl": "Coerthan Tea Seeds13768.png",
       "description": "Coerthan tea seeds suitable for garden cultivation.",
-      "descriptionFr": "Ces graines servent Ã  faire pousser des thÃ©iers du Coerthas.",
+      "descriptionFr": "Ces graines servent à faire pousser des théiers du Coerthas.",
       "descriptionDe": "Zur Anpflanzung in einem Beet."
     },
     {
@@ -1339,42 +1339,42 @@
       "slot": 6,
       "name": "Pearl Sprouts",
       "nameFr": "Chou-bourgeon",
-      "nameDe": "KohlsprÃ¶sschen",
+      "nameDe": "Kohlsprösschen",
       "level": "52",
       "gatheringSkill": "125",
       "perception": "273+",
       "imageUrl": "Pearl Sprouts12877.png",
       "description": "Tiny cabbage-like vegetables native to the highlands of Coerthas.",
-      "descriptionFr": "Une variÃ©tÃ© de chou pommÃ© de petite taille originaire du Coerthas.",
-      "descriptionDe": "Ein typisches GemÃ¼se aus Coerthas, dessen RÃ¶schen aus jedem Winkel, ob ganz oder aufgeschnitten, wie winzige KohlkÃ¶pfe aussehen."
+      "descriptionFr": "Une variété de chou pommé de petite taille originaire du Coerthas.",
+      "descriptionDe": "Ein typisches Gemüse aus Coerthas, dessen Röschen aus jedem Winkel, ob ganz oder aufgeschnitten, wie winzige Kohlköpfe aussehen."
     },
     {
       "id": "98",
       "slot": 7,
       "name": "Coerthan Tea Leaves",
-      "nameFr": "Feuilles de thÃ© du Coerthas",
-      "nameDe": "Coerthische TeeblÃ¤tter",
+      "nameFr": "Feuilles de thé du Coerthas",
+      "nameDe": "Coerthische Teeblätter",
       "level": "53",
       "gatheringSkill": "130",
       "perception": "321+",
       "imageUrl": "Coerthan Tea Leaves12882.png",
       "description": "Considerably smaller than Thanalan tea leaves, more than double the amount of Ishgardian tea leaves are required to brew a single cup of tea.",
-      "descriptionFr": "Des feuilles de thÃ© cultivÃ©es dans la rÃ©gion du Coerthas.",
-      "descriptionDe": "Getrocknete TeeblÃ¤tter aus dem Coerthischen Hochland, die dem Ishgarder Tee seinen typischen Geschmack verleihen."
+      "descriptionFr": "Des feuilles de thé cultivées dans la région du Coerthas.",
+      "descriptionDe": "Getrocknete Teeblätter aus dem Coerthischen Hochland, die dem Ishgarder Tee seinen typischen Geschmack verleihen."
     },
     {
       "id": "99",
       "slot": 2,
       "name": "Heavens Lemon",
-      "nameFr": "Citron cÃ©leste",
+      "nameFr": "Citron céleste",
       "nameDe": "Himmelszitrone",
       "level": "56",
       "gatheringSkill": "139",
       "perception": "353+",
       "imageUrl": "Heavens Lemon12889.png",
-      "description": "Possibly due to the increased sunlight it receives growing above the clouds, heavens lemons lack the acidity of normal sun lemons.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Une variÃ©tÃ© de citron Ã  la saveur relativement peu acide.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "FÃ¼r eine Zitrone hat dieses Obst eine angenehm milde SÃ¤ure.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "Possibly due to the increased sunlight it receives growing above the clouds, heavens lemons lack the acidity of normal sun lemons.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Une variété de citron à la saveur relativement peu acide.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Für eine Zitrone hat dieses Obst eine angenehm milde Säure.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "100",
@@ -1387,8 +1387,8 @@
       "perception": "371+",
       "imageUrl": "Abalathian Mistletoe12944.png",
       "description": "A variety of parasitic plant found growing on trees in the Sea of Clouds.",
-      "descriptionFr": "Une plante qui se dÃ©veloppe aux dÃ©pens de l'arbre qui lui sert d'hÃ´te. On trouve cette variÃ©tÃ© Ã  l'Ã‰cume des cieux d'Abalathia.",
-      "descriptionDe": "Eine Schmarotzerpflanze, die an BÃ¤umen im Abalathischen Wolkenmeer wÃ¤chst."
+      "descriptionFr": "Une plante qui se développe aux dépens de l'arbre qui lui sert d'hôte. On trouve cette variété à l'Écume des cieux d'Abalathia.",
+      "descriptionDe": "Eine Schmarotzerpflanze, die an Bäumen im Abalathischen Wolkenmeer wächst."
     },
     {
       "id": "101",
@@ -1401,8 +1401,8 @@
       "perception": "330+",
       "imageUrl": "Dravanian Mistletoe12943.png",
       "description": "A variety of parasitic plant found growing on trees in the Churning Mists.",
-      "descriptionFr": "Une plante qui se dÃ©veloppe aux dÃ©pens de l'arbre qui lui sert d'hÃ´te. On trouve cette variÃ©tÃ© Ã  l'Ã‰cume des cieux de Dravania.",
-      "descriptionDe": "Eine Schmarotzerpflanze, die an BÃ¤umen in den Wallenden Nebeln wÃ¤chst."
+      "descriptionFr": "Une plante qui se développe aux dépens de l'arbre qui lui sert d'hôte. On trouve cette variété à l'Écume des cieux de Dravania.",
+      "descriptionDe": "Eine Schmarotzerpflanze, die an Bäumen in den Wallenden Nebeln wächst."
     },
     {
       "id": "102",
@@ -1415,42 +1415,42 @@
       "perception": "252+",
       "imageUrl": "Porcini12899.png",
       "description": "A large fragrant mushroom popular in Coerthan cuisine.",
-      "descriptionFr": "Un champignon comestible trÃ¨s odorant.",
-      "descriptionDe": "Ein aromatischer Pilz von beachtlicher GrÃ¶ÃŸe."
+      "descriptionFr": "Un champignon comestible très odorant.",
+      "descriptionDe": "Ein aromatischer Pilz von beachtlicher Größe."
     },
     {
       "id": "103",
       "slot": 2,
       "name": "Cloud Banana",
-      "nameFr": "Banane cÃ©leste",
+      "nameFr": "Banane céleste",
       "nameDe": "Wolkenbanane",
       "level": "57",
       "gatheringSkill": "142",
       "perception": "356+",
       "imageUrl": "Cloud Banana12897.png",
-      "description": "Though it resembles a tree, cloud bananas actually grow from an oversized herb. That does not, however, make them any less sweet.\u0003\u0003EXP Bonus: +3% Duration: 30m",
-      "descriptionFr": "Un fruit sucrÃ© Ã  pulpe ferme.\u0003Points d'expÃ©rience gagnÃ©s +3%\u0003DurÃ©e d'effet\u0003: 30 minutes",
-      "descriptionDe": "Diese Frucht zeichnet sich durch eine schon fast schwere SÃ¼ÃŸe aus, die sich gut in Desserts macht.\u0003Routine + 3 %\u0003Wirkungsdauer: 30 Minuten"
+      "description": "Though it resembles a tree, cloud bananas actually grow from an oversized herb. That does not, however, make them any less sweet.EXP Bonus: +3% Duration: 30m",
+      "descriptionFr": "Un fruit sucré à pulpe ferme.Points d'expérience gagnés +3%Durée d'effet: 30 minutes",
+      "descriptionDe": "Diese Frucht zeichnet sich durch eine schon fast schwere Süße aus, die sich gut in Desserts macht.Routine + 3 %Wirkungsdauer: 30 Minuten"
     },
     {
       "id": "105",
       "slot": 7,
       "name": "Morel",
       "nameFr": "Morille",
-      "nameDe": "MÃ¶rchel",
+      "nameDe": "Mörchel",
       "level": "59",
       "gatheringSkill": "148",
       "perception": "384+",
       "imageUrl": "Morel12898.png",
       "description": "This rare mushroom with an oblong webbed cap is highly sought after by culinarians the realm over.",
-      "descriptionFr": "Un champignon rare au chapeau creusÃ© d'alvÃ©oles trÃ¨s apprÃ©ciÃ© des connaisseurs.",
-      "descriptionDe": "Dieser eher selten vorkommende Pilz besitzt einen spitzkeglig geformten Hut, der durch seine netzartige OberflÃ¤che ins Auge sticht. Beliebt bei Gourmets von nah und fern."
+      "descriptionFr": "Un champignon rare au chapeau creusé d'alvéoles très apprécié des connaisseurs.",
+      "descriptionDe": "Dieser eher selten vorkommende Pilz besitzt einen spitzkeglig geformten Hut, der durch seine netzartige Oberfläche ins Auge sticht. Beliebt bei Gourmets von nah und fern."
     },
     {
       "id": "106",
       "slot": "unknown",
       "name": "Pteranodon",
-      "nameFr": "PtÃ©ranodon",
+      "nameFr": "Ptéranodon",
       "nameDe": "Pteranodon",
       "level": "",
       "gatheringSkill": "",
@@ -1458,147 +1458,147 @@
       "imageUrl": "Pteranodon12821.png",
       "description": "This flying scalekin can be seen scouting the lower reaches of the Churning Mists for insects and small birds.",
       "descriptionFr": "Reptile volant qui vit dans les basses couches de la Mer de nuages de Dravania.",
-      "descriptionDe": "Dieses fliegende Schuppentier ist in den unteren Bereichen der Wallenden Nebel auf der Jagd nach Insekten und kleinen VÃ¶geln."
+      "descriptionDe": "Dieses fliegende Schuppentier ist in den unteren Bereichen der Wallenden Nebel auf der Jagd nach Insekten und kleinen Vögeln."
     },
     {
       "id": "107",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "108",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "109",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "110",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "111",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "112",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "113",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "114",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "115",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "116",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "118",
@@ -1611,22 +1611,22 @@
       "perception": "",
       "imageUrl": "Thunderbolt Eel12828.png",
       "description": "A narrow-bodied freshwater fish found in the pools flooding the Iron Feast.",
-      "descriptionFr": "Un poisson vermiforme qui vit dans les eaux douces de l'EurÃ©e feste.",
-      "descriptionDe": "Ein dÃ¼nner SÃ¼ÃŸwasserfisch, der in den TÃ¼mpeln zu finden ist, die das Auenfest Ã¼bersÃ¤en."
+      "descriptionFr": "Un poisson vermiforme qui vit dans les eaux douces de l'Eurée feste.",
+      "descriptionDe": "Ein dünner Süßwasserfisch, der in den Tümpeln zu finden ist, die das Auenfest übersäen."
     },
     {
       "id": "119",
       "slot": "unknown",
       "name": "Tiny Axolotl",
-      "nameFr": "Axolotl angÃ©lique",
+      "nameFr": "Axolotl angélique",
       "nameDe": "Winziger Axolotl",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Tiny Axolotl12774.png",
       "description": "An alien-like amphibian found living in the muddy flats near the Pappus Tree.",
-      "descriptionFr": "Un petit amphibien qui vit dans les mares proches de l'arbre Ã  pappus.",
-      "descriptionDe": "Eine amphibische Kreatur, die in den schlammigen SandbÃ¤nken nahe des Pappus-Baumes lebt."
+      "descriptionFr": "Un petit amphibien qui vit dans les mares proches de l'arbre à pappus.",
+      "descriptionDe": "Eine amphibische Kreatur, die in den schlammigen Sandbänken nahe des Pappus-Baumes lebt."
     },
     {
       "id": "120",
@@ -1639,8 +1639,8 @@
       "perception": "",
       "imageUrl": "Caiman12802.png",
       "description": "An amphibious scalekin with extended rows of sharp teeth and a nigh insatiable appetite for fresh meat. Can be found primarily in the Dravanian forelands.",
-      "descriptionFr": "Un reptile amphibien que l'on trouve prin\u0003ci\u0003pa\u0003le\u0003ment dans l'Avant-pays dravanien.",
-      "descriptionDe": "Eine amphibische Kreatur mit einer langen Reihe von scharfen ZÃ¤hnen und einem nahezu unstillbaren Appetit auf frisches Fleisch. HÃ¤ufig im Dravanischen Vorland zu finden."
+      "descriptionFr": "Un reptile amphibien que l'on trouve principalement dans l'Avant-pays dravanien.",
+      "descriptionDe": "Eine amphibische Kreatur mit einer langen Reihe von scharfen Zähnen und einem nahezu unstillbaren Appetit auf frisches Fleisch. Häufig im Dravanischen Vorland zu finden."
     },
     {
       "id": "121",
@@ -1653,8 +1653,8 @@
       "perception": "",
       "imageUrl": "Mahi-Mahi4915.png",
       "description": "This deep-sea predator is not only massive, but deceptively fast. Some sailors swear that a mahi-mahi can make the journey from Meracydia to the Cieldalaes in less than a fortnight, though knowing mo",
-      "descriptionFr": "Un poisson d'eau de mer carnivore dont le nom commun provient d'un dialecte des Ã®les du sud.",
-      "descriptionDe": "Dieser Tiefsee-Raubfisch ist nicht nur riesig, sondern auch extrem schnell. Einige Seeleute schwÃ¶ren, dass eine Goldmakrele die Strecke von Meracydia bis zu den CieldalÃ¤en in weniger als zwei Woche"
+      "descriptionFr": "Un poisson d'eau de mer carnivore dont le nom commun provient d'un dialecte des îles du sud.",
+      "descriptionDe": "Dieser Tiefsee-Raubfisch ist nicht nur riesig, sondern auch extrem schnell. Einige Seeleute schwören, dass eine Goldmakrele die Strecke von Meracydia bis zu den Cieldaläen in weniger als zwei Woche"
     },
     {
       "id": "122",
@@ -1671,15 +1671,15 @@
       "id": "123",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "124",
@@ -1692,8 +1692,8 @@
       "perception": "",
       "imageUrl": "Tupuxuara12833.png",
       "description": "An ancient wyvern still found living on the Habisphere, thousands of years after its creators perished in the calamity which destroyed their civilization.",
-      "descriptionFr": "Un reptile volant de l'Ã©cosphÃ¨re d'Azys Lla.",
-      "descriptionDe": "Ein uralter Wyvern, der noch immer in der BiosphÃ¤re lebt. Tausende von Jahren, nachdem seine SchÃ¶pfer der Katastrophe zum Opfer fielen, die den Untergang ihrer Zivilisation bedeutete."
+      "descriptionFr": "Un reptile volant de l'écosphère d'Azys Lla.",
+      "descriptionDe": "Ein uralter Wyvern, der noch immer in der Biosphäre lebt. Tausende von Jahren, nachdem seine Schöpfer der Katastrophe zum Opfer fielen, die den Untergang ihrer Zivilisation bedeutete."
     },
     {
       "id": "126",
@@ -1706,8 +1706,8 @@
       "perception": "",
       "imageUrl": "Manasail12784.png",
       "description": "A flying fish found in the skies near Tharl Oom Khash in the Churning Mists.",
-      "descriptionFr": "Un poisson volant dotÃ© d'une imposante nageoire dorsale que l'on trouve dans les environs de Tharl Oom Khash.",
-      "descriptionDe": "Ein fliegender Fisch, der in den LÃ¼ften nahe Tharl Oom Khash zu finden ist."
+      "descriptionFr": "Un poisson volant doté d'une imposante nageoire dorsale que l'on trouve dans les environs de Tharl Oom Khash.",
+      "descriptionDe": "Ein fliegender Fisch, der in den Lüften nahe Tharl Oom Khash zu finden ist."
     },
     {
       "id": "125",
@@ -1720,8 +1720,8 @@
       "perception": "",
       "imageUrl": "Dravanian Bass12761.png",
       "description": "A large freshwater fish native to the Whilom River.",
-      "descriptionFr": "Un gros poisson d'eau douce qui vit dans la riviÃ¨re Vairlame.",
-      "descriptionDe": "Ein groÃŸer SÃ¼ÃŸwasserfisch, der im Weiland-Fluss heimisch ist."
+      "descriptionFr": "Un gros poisson d'eau douce qui vit dans la rivière Vairlame.",
+      "descriptionDe": "Ein großer Süßwasserfisch, der im Weiland-Fluss heimisch ist."
     },
     {
       "id": "127",
@@ -1734,7 +1734,7 @@
       "perception": "",
       "imageUrl": "Thaliak Caiman12831.png",
       "description": "A giant breed of caiman native to the Thaliak River.",
-      "descriptionFr": "Un Ã©norme reptile amphibien qui vit dans la riviÃ¨re Thaliak.",
+      "descriptionFr": "Un énorme reptile amphibien qui vit dans la rivière Thaliak.",
       "descriptionDe": "Eine riesige Kaiman-Art, die im Thaliak-Fluss heimisch ist."
     },
     {
@@ -1748,22 +1748,22 @@
       "perception": "740",
       "imageUrl": "Smithsonite Ore13769.png",
       "description": "This slightly lustrous ore is characterized by its extremely high zinc content.",
-      "descriptionFr": "Ce minerai brillant se caractÃ©rise par sa haute teneur en zinc.",
-      "descriptionDe": "Ein schwach schimmerndes Erz, das eine groÃŸe Menge Zink enthÃ¤lt."
+      "descriptionFr": "Ce minerai brillant se caractérise par sa haute teneur en zinc.",
+      "descriptionDe": "Ein schwach schimmerndes Erz, das eine große Menge Zink enthält."
     },
     {
       "id": "133",
       "slot": 3,
       "name": "Meteorite",
-      "nameFr": "MÃ©tÃ©orite",
+      "nameFr": "Météorite",
       "nameDe": "Meteorit",
       "level": "60*",
       "gatheringSkill": "740",
       "perception": "740",
       "imageUrl": "Meteorite.png",
       "description": "A glossy rock of sable black said to have fallen from the heavens.",
-      "descriptionFr": "Un morceau de roche sombre tombÃ© du ciel.",
-      "descriptionDe": "Ein schwarzer Stein, der vom Himmel herabgestÃ¼rzt ist."
+      "descriptionFr": "Un morceau de roche sombre tombé du ciel.",
+      "descriptionDe": "Ein schwarzer Stein, der vom Himmel herabgestürzt ist."
     },
     {
       "id": "130",
@@ -1776,7 +1776,7 @@
       "perception": "740",
       "imageUrl": "Lumythrite Ore13770.png",
       "description": "An uncut, unpolished stone containing what appears to be lumythrite.",
-      "descriptionFr": "Une rare variÃ©tÃ© de mithril, particuliÃ¨rement lumineuse.",
+      "descriptionFr": "Une rare variété de mithril, particulièrement lumineuse.",
       "descriptionDe": "Ein ungeschliffener Stein mit Lumythrit-Einschluss."
     },
     {
@@ -1804,20 +1804,20 @@
       "perception": "740",
       "imageUrl": "Camphorwood Log13772.png",
       "description": "A glance at a cross section of this log reveals that a mere glance isn't enough to count the hundreds, perhaps thousands, of rings present.",
-      "descriptionFr": "Un vieux camphrier certainement Ã¢gÃ© de plusieurs centaines d'annÃ©es.",
+      "descriptionFr": "Un vieux camphrier certainement Ã¢gé de plusieurs centaines d'années.",
       "descriptionDe": "Ein Blick auf den Querschnitt dieses Holzscheits offenbart das enorme Alter des Kampferbaums."
     },
     {
       "id": "134",
       "slot": 4,
       "name": "Crystallized Sap",
-      "nameFr": "SÃ¨ve cristallisÃ©e",
+      "nameFr": "Sève cristallisée",
       "nameDe": "Harzkristall",
       "level": "60*",
       "gatheringSkill": "740",
       "perception": "740",
       "imageUrl": "CrystallizedSap.png",
-      "descriptionFr": "Un amas de sÃ¨ve qui s'est durci et a pris une apparence cristalline.",
+      "descriptionFr": "Un amas de sève qui s'est durci et a pris une apparence cristalline.",
       "descriptionDe": "Kristallisierter Pflanzensaft eines Baumes."
     },
     {
@@ -1832,7 +1832,7 @@
       "imageUrl": "Luminium Ore.png",
       "description": "A decent-sized piece of rock containing the precious metal luminium.",
       "descriptionFr": "Un morceau de minerai contenant du luminium.",
-      "descriptionDe": "Ein Mineralgestein, das fluoreszierendes Metall enthÃ¤lt."
+      "descriptionDe": "Ein Mineralgestein, das fluoreszierendes Metall enthält."
     },
     {
       "id": "136",
@@ -1852,29 +1852,29 @@
       "id": "137",
       "slot": 4,
       "name": "Zeolite Ore",
-      "nameFr": "Minerai de zÃ©olite",
+      "nameFr": "Minerai de zéolite",
       "nameDe": "Zeolith",
       "level": "60***",
       "gatheringSkill": "",
       "perception": "860+",
       "imageUrl": "Zeolite Ore.png",
       "description": "A porous silicate that adsorbs poisons, making it invaluable in myriad alchemical and medical concoctions.",
-      "descriptionFr": "La porositÃ© de ce minÃ©ral lui permet d'absorber un grand nombre de toxines.",
-      "descriptionDe": "Wegen ihrer porÃ¶sen Struktur kÃ¶nnen diese Mineralgesteine groÃŸe Mengen Gift absorbieren."
+      "descriptionFr": "La porosité de ce minéral lui permet d'absorber un grand nombre de toxines.",
+      "descriptionDe": "Wegen ihrer porösen Struktur können diese Mineralgesteine große Mengen Gift absorbieren."
     },
     {
       "id": "139",
       "slot": 4,
       "name": "Star Cotton Boll",
-      "nameFr": "Fleur de coton des Ã©toiles",
+      "nameFr": "Fleur de coton des étoiles",
       "nameDe": "Sternenbaumwolle",
       "level": "60***",
       "gatheringSkill": "",
       "perception": "860+",
       "imageUrl": "Star Cotton Boll.png",
       "description": "A rare variety of cotton which produces nitid fibers that, when struck by light, coruscate like the very stars in the heavens.",
-      "descriptionFr": "Une curieuse fleur de coton semblant renfermer une multitude d'Ã©toiles Ã©tincelantes.",
-      "descriptionDe": "Feines Baumwollgewebe, geheimnisvoll glÃ¤nzend wie der Sternenhimmel."
+      "descriptionFr": "Une curieuse fleur de coton semblant renfermer une multitude d'étoiles étincelantes.",
+      "descriptionDe": "Feines Baumwollgewebe, geheimnisvoll glänzend wie der Sternenhimmel."
     },
     {
       "id": "140",
@@ -1887,8 +1887,8 @@
       "perception": "860+",
       "imageUrl": "Brown Mushroom.png",
       "description": "An earthen fungus that can commonly be found sprouting beneath trees growing in the Churning Mists.",
-      "descriptionFr": "Un champignon de couleur se rapprochant du brun, poussant dans L'Ã‰cume des cieux de Dravania.",
-      "descriptionDe": "Ein brauner Pilz, der hauptsÃ¤chlich in den Wallenden Nebeln wÃ¤chst."
+      "descriptionFr": "Un champignon de couleur se rapprochant du brun, poussant dans L'Écume des cieux de Dravania.",
+      "descriptionDe": "Ein brauner Pilz, der hauptsächlich in den Wallenden Nebeln wächst."
     },
     {
       "id": "141",
@@ -1902,7 +1902,7 @@
       "imageUrl": "Teak log.png",
       "description": "A rough-cut log of teak timber.",
       "descriptionFr": "Un imposant rondin de teck brut.",
-      "descriptionDe": "Ein abgehacktes StÃ¼ck Teakbaumholz."
+      "descriptionDe": "Ein abgehacktes Stück Teakbaumholz."
     },
     {
       "id": "142",
@@ -1915,8 +1915,8 @@
       "perception": "860+",
       "imageUrl": "Noble Sage.png",
       "description": "A fragrant herb used in medicines, perfumes, and cooking. Its deep blue flowers set it apart from its cousin, clary sage.",
-      "descriptionFr": "Cette plante est trÃ¨s utilisÃ©e pour ses vertus curatives et aromatiques. Ses fleurs sont d'un violet profond.",
-      "descriptionDe": "Ein edles Kraut mit dunkelblauen BlÃ¼ten, das zum Heilen und WÃ¼rzen verwendet wird."
+      "descriptionFr": "Cette plante est très utilisée pour ses vertus curatives et aromatiques. Ses fleurs sont d'un violet profond.",
+      "descriptionDe": "Ein edles Kraut mit dunkelblauen Blüten, das zum Heilen und Würzen verwendet wird."
     },
     {
       "id": "143",
@@ -1929,36 +1929,36 @@
       "perception": "",
       "imageUrl": "Bamboo Shoot.png",
       "description": "If removed from the ground when less than a fulm in length, bamboo shoots can be peeled and the fleshy interior eaten. A popular ingredient in Far Eastern stews and stir-fries.",
-      "descriptionFr": "Ces jeunes tiges de bambou sont communÃ©ment consommÃ©es en Orient. \n[MatÃ©riau d'artisanat]",
-      "descriptionDe": "Eine beliebte Zutat in EintÃ¶pfen und Pfannengerichten im Fernen Osten. \nSynthese-Material"
+      "descriptionFr": "Ces jeunes tiges de bambou sont communément consommées en Orient. \n[Matériau d'artisanat]",
+      "descriptionDe": "Eine beliebte Zutat in Eintöpfen und Pfannengerichten im Fernen Osten. \nSynthese-Material"
     },
     {
       "id": "144",
       "slot": 8,
       "name": "Raw Star Spinel",
-      "nameFr": "Spinelle Ã©toilÃ© brut",
+      "nameFr": "Spinelle étoilé brut",
       "nameDe": "Roh-Sternspinell",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Raw Star Spinel.png",
       "description": "An uncut, unpolished stone containing what appears to be star spinel. \nCrafting Material",
-      "descriptionFr": "Une pierre brute qui semble contenir un spinelle Ã©toilÃ©. \n[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Une pierre brute qui semble contenir un spinelle étoilé. \n[Matériau d'artisanat]",
       "descriptionDe": "Ein ungeschliffener Stein mit Sternspinell-Einschluss. \nSynthese-Material"
     },
     {
       "id": "145",
       "slot": 6,
       "name": "Pummelite",
-      "nameFr": "Ã‰clat de pulvÃ©rite",
+      "nameFr": "Éclat de pulvérite",
       "nameDe": "Rhalgit",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Pummelite.png",
       "description": "This oddly named ore was dubbed such by early Gyr Abanian settlers who believed the chunks of colorful mineral to be pieces of a larger rock shattered by a single blow of the Destroyer's fist.",
-      "descriptionFr": "Un minÃ©ral que l'on dit aussi dur que le poing de Rhalgr le Destructeur.",
-      "descriptionDe": "Ein extrem widerstandsfÃ¤higes Material, das laut Legenden nur von Rhalgr zerstÃ¶rt werden kann."
+      "descriptionFr": "Un minéral que l'on dit aussi dur que le poing de Rhalgr le Destructeur.",
+      "descriptionDe": "Ein extrem widerstandsfähiges Material, das laut Legenden nur von Rhalgr zerstört werden kann."
     },
     {
       "id": "147",
@@ -1992,14 +1992,14 @@
       "id": "148",
       "slot": 3,
       "name": "Beech Branch",
-      "nameFr": "Branche de hÃªtre",
+      "nameFr": "Branche de hêtre",
       "nameDe": "Buchenast",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Beech Branch.png",
       "description": "The thick branch of a beech tree.",
-      "descriptionFr": "Une branche massive de hÃªtre.",
+      "descriptionFr": "Une branche massive de hêtre.",
       "descriptionDe": "Ein abgebrochener Buchenast."
     },
     {
@@ -2013,21 +2013,21 @@
       "perception": "",
       "imageUrl": "Ala Mhigan Salt Crystal.png",
       "description": "These pinkish crystals grow naturally on the shores of Loch Seld.",
-      "descriptionFr": "Un sel gemme cristallin rÃ©coltÃ© dans le lac Seld.",
+      "descriptionFr": "Un sel gemme cristallin récolté dans le lac Seld.",
       "descriptionDe": "Diese rosa Kristalle wachsen an den Ufern des Seldsees."
     },
     {
       "id": "151",
       "slot": 6,
       "name": "Raw Imperial Jade",
-      "nameFr": "Jade impÃ©rial brut",
+      "nameFr": "Jade impérial brut",
       "nameDe": "Roh-Kaiserjade",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Raw Imperial Jade.png",
       "description": "An uncut, unpolished stone containing what appears to be imperial jade.",
-      "descriptionFr": "Une pierre brute qui semble contenir un jade impÃ©rial.",
+      "descriptionFr": "Une pierre brute qui semble contenir un jade impérial.",
       "descriptionDe": "Ein ungeschliffener Stein mit Kaiserjade-Einschluss."
     },
     {
@@ -2083,7 +2083,7 @@
       "perception": "",
       "imageUrl": "gyr_abanian_spring_water.png",
       "description": "Cold, clear mountain water harvested from hidden springs located in the highlands of Gyr Abania.",
-      "descriptionFr": "Une eau jaillissant de certaines sources dans la rÃ©gion des Pics de Gyr Abania.",
+      "descriptionFr": "Une eau jaillissant de certaines sources dans la région des Pics de Gyr Abania.",
       "descriptionDe": "Klares Quellwasser aus den Bergen von Gyr Abania."
     },
     {
@@ -2097,8 +2097,8 @@
       "perception": "",
       "imageUrl": "Othardian Plum.png",
       "description": "A greenish-pink plum common across the eastern continent of Othard. EXP Bonus: +3% Duration: 30m (Duration can be extended to 60m by consuming multiple servings)",
-      "descriptionFr": "Ce fruit Ã  la chair juteuse est originaire du continent oriental d'Othard. Points d'expÃ©rience gagnÃ©s +3% DurÃ©e d'effet: 30 minutes (cumulable jusqu'Ã  60 minutes)",
-      "descriptionDe": "Eine grÃ¼nlich-rosa Pflaume, die auf dem Ã¶stlichen Kontinent Othard hÃ¤ufig zu finden ist. Routine + 3 % Wirkungsdauer: 30 Minuten (Kann durch wiederholten Verzehr auf bis zu 60 Minuten verlÃ¤ngert w"
+      "descriptionFr": "Ce fruit à la chair juteuse est originaire du continent oriental d'Othard. Points d'expérience gagnés +3% Durée d'effet: 30 minutes (cumulable jusqu'à 60 minutes)",
+      "descriptionDe": "Eine grünlich-rosa Pflaume, die auf dem östlichen Kontinent Othard häufig zu finden ist. Routine + 3 % Wirkungsdauer: 30 Minuten (Kann durch wiederholten Verzehr auf bis zu 60 Minuten verlängert w"
     },
     {
       "id": "156",
@@ -2111,22 +2111,22 @@
       "perception": "",
       "imageUrl": "Jhammel Ginger.png",
       "description": "Jhammel ginger's bulbous, aromatic roots can be sliced fresh and added to stews and seafood dishes to remove gaminess, ground and steeped in hot water to cure head colds, or dried and ground into a po",
-      "descriptionFr": "Ce tubercule Ã©picÃ© fait partie des rares espÃ¨ces de gingembre au goÃ»t modÃ©rÃ©.",
-      "descriptionDe": "Die knolligen, aromatischen Wurzeln des Jhammel-Ingwers eignen sich als Zutat oder GewÃ¼rz fÃ¼r allerlei leckere Gerichte.\n\nZermahlen und mit Wasser aufgekocht, werden sie auch gerne bei ErkÃ¤ltungen"
+      "descriptionFr": "Ce tubercule épicé fait partie des rares espèces de gingembre au goût modéré.",
+      "descriptionDe": "Die knolligen, aromatischen Wurzeln des Jhammel-Ingwers eignen sich als Zutat oder Gewürz für allerlei leckere Gerichte.\n\nZermahlen und mit Wasser aufgekocht, werden sie auch gerne bei Erkältungen"
     },
     {
       "id": "157",
       "slot": 6,
       "name": "Hallowed Basil",
-      "nameFr": "Basilic bÃ©ni",
+      "nameFr": "Basilic béni",
       "nameDe": "Geheiligtes Basilikum",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Hallowed Basil.png",
       "description": "An herb with an aroma so heavenly, the gods themselves must have blessed it (or so say merchants who would see you buy their stock).",
-      "descriptionFr": "Cette plante aromatique semble dÃ©gager une aura solennelle trÃ¨s puissante.",
-      "descriptionDe": "Ein Kraut mit einem Aroma, das so himmlisch ist, dass die GÃ¶tter selbst es gesegnet haben mÃ¼ssen."
+      "descriptionFr": "Cette plante aromatique semble dégager une aura solennelle très puissante.",
+      "descriptionDe": "Ein Kraut mit einem Aroma, das so himmlisch ist, dass die Götter selbst es gesegnet haben müssen."
     },
     {
       "id": "158",
@@ -2139,8 +2139,8 @@
       "perception": "",
       "imageUrl": "Lotus Root.png",
       "description": "Though they appear solid from the outside, the cylindrical root nodules of the lotus flower are riddled with holes, possibly to accommodate for the water-logged environments in which the plant grows.",
-      "descriptionFr": "Ce rhizome de fleur de lotus surdimensionnÃ© est utilisÃ© en cuisine orientale.",
-      "descriptionDe": "Ce rhizome de fleur de lotus surdimensionnÃ© est utilisÃ© en cuisine orientale."
+      "descriptionFr": "Ce rhizome de fleur de lotus surdimensionné est utilisé en cuisine orientale.",
+      "descriptionDe": "Ce rhizome de fleur de lotus surdimensionné est utilisé en cuisine orientale."
     },
     {
       "id": "159",
@@ -2154,7 +2154,7 @@
       "imageUrl": "Torreya Log.png",
       "description": "A rough-cut log of torreya timber.",
       "descriptionFr": "Un imposant rondin de kaya brut.",
-      "descriptionDe": "Ein abgehacktes StÃ¼ck Nusseibenholz."
+      "descriptionDe": "Ein abgehacktes Stück Nusseibenholz."
     },
     {
       "id": "160",
@@ -2167,8 +2167,8 @@
       "perception": "1200",
       "imageUrl": "Rhea.png",
       "description": "A variety of ramie better suited to the climes of Far Eastern Othard.",
-      "descriptionFr": "Cette rare plante fibreuse est cultivÃ©e en Orient pour servir dans la fabrication d'Ã©toffes prÃ©cieuses.",
-      "descriptionDe": "Eine Ramienart, die besser an das Klima des fernÃ¶stlichen Othards angepasst ist."
+      "descriptionFr": "Cette rare plante fibreuse est cultivée en Orient pour servir dans la fabrication d'étoffes précieuses.",
+      "descriptionDe": "Eine Ramienart, die besser an das Klima des fernöstlichen Othards angepasst ist."
     },
     {
       "id": "178",
@@ -2182,77 +2182,77 @@
       "imageUrl": "azim_cotton_boll.png",
       "description": "The white of Azim cotton is so bright that some compare it to staring at the sun itself.",
       "descriptionFr": "Une fleur de coton rare poussant dans la Steppe d'Azim.",
-      "descriptionDe": "Die faserige BlÃ¼te einer seltenen Baumwollart, die nur in der Azim-Steppe wÃ¤chst."
+      "descriptionDe": "Die faserige Blüte einer seltenen Baumwollart, die nur in der Azim-Steppe wächst."
     },
     {
       "id": "161",
       "slot": 1,
       "name": "Rhalgr's Streak",
       "nameFr": "BÃ¢tons de Rhalgr",
-      "nameDe": "StrauÃŸ Rhalgrs StÃ¤be",
+      "nameDe": "Strauß Rhalgrs Stäbe",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rhalgrs_streak.png",
       "description": "Also known as Rhalgr's staff, this long-leafed medicinal herb is native to the highlands of Gyr Abania.",
-      "descriptionFr": "Une touffe de fleurs annuelles nommÃ©es en l'honneur du bÃ¢ton portÃ© par Rhalgr, le Dieu de la destruction.",
+      "descriptionFr": "Une touffe de fleurs annuelles nommées en l'honneur du bÃ¢ton porté par Rhalgr, le Dieu de la destruction.",
       "descriptionDe": "Eine langstielige Pflanze, die nach dem Stab des Kriegsgottes Rhalgr benannt ist."
     },
     {
       "id": "162",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "165",
       "slot": "unknown",
       "name": "Windtea Leaves",
       "nameFr": "Mauve des vents",
-      "nameDe": "WindteeblÃ¤tter",
+      "nameDe": "Windteeblätter",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "windtea_leaves.png",
       "description": "When steeped in boiling water, the leaves of this rare perennial change color, turning a bright bluish green.",
-      "descriptionFr": "Cette plante vivace aux gracieuses fleurs mauves est utilisÃ©e dans la prÃ©paration d'infusions en raison de ses vertus mÃ©dicinales.",
-      "descriptionDe": "In kochendem Wasser eingelaugt, Ã¤ndert sich die Farbe der BlÃ¤tter dieser seltenen Pflanzenart zu einem hellblauen GrÃ¼n."
+      "descriptionFr": "Cette plante vivace aux gracieuses fleurs mauves est utilisée dans la préparation d'infusions en raison de ses vertus médicinales.",
+      "descriptionDe": "In kochendem Wasser eingelaugt, ändert sich die Farbe der Blätter dieser seltenen Pflanzenart zu einem hellblauen Grün."
     },
     {
       "id": "176",
       "slot": "unknown",
       "name": "Dawnlight Aethersand",
-      "nameFr": "Sable Ã©thÃ©rÃ©en irisÃ©",
+      "nameFr": "Sable éthéréen irisé",
       "nameDe": "Morgenlicht-Seelensand",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "dawnlight_aethersand.png",
       "description": "The elementally aspected remnants of aetherially reduced matter. This fine sand emits a weak glow indiscernible at dawn.",
-      "descriptionFr": "Une poudre de cristal brillant d'une lueur irisÃ©e, obtenue par Ã©thÃ©rolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste Ã¤therisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das im Morgengrauen kaum wahrzunehmen ist."
+      "descriptionFr": "Une poudre de cristal brillant d'une lueur irisée, obtenue par éthérolyse.",
+      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das im Morgengrauen kaum wahrzunehmen ist."
     },
     {
       "id": "163",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "166",
@@ -2265,64 +2265,64 @@
       "perception": "",
       "imageUrl": "perlite.png",
       "description": "A strange, pearlescent volcanic rock that expands tenfold upon heating in a kiln or forge.",
-      "descriptionFr": "Ce sable siliceux est formÃ© de granulÃ©s rappelant la taille et la forme des perles.",
+      "descriptionFr": "Ce sable siliceux est formé de granulés rappelant la taille et la forme des perles.",
       "descriptionDe": "Ein seltsamer perlmuttartiger Vulkanit, der sich beim Erhitzen in einem Ofen oder einer Schmelze auf das Zehnfache ausdehnt."
     },
     {
       "id": "177",
       "slot": "unknown",
       "name": "Everbright Aethersand",
-      "nameFr": "Sable Ã©thÃ©rÃ©en Ã©ternel",
+      "nameFr": "Sable éthéréen éternel",
       "nameDe": "Ewigkeits-Seelensand",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "everbright_aethersand.png",
       "description": "The elementally aspected remnants of highly concentrated aetherially reduced mineral matter.",
-      "descriptionFr": "Une poudre de cristal Ã  trÃ¨s forte concentration d'Ã©ther, obtenue par Ã©thÃ©rolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste Ã¤therisch reduzierter Materie."
+      "descriptionFr": "Une poudre de cristal à très forte concentration d'éther, obtenue par éthérolyse.",
+      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie."
     },
     {
       "id": "164",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "167",
       "slot": "unknown",
       "name": "Schorl",
-      "nameFr": "SchÃ¶rl",
-      "nameDe": "SchÃ¶rl",
+      "nameFr": "Schörl",
+      "nameDe": "Schörl",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "schorl.png",
       "description": "A blackish mineral possibly containing trace amounts of the precious stone tourmaline.",
-      "descriptionFr": "Un minÃ©ral de couleur noire qui contiendrait de la tourmaline.",
-      "descriptionDe": "Ein schwÃ¤rzliches Mineral, das vermutlich Spuren des wertvollen Gesteins Turmalin enthÃ¤lt."
+      "descriptionFr": "Un minéral de couleur noire qui contiendrait de la tourmaline.",
+      "descriptionDe": "Ein schwärzliches Mineral, das vermutlich Spuren des wertvollen Gesteins Turmalin enthält."
     },
     {
       "id": "168",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "171",
@@ -2335,36 +2335,36 @@
       "perception": "",
       "imageUrl": "doman_yellow.png",
       "description": "A soft, clay-like soil believed to be formed of compacted yellow dust carried on the wind from faraway lands.",
-      "descriptionFr": "Ce sÃ©diment est formÃ© par l'accumulation de limons emportÃ©s par le vent.",
+      "descriptionFr": "Ce sédiment est formé par l'accumulation de limons emportés par le vent.",
       "descriptionDe": "Weiche lehmartige Erde, von der man annimmt, dass sie sich aus gelbem Staub zusammensetzt, der von fernen Inseln angeweht wird."
     },
     {
       "id": "175",
       "slot": "unknown",
       "name": "Duskglow Aethersand",
-      "nameFr": "Sable Ã©thÃ©rÃ©en noctilumineux",
-      "nameDe": "DÃ¤mmerlicht-Seelensand",
+      "nameFr": "Sable éthéréen noctilumineux",
+      "nameDe": "Dämmerlicht-Seelensand",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "dusklight_aethersand.png",
       "description": "The elementally aspected remnants of aetherially reduced matter. This fine sand emits a weak glow indiscernible at gloaming.",
-      "descriptionFr": "Une poudre de cristal faiblement brillante obtenue par Ã©thÃ©rolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste Ã¤therisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das in der DÃ¤mmerung kaum wahrzunehmen ist."
+      "descriptionFr": "Une poudre de cristal faiblement brillante obtenue par éthérolyse.",
+      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das in der Dämmerung kaum wahrzunehmen ist."
     },
     {
       "id": "169",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "172",
@@ -2384,29 +2384,29 @@
       "id": "174",
       "slot": "unknown",
       "name": "Everborn Aethersand",
-      "nameFr": "Sable Ã©thÃ©rÃ©en prospÃ¨re",
+      "nameFr": "Sable éthéréen prospère",
       "nameDe": "Fruchtbarkeits-Seelensand",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "everborn_aethersand.png",
       "description": "The elementally aspected remnants of highly concentrated aetherially reduced mineral matter.",
-      "descriptionFr": "Une poudre de cristal Ã  trÃ¨s forte concentration d'Ã©ther, obtenue par Ã©thÃ©rolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste Ã¤therisch reduzierter Materie."
+      "descriptionFr": "Une poudre de cristal à très forte concentration d'éther, obtenue par éthérolyse.",
+      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie."
     },
     {
       "id": "170",
       "slot": "unknown",
       "name": "Ephemeral Node",
-      "nameFr": "points Ã©phÃ©mÃ¨re",
-      "nameDe": "vergÃ¤nglicher node",
+      "nameFr": "points éphémère",
+      "nameDe": "vergänglicher node",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Gil1.png",
       "description": "Ephemeral Node",
-      "descriptionFr": "points Ã©phÃ©mÃ¨re",
-      "descriptionDe": "vergÃ¤nglicher node"
+      "descriptionFr": "points éphémère",
+      "descriptionDe": "vergänglicher node"
     },
     {
       "id": "173",
@@ -2419,8 +2419,8 @@
       "perception": "",
       "imageUrl": "almandine.png",
       "description": "A garnet-like mineral that, due to its extreme hardness, is used in grinding wheels.",
-      "descriptionFr": "Une roche utilisÃ©e pour polir.",
-      "descriptionDe": "Ein granatartiges Mineral, das aufgrund seiner enormen HÃ¤rte fÃ¼r SchleifrÃ¤der verwendet wird."
+      "descriptionFr": "Une roche utilisée pour polir.",
+      "descriptionDe": "Ein granatartiges Mineral, das aufgrund seiner enormen Härte für Schleifräder verwendet wird."
     },
     {
       "id": "180",
@@ -2433,7 +2433,7 @@
       "perception": "1350+",
       "imageUrl": "nightsteel_ore.jpg",
       "description": "Iron ore that has been exposed to the waters of a mineral spring, and undergone significant changes to both color and chemical makeup.",
-      "descriptionFr": "Un morceau de minerai de sombracier dont la composition a Ã©tÃ© altÃ©rÃ©e par son exposition aux eaux d'une source minÃ©rale.",
+      "descriptionFr": "Un morceau de minerai de sombracier dont la composition a été altérée par son exposition aux eaux d'une source minérale.",
       "descriptionDe": "Ein Erzklumpen mit hohem Nachtstahlgehalt."
     },
     {
@@ -2454,14 +2454,14 @@
       "id": "181",
       "slot": 6,
       "name": "Silvergrace Ore",
-      "nameFr": "Minerai de grÃ¢Ã§argent",
+      "nameFr": "Minerai de grÃ¢çargent",
       "nameDe": "Silbergunsterz",
       "level": "",
       "gatheringSkill": "",
       "perception": "1350+",
       "imageUrl": "silvergrace_ore.jpg",
       "description": "A sizable piece of rock containing traces of a precious metal known as silvergrace.",
-      "descriptionFr": "Un morceau de minerai contenant du grÃ¢Ã§argent.",
+      "descriptionFr": "Un morceau de minerai contenant du grÃ¢çargent.",
       "descriptionDe": "Ein Erzklumpen mit hohem Silbergunstgehalt."
     },
     {
@@ -2475,7 +2475,7 @@
       "perception": "",
       "imageUrl": "d2a7efed4b0.png",
       "description": "Water of uncommon clarity sourced from underground springs on the Azim Steppe.Crafting Material",
-      "descriptionFr": "Une eau provenant des riviÃ¨res souterraines de la Steppe d'Azim.[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Une eau provenant des rivières souterraines de la Steppe d'Azim.[Matériau d'artisanat]",
       "descriptionDe": "Water of uncommon clarity sourced from underground springs on the Azim Steppe.Crafting Material"
     },
     {
@@ -2490,20 +2490,20 @@
       "imageUrl": "black_willow_log.jpg",
       "description": "A rough-cut log of black willow timber.",
       "descriptionFr": "Un imposant rondin de saule noir brut.",
-      "descriptionDe": "Ein abgehacktes StÃ¼ck Schwarzweiden-Holz."
+      "descriptionDe": "Ein abgehacktes Stück Schwarzweiden-Holz."
     },
     {
       "id": "185",
       "slot": 4,
       "name": "Hardened Veteran Tree Sap",
-      "nameFr": "SÃ¨ve durcie de vieil arbre",
-      "nameDe": "GehÃ¤rteter alter Baumsaft",
+      "nameFr": "Sève durcie de vieil arbre",
+      "nameDe": "Gehärteter alter Baumsaft",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "hardened_sap.png",
       "description": "A partially congealed ball of sticky sap extracted from an aged tree.",
-      "descriptionFr": "De la sÃ¨ve durcie de vieil arbre Ã  demi solidifiÃ©e.",
+      "descriptionFr": "De la sève durcie de vieil arbre à demi solidifiée.",
       "descriptionDe": "Ein teilweise erstarrter Klumpen aus dem klebrigen Saft eines alten Baums."
     },
     {
@@ -2517,8 +2517,8 @@
       "perception": "1350+",
       "imageUrl": "hingan_flax.jpg",
       "description": "A distant cousin to the flax found in the highlands of Coerthas, the stalk of this fibrous plant is used to create a yarn known in Hingashi as â€œtrue linen.â€",
-      "descriptionFr": "Cette espÃ¨ce parente du lin des Hautes terres du Coerthas est communÃ©ment appelÃ©e â€œvrai linâ€ Ã  Hingashi.\r\n\r\nSa tige sert Ã  confectionner une Ã©toffe rÃ©sistante.",
-      "descriptionDe": "Eine entfernt verwandte Art des Flachses, der im Hochland von Coerthas wÃ¤chst.\r\n\r\nAus dem StÃ¤ngel dieser faserigen Pflanze wird ein Garn gewonnen, das in Hingashi als â€žReinleinenâ€œ bekannt ist."
+      "descriptionFr": "Cette espèce parente du lin des Hautes terres du Coerthas est communément appelée â€œvrai linâ€ à Hingashi.\r\n\r\nSa tige sert à confectionner une étoffe résistante.",
+      "descriptionDe": "Eine entfernt verwandte Art des Flachses, der im Hochland von Coerthas wächst.\r\n\r\nAus dem Stängel dieser faserigen Pflanze wird ein Garn gewonnen, das in Hingashi als â€žReinleinenâ€œ bekannt ist."
     },
     {
       "id": "190",
@@ -2531,7 +2531,7 @@
       "perception": "",
       "imageUrl": "7eb4afa43a9.png",
       "description": "These whimsical cotton flowers, found only in Yanxia, glimmer faintly like stars in the night.Crafting Material",
-      "descriptionFr": "Une dÃ©licate fleur de coton que l'on cultive dans la rÃ©gion de Yanxia.[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Une délicate fleur de coton que l'on cultive dans la région de Yanxia.[Matériau d'artisanat]",
       "descriptionDe": "These whimsical cotton flowers, found only in Yanxia, glimmer faintly like stars in the night.Crafting Material"
     },
     {
@@ -2545,21 +2545,21 @@
       "perception": "",
       "imageUrl": "719fc9ae286.png",
       "description": "A rough-cut log of urunday timber.Crafting Material",
-      "descriptionFr": "Un imposant rondin d'urunday brut.[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Un imposant rondin d'urunday brut.[Matériau d'artisanat]",
       "descriptionDe": "A rough-cut log of urunday timber.Crafting Material"
     },
     {
       "id": "193",
       "slot": 6,
       "name": "Evergleam Ore",
-      "nameFr": "Minerai de pÃ©rennÃ©clat",
+      "nameFr": "Minerai de pérennéclat",
       "nameDe": "Immerschimmer-Erz",
       "level": "70***",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "1207a40f535.png",
       "description": "A decent-sized piece of rock containing a rare natural alloy of iron and chromium.Crafting Material",
-      "descriptionFr": "Un morceau de minerai contenant du pÃ©rennÃ©clat.[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Un morceau de minerai contenant du pérennéclat.[Matériau d'artisanat]",
       "descriptionDe": "A decent-sized piece of rock containing a rare natural alloy of iron and chromium.Crafting Material"
     },
     {
@@ -2573,7 +2573,7 @@
       "perception": "",
       "imageUrl": "170dc01c270.png",
       "description": "A naturally occurring chunk of lodestone.Crafting Material",
-      "descriptionFr": "Un minerai magnÃ©tique qui affleure un peu partout Ã  Gyr Abania.[MatÃ©riau d'artisanat]",
+      "descriptionFr": "Un minerai magnétique qui affleure un peu partout à Gyr Abania.[Matériau d'artisanat]",
       "descriptionDe": "A naturally occurring chunk of lodestone.Crafting Material"
     },
     {
