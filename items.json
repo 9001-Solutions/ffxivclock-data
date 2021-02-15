@@ -890,7 +890,7 @@
       "perception": "",
       "imageUrl": "Cupfish7902.png",
       "description": "A rare freshwater fish which spends the entirety of its life hiding in locations which rarely see the light of the sun.",
-      "descriptionFr": "Un poisson d'eau douce rare qui vit dans des endroits oÃ¹ la lumière ne parvient pas et que l'on dit être l'un des maîtres des eaux de la Noscea.",
+      "descriptionFr": "Un poisson d'eau douce rare qui vit dans des endroits où la lumière ne parvient pas et que l'on dit être l'un des maîtres des eaux de la Noscea.",
       "descriptionDe": "Ein seltsamer Süßwasserfisch, der in absolut dunklen Gewässern lebt. Gehört zu den Kapitalfischen."
     },
     {
@@ -1632,7 +1632,7 @@
       "id": "120",
       "slot": "unknown",
       "name": "Caiman",
-      "nameFr": "CaÃ¯man",
+      "nameFr": "Caïman",
       "nameDe": "Kaiman",
       "level": "",
       "gatheringSkill": "",
@@ -1727,7 +1727,7 @@
       "id": "127",
       "slot": "unknown",
       "name": "Thaliak Caiman",
-      "nameFr": "CaÃ¯man de Thaliak",
+      "nameFr": "Caïman de Thaliak",
       "nameDe": "Thaliak-Kaiman",
       "level": "",
       "gatheringSkill": "",
@@ -1791,7 +1791,7 @@
       "imageUrl": "Frost Cotton Ball13771.png",
       "description": "A soft and fluffy variety of cotton named for its resemblance to morning hoarfrost.",
       "descriptionFr": "Une fleur de coton aux fibres fines et blanches comme la neige.",
-      "descriptionDe": "Eine weiche und flauschige Baumwollart, die ihren Namen ihrer Ã„hnlichkeit mit Schnee verdankt."
+      "descriptionDe": "Eine weiche und flauschige Baumwollart, die ihren Namen ihrer Ähnlichkeit mit Schnee verdankt."
     },
     {
       "id": "132",
@@ -1804,7 +1804,7 @@
       "perception": "740",
       "imageUrl": "Camphorwood Log13772.png",
       "description": "A glance at a cross section of this log reveals that a mere glance isn't enough to count the hundreds, perhaps thousands, of rings present.",
-      "descriptionFr": "Un vieux camphrier certainement Ã¢gé de plusieurs centaines d'années.",
+      "descriptionFr": "Un vieux camphrier certainement âgé de plusieurs centaines d'années.",
       "descriptionDe": "Ein Blick auf den Querschnitt dieses Holzscheits offenbart das enorme Alter des Kampferbaums."
     },
     {
@@ -2188,14 +2188,14 @@
       "id": "161",
       "slot": 1,
       "name": "Rhalgr's Streak",
-      "nameFr": "BÃ¢tons de Rhalgr",
+      "nameFr": "Bâtons de Rhalgr",
       "nameDe": "Strauß Rhalgrs Stäbe",
       "level": "",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rhalgrs_streak.png",
       "description": "Also known as Rhalgr's staff, this long-leafed medicinal herb is native to the highlands of Gyr Abania.",
-      "descriptionFr": "Une touffe de fleurs annuelles nommées en l'honneur du bÃ¢ton porté par Rhalgr, le Dieu de la destruction.",
+      "descriptionFr": "Une touffe de fleurs annuelles nommées en l'honneur du bâton porté par Rhalgr, le Dieu de la destruction.",
       "descriptionDe": "Eine langstielige Pflanze, die nach dem Stab des Kriegsgottes Rhalgr benannt ist."
     },
     {
@@ -2238,7 +2238,7 @@
       "imageUrl": "dawnlight_aethersand.png",
       "description": "The elementally aspected remnants of aetherially reduced matter. This fine sand emits a weak glow indiscernible at dawn.",
       "descriptionFr": "Une poudre de cristal brillant d'une lueur irisée, obtenue par éthérolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das im Morgengrauen kaum wahrzunehmen ist."
+      "descriptionDe": "Die mit elementarer Energie versehenen Überreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das im Morgengrauen kaum wahrzunehmen ist."
     },
     {
       "id": "163",
@@ -2280,7 +2280,7 @@
       "imageUrl": "everbright_aethersand.png",
       "description": "The elementally aspected remnants of highly concentrated aetherially reduced mineral matter.",
       "descriptionFr": "Une poudre de cristal à très forte concentration d'éther, obtenue par éthérolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie."
+      "descriptionDe": "Die mit elementarer Energie versehenen Überreste ätherisch reduzierter Materie."
     },
     {
       "id": "164",
@@ -2350,7 +2350,7 @@
       "imageUrl": "dusklight_aethersand.png",
       "description": "The elementally aspected remnants of aetherially reduced matter. This fine sand emits a weak glow indiscernible at gloaming.",
       "descriptionFr": "Une poudre de cristal faiblement brillante obtenue par éthérolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das in der Dämmerung kaum wahrzunehmen ist."
+      "descriptionDe": "Die mit elementarer Energie versehenen Überreste ätherisch reduzierter Materie. Dieser feine Sand gibt ein schwaches Leuchten von sich, das in der Dämmerung kaum wahrzunehmen ist."
     },
     {
       "id": "169",
@@ -2392,7 +2392,7 @@
       "imageUrl": "everborn_aethersand.png",
       "description": "The elementally aspected remnants of highly concentrated aetherially reduced mineral matter.",
       "descriptionFr": "Une poudre de cristal à très forte concentration d'éther, obtenue par éthérolyse.",
-      "descriptionDe": "Die mit elementarer Energie versehenen Ãœberreste ätherisch reduzierter Materie."
+      "descriptionDe": "Die mit elementarer Energie versehenen Überreste ätherisch reduzierter Materie."
     },
     {
       "id": "170",
@@ -2454,14 +2454,14 @@
       "id": "181",
       "slot": 6,
       "name": "Silvergrace Ore",
-      "nameFr": "Minerai de grÃ¢çargent",
+      "nameFr": "Minerai de grâçargent",
       "nameDe": "Silbergunsterz",
       "level": "",
       "gatheringSkill": "",
       "perception": "1350+",
       "imageUrl": "silvergrace_ore.jpg",
       "description": "A sizable piece of rock containing traces of a precious metal known as silvergrace.",
-      "descriptionFr": "Un morceau de minerai contenant du grÃ¢çargent.",
+      "descriptionFr": "Un morceau de minerai contenant du grâçargent.",
       "descriptionDe": "Ein Erzklumpen mit hohem Silbergunstgehalt."
     },
     {
@@ -3121,7 +3121,7 @@
       "id": "rarefied-chalcocite",
       "slot": "unknown",
       "name": "Rarefied Chalcocite",
-      "nameFr": "Rarefied Chalcocite",
+      "nameFr": "Minerai de chalcocite collectionnable",
       "nameDe": "Rarefied Chalcocite",
       "description": "If you can't recognize the beauty inherent in its orthorhombic crystal system, then we can't be friends.",
       "descriptionDe": "If you can't recognize the beauty inherent in its orthorhombic crystal system, then we can't be friends.",
