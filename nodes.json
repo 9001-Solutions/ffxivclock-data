@@ -4826,9 +4826,9 @@
       "zone": "Lakeland",
       "zoneFr": "Grand-Lac",
       "zoneDe": "Seenland",
-      "teleport": "The Ondo Cups",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Fort Jobb",
+      "teleportFr": "Fort Jobb",
+      "teleportDe": "Jobb-Feste",
       "position": {
         "x": 35.9,
         "y": 26.4
@@ -4844,9 +4844,9 @@
       "zone": "Lakeland",
       "zoneFr": "Grand-Lac",
       "zoneDe": "Seenland",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Fort Jobb",
+      "teleportFr": "Fort Jobb",
+      "teleportDe": "Jobb-Feste",
       "position": {
         "x": 35.9,
         "y": 26.4
