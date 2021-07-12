@@ -4754,9 +4754,9 @@
       "zone": "The Rak'tika Greatwood",
       "zoneFr": "Rak'tika",
       "zoneDe": "Der Große Wald Rak'tika",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Slitherbough",
+      "teleportFr": "Serpentige",
+      "teleportDe": "Slitherbough",
       "position": {
         "x": 16,
         "y": 18.1
@@ -4772,9 +4772,9 @@
       "zone": "The Rak'tika Greatwood",
       "zoneFr": "Rak'tika",
       "zoneDe": "Der Große Wald Rak'tika",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Slitherbough",
+      "teleportFr": "Serpentige",
+      "teleportDe": "Slitherbough",
       "position": {
         "x": 16,
         "y": 18.1
@@ -4934,9 +4934,9 @@
       "zone": "Amh Araeng",
       "zoneFr": "Amh Araeng",
       "zoneDe": "Amh Araeng",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Twine",
+      "teleportFr": "Queues-liées",
+      "teleportDe": "Pfotenschlag",
       "position": {
         "x": 18.5,
         "y": 20.4
@@ -4952,9 +4952,9 @@
       "zone": "Amh Araeng",
       "zoneFr": "Amh Araeng",
       "zoneDe": "Amh Araeng",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Twine",
+      "teleportFr": "Queues-liées",
+      "teleportDe": "Pfotenschlag",
       "position": {
         "x": 18.5,
         "y": 20.4
@@ -5006,9 +5006,9 @@
       "zone": "The Tempest",
       "zoneFr": "La Tempête",
       "zoneDe": "Tempest",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "The Ondo Cups",
+      "teleportFr": "Baïne",
+      "teleportDe": "Ondo-Becken",
       "position": {
         "x": 37.4,
         "y": 11.6
@@ -5024,9 +5024,9 @@
       "zone": "The Tempest",
       "zoneFr": "La Tempête",
       "zoneDe": "Tempest",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "The Ondo Cups",
+      "teleportFr": "Baïne",
+      "teleportDe": "Ondo-Becken",
       "position": {
         "x": 37.4,
         "y": 11.6
@@ -5194,9 +5194,9 @@
       "zone": "Il Mheg",
       "zoneFr": "Il Mheg",
       "zoneDe": "Il Mheg",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Lydha Lran",
+      "teleportFr": "Lydha Lran",
+      "teleportDe": "Lydha Lran",
       "position": {
         "x": 4,
         "y": 23.1
@@ -5212,9 +5212,9 @@
       "zone": "Il Mheg",
       "zoneFr": "Il Mheg",
       "zoneDe": "Il Mheg",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Lydha Lran",
+      "teleportFr": "Lydha Lran",
+      "teleportDe": "Lydha Lran",
       "position": {
         "x": 4,
         "y": 23.1
