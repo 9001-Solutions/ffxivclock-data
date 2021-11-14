@@ -5366,6 +5366,42 @@
       "startTime": "20:00",
       "endTime": "22:00",
       "itemIds": ["rarefied-white-oak-log"]
+    },
+    {
+      "id": "lakeland-unknown-mining",
+      "type": "mining",
+      "subType": "folklore",
+      "zone": "Lakeland",
+      "zoneFr": "Grand-Lac",
+      "zoneDe": "Seenland",
+      "teleport": "unknown",
+      "teleportFr": "unknown",
+      "teleportDe": "unknown",
+      "position": {
+        "x": 4.4,
+        "y": 33.7
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["brashgold-ore"]
+    },
+    {
+      "id": "lakeland-unknown-mining",
+      "type": "mining",
+      "subType": "folklore",
+      "zone": "Lakeland",
+      "zoneFr": "Grand-Lac",
+      "zoneDe": "Seenland",
+      "teleport": "unknown",
+      "teleportFr": "unknown",
+      "teleportDe": "unknown",
+      "position": {
+        "x": 4.4,
+        "y": 33.7
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["brashgold-ore"]
     }
   ]
 }
