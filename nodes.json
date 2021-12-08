@@ -4166,7 +4166,10 @@
       "teleport": "The Ostall Imperative",
       "teleportFr": "L'Impératif d'Ostall",
       "teleportDe": "Ostalls Befehl",
-      "position": "unknown",
+      "position": {
+        "x": 4.7,
+        "y": 33.9
+      },
       "startTime": "2:00",
       "endTime": "3:55",
       "itemIds": ["222", "brashgold-ore"]
@@ -4181,7 +4184,10 @@
       "teleport": "The Ostall Imperative",
       "teleportFr": "L'Impératif d'Ostall",
       "teleportDe": "Ostalls Befehl",
-      "position": "unknown",
+      "position": {
+        "x": 4.7,
+        "y": 33.9
+      },
       "startTime": "14:00",
       "endTime": "15:55",
       "itemIds": ["222", "brashgold-ore"]
