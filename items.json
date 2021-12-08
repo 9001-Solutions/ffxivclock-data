@@ -3745,6 +3745,36 @@
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "solstice_stone.png"
+    },
+    {
+      "patch": 5.3,
+      "id": "brashgold-ore",
+      "slot": "unknown",
+      "name": "Brashgold Ore",
+      "nameFr": "Minerai d'étain argenté",
+      "nameDe": "Goldzinn",
+      "description": "A decent-sized piece of rock rich in a highly durable, naturally occurring alloy.",
+      "descriptionDe": "Ein faustgroßer Klumpen mit derart reinem Zinn, dass es Gold im Thema Seltenheit in nichts nachsteht.",
+      "descriptionFr": "Un morceau de minerai contenant de l'étain argenté.",
+      "level": "80",
+      "gatheringSkill": "",
+      "perception": "",
+      "imageUrl": "Brashgold_Ore.png"
+    },
+    {
+      "patch": 6.0,
+      "id": "rarefied-red-pine-log",
+      "slot": "unknown",
+      "name": "Rarefied Red Pine Log",
+      "nameFr": "Rondin de pin sylvestre collectionnable",
+      "nameDe": "Rotkiefer-Holzscheit (Sammlerstück)",
+      "description": "While this wood is more red-adjacent than truly red, \"red-adjacent pine\" does not exactly roll off the tongue.",
+      "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
+      "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
+      "level": "80",
+      "gatheringSkill": "",
+      "perception": "",
+      "imageUrl": "Rarefied_Red_Pine_Log.png"
     }
   ]
 }

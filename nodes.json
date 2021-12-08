@@ -4169,7 +4169,7 @@
       "position": "unknown",
       "startTime": "2:00",
       "endTime": "3:55",
-      "itemIds": ["222"]
+      "itemIds": ["222", "brashgold-ore"]
     },
     {
       "id": "253",
@@ -4184,7 +4184,7 @@
       "position": "unknown",
       "startTime": "14:00",
       "endTime": "15:55",
-      "itemIds": ["222"]
+      "itemIds": ["222", "brashgold-ore"]
     },
     {
       "id": "254",
@@ -4478,7 +4478,10 @@
       },
       "startTime": "2:00",
       "endTime": "3:00",
-      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
+      "itemIds": [
+        "rarefied-abalathian-spring-water",
+        "rarefied-aurum-regis-sand"
+      ]
     },
     {
       "id": "the-sea-of-clouds-14",
@@ -4496,7 +4499,10 @@
       },
       "startTime": "14:00",
       "endTime": "15:00",
-      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
+      "itemIds": [
+        "rarefied-abalathian-spring-water",
+        "rarefied-aurum-regis-sand"
+      ]
     },
     {
       "id": "the-sea-of-clouds-unknown",
@@ -5366,6 +5372,42 @@
       "startTime": "20:00",
       "endTime": "22:00",
       "itemIds": ["rarefied-white-oak-log"]
+    },
+    {
+      "id": "garlemald-4",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "unknown",
+      "teleportFr": "unknown",
+      "teleportDe": "unknown",
+      "position": {
+        "x": 35.0,
+        "y": 5.8
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["rarefied-red-pine-log"]
+    },
+    {
+      "id": "garlemald-16",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "unknown",
+      "teleportFr": "unknown",
+      "teleportDe": "unknown",
+      "position": {
+        "x": 35.0,
+        "y": 5.8
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["rarefied-red-pine-log"]
     }
   ]
 }
