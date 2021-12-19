@@ -5386,9 +5386,9 @@
       "zone": "Garlemald",
       "zoneFr": "Garlemald",
       "zoneDe": "Garlemald",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Tertium",
+      "teleportFr": "Tertium",
+      "teleportDe": "Tertium",
       "position": {
         "x": 35.0,
         "y": 5.8
@@ -5404,9 +5404,9 @@
       "zone": "Garlemald",
       "zoneFr": "Garlemald",
       "zoneDe": "Garlemald",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "teleport": "Tertium",
+      "teleportFr": "Tertium",
+      "teleportDe": "Tertium",
       "position": {
         "x": 35.0,
         "y": 5.8
@@ -5414,6 +5414,546 @@
       "startTime": "16:00",
       "endTime": "18:00",
       "itemIds": ["rarefied-red-pine-log"]
+    },
+    {
+      "id": "elpis-10",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "The Twelve Wonders",
+      "teleportFr": "The Twelve Wonders",
+      "teleportDe": "The Twelve Wonders",
+      "position": {
+        "x": 8.3,
+        "y": 36.4
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["rarefied-annite", "rarefied-blue-zircon"]
+    },
+    {
+      "id": "elpis-22",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "The Twelve Wonders",
+      "teleportFr": "The Twelve Wonders",
+      "teleportDe": "The Twelve Wonders",
+      "position": {
+        "x": 8.3,
+        "y": 36.4
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["rarefied-annite", "rarefied-blue-zircon"]
+    },
+    {
+      "id": "labrynthos-12",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Labrynthos",
+      "zoneFr": "Labrynthos",
+      "zoneDe": "Labrynthos",
+      "teleport": "The Archeion",
+      "teleportFr": "The Archeion",
+      "teleportDe": "The Archeion",
+      "position": {
+        "x": 32.5,
+        "y": 21.2
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rarefied-sharlayan-rock-salt", "rarefied-raw-ametrine"]
+    },
+    {
+      "id": "labrynthos-0",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Labrynthos",
+      "zoneFr": "Labrynthos",
+      "zoneDe": "Labrynthos",
+      "teleport": "The Archeion",
+      "teleportFr": "The Archeion",
+      "teleportDe": "The Archeion",
+      "position": {
+        "x": 32.5,
+        "y": 21.2
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rarefied-sharlayan-rock-salt", "rarefied-raw-ametrine"]
+    },
+    {
+      "id": "garlemald-2",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Camp Broken Glass",
+      "teleportFr": "Camp Broken Glass",
+      "teleportDe": "Camp Broken Glass",
+      "position": {
+        "x": 12.6,
+        "y": 21.8
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["rarefied-phrygian-ore", "rarefied-eblan-alumen"]
+    },
+    {
+      "id": "garlemald-14",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Camp Broken Glass",
+      "teleportFr": "Camp Broken Glass",
+      "teleportDe": "Camp Broken Glass",
+      "position": {
+        "x": 12.6,
+        "y": 21.8
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["rarefied-phrygian-ore", "rarefied-eblan-alumen"]
+    },
+    {
+      "id": "thavnair-4",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Palaka's Stand",
+      "teleportFr": "Palaka's Stand",
+      "teleportDe": "Palaka's Stand",
+      "position": {
+        "x": 32.4,
+        "y": 24.6
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["rarefied-pewter-ore"]
+    },
+    {
+      "id": "thavnair-16",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Palaka's Stand",
+      "teleportFr": "Palaka's Stand",
+      "teleportDe": "Palaka's Stand",
+      "position": {
+        "x": 32.4,
+        "y": 24.6
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["rarefied-pewter-ore"]
+    },
+    {
+      "id": "mare-lamentorum-6",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Sinus Lacrimarum",
+      "teleportFr": "Sinus Lacrimarum",
+      "teleportDe": "Sinus Lacrimarum",
+      "position": {
+        "x": 16.2,
+        "y": 32.5
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["rarefied-bismuth-ore"]
+    },
+    {
+      "id": "mare-lamentorum-18",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Sinus Lacrimarum",
+      "teleportFr": "Sinus Lacrimarum",
+      "teleportDe": "Sinus Lacrimarum",
+      "position": {
+        "x": 16.2,
+        "y": 32.5
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["rarefied-bismuth-ore"]
+    },
+    {
+      "id": "ultima-thule-8",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Reah Tahra",
+      "teleportFr": "Reah Tahra",
+      "teleportDe": "Reah Tahra",
+      "position": {
+        "x": 9.3,
+        "y": 33
+      },
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["rarefied-ar-caean-cotton-boll"]
+    },
+    {
+      "id": "ultima-thule-20",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Reah Tahra",
+      "teleportFr": "Reah Tahra",
+      "teleportDe": "Reah Tahra",
+      "position": {
+        "x": 9.3,
+        "y": 33
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["rarefied-ar-caean-cotton-boll"]
+    },
+    {
+      "id": "elpis-0",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Poieten Oikos",
+      "teleportFr": "Poieten Oikos",
+      "teleportDe": "Poieten Oikos",
+      "position": {
+        "x": 24.9,
+        "y": 5.6
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rarefied-sykon", "rarefied-elder-nutmeg"]
+    },
+    {
+      "id": "elpis-12",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Poieten Oikos",
+      "teleportFr": "Poieten Oikos",
+      "teleportDe": "Poieten Oikos",
+      "position": {
+        "x": 24.9,
+        "y": 5.6
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rarefied-sykon", "rarefied-elder-nutmeg"]
+    },
+    {
+      "id": "labrynthos-6",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Labrynthos",
+      "zoneFr": "Labrynthos",
+      "zoneDe": "Labrynthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": {
+        "x": 9.7,
+        "y": 22.2
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["rarefied-dark-rye", "rarefied-iceberg-lettuce"]
+    },
+    {
+      "id": "labrynthos-18",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Labrynthos",
+      "zoneFr": "Labrynthos",
+      "zoneDe": "Labrynthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": {
+        "x": 9.7,
+        "y": 22.2
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["rarefied-dark-rye", "rarefied-iceberg-lettuce"]
+    },
+    {
+      "id": "thavnair-2",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "The Great Work",
+      "teleportFr": "The Great Work",
+      "teleportDe": "The Great Work",
+      "position": {
+        "x": 14.3,
+        "y": 14.5
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["rarefied-coconut", "rarefied-palm-log"]
+    },
+    {
+      "id": "thavnair-14",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "The Great Work",
+      "teleportFr": "The Great Work",
+      "teleportDe": "The Great Work",
+      "position": {
+        "x": 14.3,
+        "y": 14.5
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["rarefied-coconut", "rarefied-palm-log"]
+    },
+    {
+      "id": "garlemald-0",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Camp Broken Glass",
+      "teleportFr": "Camp Broken Glass",
+      "teleportDe": "Camp Broken Glass",
+      "position": {
+        "x": 32,
+        "y": 34.8
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rime-dolomite", "stonehard-water"]
+    },
+    {
+      "id": "garlemald-12",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Camp Broken Glass",
+      "teleportFr": "Camp Broken Glass",
+      "teleportDe": "Camp Broken Glass",
+      "position": {
+        "x": 32,
+        "y": 34.8
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rime-dolomite", "stonehard-water"]
+    },
+    {
+      "id": "elpis-4",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Poieten Oikos",
+      "teleportFr": "Poieten Oikos",
+      "teleportDe": "Poieten Oikos",
+      "position": {
+        "x": 13.6,
+        "y": 7.2
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["stonehard-water", "rhodium-sand"]
+    },
+    {
+      "id": "elpis-16",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Poieten Oikos",
+      "teleportFr": "Poieten Oikos",
+      "teleportDe": "Poieten Oikos",
+      "position": {
+        "x": 13.6,
+        "y": 7.2
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["stonehard-water", "rhodium-sand"]
+    },
+    {
+      "id": "mare-lamentorum-2",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Sinus Lacrimarum",
+      "teleportFr": "Sinus Lacrimarum",
+      "teleportDe": "Sinus Lacrimarum",
+      "position": {
+        "x": 10,
+        "y": 23.6
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["stonehard-water", "lunar-adamantite-ore"]
+    },
+    {
+      "id": "mare-lamentorum-14",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Sinus Lacrimarum",
+      "teleportFr": "Sinus Lacrimarum",
+      "teleportDe": "Sinus Lacrimarum",
+      "position": {
+        "x": 10,
+        "y": 23.6
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["stonehard-water", "lunar-adamantite-ore"]
+    },
+    {
+      "id": "ultima-thule-10",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Abode of the Ea",
+      "teleportFr": "Abode of the Ea",
+      "teleportDe": "Abode of the Ea",
+      "position": {
+        "x": 28,
+        "y": 13
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["potent-spice", "double-edged-herb"]
+    },
+    {
+      "id": "ultima-thule-22",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Abode of the Ea",
+      "teleportFr": "Abode of the Ea",
+      "teleportDe": "Abode of the Ea",
+      "position": {
+        "x": 28,
+        "y": 13
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["potent-spice", "double-edged-herb"]
+    },
+    {
+      "id": "thavnair-8",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Palaka's Stand",
+      "teleportFr": "Palaka's Stand",
+      "teleportDe": "Palaka's Stand",
+      "position": {
+        "x": 25.4,
+        "y": 21.4
+      },
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["potent-spice", "golden-cocoon"]
+    },
+    {
+      "id": "thavnair-20",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Palaka's Stand",
+      "teleportFr": "Palaka's Stand",
+      "teleportDe": "Palaka's Stand",
+      "position": {
+        "x": 25.4,
+        "y": 21.4
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["potent-spice", "golden-cocoon"]
+    },
+    {
+      "id": "elpis-6",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Anagnorisis",
+      "teleportFr": "Anagnorisis",
+      "teleportDe": "Anagnorisis",
+      "position": {
+        "x": 33,
+        "y": 15
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["potent-spice", "mempisang-log"]
+    },
+    {
+      "id": "elpis-18",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Anagnorisis",
+      "teleportFr": "Anagnorisis",
+      "teleportDe": "Anagnorisis",
+      "position": {
+        "x": 33,
+        "y": 15
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["potent-spice", "mempisang-log"]
     }
   ]
 }
