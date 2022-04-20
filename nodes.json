@@ -5755,7 +5755,7 @@
       },
       "startTime": "0:00",
       "endTime": "2:00",
-      "itemIds": ["rime-dolomite", "stonehard-water"]
+      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
     },
     {
       "id": "garlemald-12",
@@ -5773,7 +5773,7 @@
       },
       "startTime": "12:00",
       "endTime": "14:00",
-      "itemIds": ["rime-dolomite", "stonehard-water"]
+      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
     },
     {
       "id": "elpis-4",
@@ -5899,7 +5899,7 @@
       },
       "startTime": "8:00",
       "endTime": "10:00",
-      "itemIds": ["potent-spice", "golden-cocoon"]
+      "itemIds": ["potent-spice", "golden-cocoon", "thavnairian-corn"]
     },
     {
       "id": "thavnair-20",
@@ -5917,7 +5917,7 @@
       },
       "startTime": "20:00",
       "endTime": "22:00",
-      "itemIds": ["potent-spice", "golden-cocoon"]
+      "itemIds": ["potent-spice", "golden-cocoon", "thavnairian-corn"]
     },
     {
       "id": "elpis-6",
