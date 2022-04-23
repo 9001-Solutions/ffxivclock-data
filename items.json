@@ -4124,7 +4124,7 @@
     {
       "patch": 6.1,
       "id": "raw-eblan-danburite",
-      "slot": "?",
+      "slot": "8",
       "name": "Raw Eblan Danburite",
       "nameFr": "Danburite brute d'Éblana",
       "nameDe": "Roh-Eblan-Danburit",
@@ -4133,13 +4133,13 @@
       "descriptionDe": "Ein ungeschliffener Stein mit Eblan-Danburit-Einschluss.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "3230",
       "imageUrl": "raw-eblan-danburite.png"
     },
     {
       "patch": 6.1,
       "id": "thavnairian-corn",
-      "slot": "?",
+      "slot": "3",
       "name": "Thavnairian Corn",
       "nameFr": "Épi de maïs thavnairois",
       "nameDe": "Thavnair-Maiskolben",
@@ -4148,7 +4148,7 @@
       "descriptionDe": "Eine selektiv gezüchtete Variante, die aus Mais kultiviert wurde, der einst aus der Neuen Welt nach Thavnair gebracht wurde. Geschätzt für seinen Nährwert und seine alchemistische Verwendung.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "3230",
       "imageUrl": "thavnairian-corn.png"
     }
   ]
