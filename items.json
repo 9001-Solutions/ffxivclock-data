@@ -3771,7 +3771,7 @@
       "description": "While this wood is more red-adjacent than truly red, \"red-adjacent pine\" does not exactly roll off the tongue.",
       "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
       "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
-      "level": "80",
+      "level": "83",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "Rarefied_Red_Pine_Log.png"
@@ -3801,7 +3801,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90*",
+      "level": "89*",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-blue-zircon.png"
@@ -3816,7 +3816,7 @@
       "description": "Everyone talks so much about how salt tastes and not enough about how it looks.",
       "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
       "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
-      "level": "90",
+      "level": "85",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-sharlayan-rock-salt.png"
@@ -3831,7 +3831,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "81",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-raw-ametrine.png"
@@ -3846,7 +3846,7 @@
       "description": "Not everything that glitters is gold─sometimes it is much more valuable.",
       "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
       "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
-      "level": "90",
+      "level": "87",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-phrygian-ore.png"
@@ -3876,7 +3876,7 @@
       "description": "Pewter? I barely know her!",
       "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
       "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-pewter-ore.png"
@@ -3891,7 +3891,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "83",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-bismuth-ore.png"
@@ -3906,7 +3906,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-ar-caean-cotton-boll.png"
@@ -3921,7 +3921,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "87",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-sykon.png"
@@ -3951,7 +3951,7 @@
       "description": "This hearty grain is a culinarian's delight─though much more so after the tiresome grinding step is complete.",
       "descriptionFr": "Une marchandise exceptionnelle et digne d'être exposée.",
       "descriptionDe": "Ein Sammlerstück für Wunschlieferungen.",
-      "level": "90",
+      "level": "89",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-dark-rye.png"
@@ -3966,7 +3966,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-iceberg-lettuce.png"
@@ -3981,7 +3981,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "85",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-coconut.png"
@@ -3996,7 +3996,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "81",
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-palm-log.png"
@@ -4028,7 +4028,7 @@
       "descriptionDe": "Ein Heilkraut mit großer medizinischer Wirkung. Auf der Suche nach ihm ist so manch einer vom Weg abgekommen und nie wieder gesehen worden.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "double-edged-herb.png"
     },
     {
@@ -4043,7 +4043,7 @@
       "descriptionDe": "???",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "rime-dolomite.png"
     },
     {
@@ -4073,7 +4073,7 @@
       "descriptionDe": "Ein abgehacktes Stück Mempisangholz.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "mempisang-log.png"
     },
     {
@@ -4088,7 +4088,7 @@
       "descriptionFr": "Sand consisting of tiny grains of rhodium.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "rhodium-sand-placeholder.png"
     },
     {
@@ -4103,7 +4103,7 @@
       "descriptionDe": "???",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "golden-cocoon.png"
     },
     {
@@ -4118,7 +4118,7 @@
       "descriptionDe": "Ein Erzklumpen mit hohem Gehalt an lunarem Adamantium.",
       "level": "90",
       "gatheringSkill": "",
-      "perception": "",
+      "perception": "2990",
       "imageUrl": "lunar-adamantite-ore.png"
     },
     {
