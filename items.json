@@ -4026,7 +4026,7 @@
       "description": "Incredibly potent, but also incredibly hard to find without getting lost in the woods and meeting an untimely end.",
       "descriptionFr": "La feuille d'une puissante plante médicinale. Nombreux sont ceux et celles qui se sont égarés pour toujours dans la forêt en voulant en cueillir.",
       "descriptionDe": "Ein Heilkraut mit großer medizinischer Wirkung. Auf der Suche nach ihm ist so manch einer vom Weg abgekommen und nie wieder gesehen worden.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "double-edged-herb.png"
@@ -4041,7 +4041,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "rime-dolomite.png"
@@ -4071,7 +4071,7 @@
       "description": "A rough-cut log of mempisang.",
       "descriptionFr": "Un imposant rondin de mempisang.",
       "descriptionDe": "Ein abgehacktes Stück Mempisangholz.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "mempisang-log.png"
@@ -4086,7 +4086,7 @@
       "description": "Sand consisting of tiny grains of rhodium.",
       "descriptionDe": "Sand consisting of tiny grains of rhodium.",
       "descriptionFr": "Sand consisting of tiny grains of rhodium.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "rhodium-sand-placeholder.png"
@@ -4101,7 +4101,7 @@
       "description": "???",
       "descriptionFr": "???",
       "descriptionDe": "???",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "golden-cocoon.png"
@@ -4116,7 +4116,7 @@
       "description": "Ore rich in lunar adamantite.",
       "descriptionFr": "Un morceau de minerai contenant de l'adamantium sélénien.",
       "descriptionDe": "Ein Erzklumpen mit hohem Gehalt an lunarem Adamantium.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "2990",
       "imageUrl": "lunar-adamantite-ore.png"
@@ -4131,7 +4131,7 @@
       "description": "An uncut, unpolished stone containing what appears to be Eblan danburite.",
       "descriptionFr": "Une pierre brute qui semble contenir une danburite d'Éblana.",
       "descriptionDe": "Ein ungeschliffener Stein mit Eblan-Danburit-Einschluss.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "3230",
       "imageUrl": "raw-eblan-danburite.png"
@@ -4146,7 +4146,7 @@
       "description": "A selectively bred variant cultivated from the maize once brought to Thavnair from the New World. Valued for its nutritional value and alchemical uses alike.",
       "descriptionFr": "Originaire du nouveau continent, cette variété de maïs est issue de la culture sélective. On peut bien sûr l'utiliser en cuisine, mais c'est aussi un excellent ingrédient alchimique.",
       "descriptionDe": "Eine selektiv gezüchtete Variante, die aus Mais kultiviert wurde, der einst aus der Neuen Welt nach Thavnair gebracht wurde. Geschätzt für seinen Nährwert und seine alchemistische Verwendung.",
-      "level": "90",
+      "level": "90*",
       "gatheringSkill": "",
       "perception": "3230",
       "imageUrl": "thavnairian-corn.png"
