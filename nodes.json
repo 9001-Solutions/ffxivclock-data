@@ -784,15 +784,15 @@
     {
       "id": "45",
       "type": "fishing",
-      "zone": "MISSING_DATA",
-      "zoneFr": "MISSING_DATA",
-      "zoneDe": "MISSING_DATA",
+      "zone": "Western La Noscea",
+      "zoneFr": "Noscea occidentale",
+      "zoneDe": "Westliches La Noscea",
       "teleport": "The Brewer's Beacon",
       "teleportFr": "Phare Des Brasseurs",
       "teleportDe": "Leuchtturm Braubake",
       "position": "unknown",
-      "startTime": "6:00",
-      "endTime": "18:00",
+      "startTime": "9:00",
+      "endTime": "14:00",
       "itemIds": ["63"]
     },
     {
