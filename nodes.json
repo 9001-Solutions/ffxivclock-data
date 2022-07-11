@@ -3866,7 +3866,10 @@
       "teleport": "Wright",
       "teleportFr": "Cherpant",
       "teleportDe": "Werfting",
-      "position": "unknown",
+      "position": {
+        "x": 20,
+        "y": 27
+      },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["207"]
