@@ -5764,7 +5764,13 @@
       },
       "startTime": "0:00",
       "endTime": "2:00",
-      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite", "prime-siderite"]
+      "itemIds": [
+        "rime-dolomite",
+        "stonehard-water",
+        "raw-eblan-danburite",
+        "prime-siderite",
+        "sublime-siderite"
+      ]
     },
     {
       "id": "garlemald-12",
@@ -5782,7 +5788,13 @@
       },
       "startTime": "12:00",
       "endTime": "14:00",
-      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite", "prime-siderite"]
+      "itemIds": [
+        "rime-dolomite",
+        "stonehard-water",
+        "raw-eblan-danburite",
+        "prime-siderite",
+        "sublime-siderite"
+      ]
     },
     {
       "id": "elpis-4",
@@ -5872,7 +5884,12 @@
       },
       "startTime": "10:00",
       "endTime": "12:00",
-      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom"]
+      "itemIds": [
+        "potent-spice",
+        "double-edged-herb",
+        "prime-crystalbloom",
+        "sublime-crystalbloom"
+      ]
     },
     {
       "id": "ultima-thule-22",
@@ -5890,7 +5907,12 @@
       },
       "startTime": "22:00",
       "endTime": "0:00",
-      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom"]
+      "itemIds": [
+        "potent-spice",
+        "double-edged-herb",
+        "prime-crystalbloom",
+        "sublime-crystalbloom"
+      ]
     },
     {
       "id": "thavnair-8",
@@ -5974,7 +5996,10 @@
       "teleport": "Yedlihmad",
       "teleportFr": "Yedlihmad",
       "teleportDe": "Yedlihmad",
-      "position": "unknown",
+      "position": {
+        "x": 28,
+        "y": 26
+      },
       "startTime": "0:00",
       "endTime": "2:00",
       "itemIds": ["haritaki"]
@@ -5989,7 +6014,10 @@
       "teleport": "Yedlihmad",
       "teleportFr": "Yedlihmad",
       "teleportDe": "Yedlihmad",
-      "position": "unknown",
+      "position": {
+        "x": 28,
+        "y": 26
+      },
       "startTime": "12:00",
       "endTime": "14:00",
       "itemIds": ["haritaki"]
@@ -6004,7 +6032,10 @@
       "teleport": "The Twelve Wonders",
       "teleportFr": "The Twelve Wonders",
       "teleportDe": "The Twelve Wonders",
-      "position": "unknown",
+      "position": {
+        "x": 10,
+        "y": 30
+      },
       "startTime": "2:00",
       "endTime": "4:00",
       "itemIds": ["paldao-log"]
@@ -6019,7 +6050,10 @@
       "teleport": "The Twelve Wonders",
       "teleportFr": "The Twelve Wonders",
       "teleportDe": "The Twelve Wonders",
-      "position": "unknown",
+      "position": {
+        "x": 10,
+        "y": 30
+      },
       "startTime": "14:00",
       "endTime": "16:00",
       "itemIds": ["paldao-log"]
@@ -6034,7 +6068,10 @@
       "teleport": "The Archeion",
       "teleportFr": "The Archeion",
       "teleportDe": "The Archeion",
-      "position": "unknown",
+      "position": {
+        "x": 28,
+        "y": 11
+      },
       "startTime": "4:00",
       "endTime": "6:00",
       "itemIds": ["bayberry"]
@@ -6049,7 +6086,10 @@
       "teleport": "The Archeion",
       "teleportFr": "The Archeion",
       "teleportDe": "The Archeion",
-      "position": "unknown",
+      "position": {
+        "x": 28,
+        "y": 11
+      },
       "startTime": "16:00",
       "endTime": "18:00",
       "itemIds": ["bayberry"]
@@ -6064,10 +6104,13 @@
       "teleport": "Tertium",
       "teleportFr": "Tertium",
       "teleportDe": "Tertium",
-      "position": "unknown",
+      "position": {
+        "x": 32,
+        "y": 16
+      },
       "startTime": "6:00",
       "endTime": "8:00",
-      "itemIds": ["Raw Rutilated Quartz"]
+      "itemIds": ["raw-rutilated-quartz"]
     },
     {
       "id": "garlemald-18",
@@ -6079,10 +6122,13 @@
       "teleport": "Tertium",
       "teleportFr": "Tertium",
       "teleportDe": "Tertium",
-      "position": "unknown",
+      "position": {
+        "x": 32,
+        "y": 16
+      },
       "startTime": "18:00",
       "endTime": "20:00",
-      "itemIds": ["Raw Rutilated Quartz"]
+      "itemIds": ["raw-rutilated-quartz"]
     },
     {
       "id": "mare-lamentorum-8",
@@ -6094,10 +6140,13 @@
       "teleport": "Bestways Burrow",
       "teleportFr": "Bestways Burrow",
       "teleportDe": "Bestways Burrow",
-      "position": "unknown",
+      "position": {
+        "x": 29,
+        "y": 22
+      },
       "startTime": "8:00",
       "endTime": "10:00",
-      "itemIds": ["Ilmenite"]
+      "itemIds": ["ilmenite"]
     },
     {
       "id": "mare-lamentorum-20",
@@ -6109,10 +6158,13 @@
       "teleport": "Bestways Burrow",
       "teleportFr": "Bestways Burrow",
       "teleportDe": "Bestways Burrow",
-      "position": "unknown",
+      "position": {
+        "x": 29,
+        "y": 22
+      },
       "startTime": "20:00",
       "endTime": "22:00",
-      "itemIds": ["Ilmenite"]
+      "itemIds": ["ilmenite"]
     },
     {
       "id": "labyrinthos-10",
@@ -6124,7 +6176,10 @@
       "teleport": "Aporia",
       "teleportFr": "Aporia",
       "teleportDe": "Aporia",
-      "position": "unknown",
+      "position": {
+        "x": 10,
+        "y": 21
+      },
       "startTime": "10:00",
       "endTime": "12:00",
       "itemIds": ["ash-diatomite"]
@@ -6139,7 +6194,10 @@
       "teleport": "Aporia",
       "teleportFr": "Aporia",
       "teleportDe": "Aporia",
-      "position": "unknown",
+      "position": {
+        "x": 10,
+        "y": 21
+      },
       "startTime": "22:00",
       "endTime": "0:00",
       "itemIds": ["ash-diatomite"]
