@@ -3626,7 +3626,10 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": {
+        "x": 16.0,
+        "y": 21.0
+      },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["199"]
@@ -3641,7 +3644,10 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": {
+        "x": 16.0,
+        "y": 21.0
+      },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["199"]
