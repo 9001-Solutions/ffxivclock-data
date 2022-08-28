@@ -5758,7 +5758,7 @@
       },
       "startTime": "0:00",
       "endTime": "2:00",
-      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
+      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite", "prime-siderite"]
     },
     {
       "id": "garlemald-12",
@@ -5776,7 +5776,7 @@
       },
       "startTime": "12:00",
       "endTime": "14:00",
-      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
+      "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite", "prime-siderite"]
     },
     {
       "id": "elpis-4",
@@ -5866,7 +5866,7 @@
       },
       "startTime": "10:00",
       "endTime": "12:00",
-      "itemIds": ["potent-spice", "double-edged-herb"]
+      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom"]
     },
     {
       "id": "ultima-thule-22",
@@ -5884,7 +5884,7 @@
       },
       "startTime": "22:00",
       "endTime": "0:00",
-      "itemIds": ["potent-spice", "double-edged-herb"]
+      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom"]
     },
     {
       "id": "thavnair-8",
@@ -5957,6 +5957,186 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "itemIds": ["potent-spice", "mempisang-log"]
+    },
+    {
+      "id": "thavnair-0",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Yedlihmad",
+      "teleportFr": "Yedlihmad",
+      "teleportDe": "Yedlihmad",
+      "position": "unknown",
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["haritaki"]
+    },
+    {
+      "id": "thavnair-12",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Yedlihmad",
+      "teleportFr": "Yedlihmad",
+      "teleportDe": "Yedlihmad",
+      "position": "unknown",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["haritaki"]
+    },
+    {
+      "id": "elpis-2",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "The Twelve Wonders",
+      "teleportFr": "The Twelve Wonders",
+      "teleportDe": "The Twelve Wonders",
+      "position": "unknown",
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["paldao-log"]
+    },
+    {
+      "id": "elpis-14",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "The Twelve Wonders",
+      "teleportFr": "The Twelve Wonders",
+      "teleportDe": "The Twelve Wonders",
+      "position": "unknown",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["paldao-log"]
+    },
+    {
+      "id": "labyrinthos-4",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "The Archeion",
+      "teleportFr": "The Archeion",
+      "teleportDe": "The Archeion",
+      "position": "unknown",
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["bayberry"]
+    },
+    {
+      "id": "labyrinthos-16",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "The Archeion",
+      "teleportFr": "The Archeion",
+      "teleportDe": "The Archeion",
+      "position": "unknown",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["bayberry"]
+    },
+    {
+      "id": "garlemald-6",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Tertium",
+      "teleportFr": "Tertium",
+      "teleportDe": "Tertium",
+      "position": "unknown",
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["Raw Rutilated Quartz"]
+    },
+    {
+      "id": "garlemald-18",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Tertium",
+      "teleportFr": "Tertium",
+      "teleportDe": "Tertium",
+      "position": "unknown",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["Raw Rutilated Quartz"]
+    },
+    {
+      "id": "mare-lamentorum-8",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Bestways Burrow",
+      "teleportFr": "Bestways Burrow",
+      "teleportDe": "Bestways Burrow",
+      "position": "unknown",
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["Ilmenite"]
+    },
+    {
+      "id": "mare-lamentorum-20",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Bestways Burrow",
+      "teleportFr": "Bestways Burrow",
+      "teleportDe": "Bestways Burrow",
+      "position": "unknown",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["Ilmenite"]
+    },
+    {
+      "id": "labyrinthos-10",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": "unknown",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["ash-diatomite"]
+    },
+    {
+      "id": "labyrinthos-22",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": "unknown",
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["ash-diatomite"]
     }
   ]
 }
