@@ -6168,7 +6168,7 @@
     },
     {
       "id": "labyrinthos-10",
-      "type": "botany",
+      "type": "mining",
       "subType": "legendary",
       "zone": "Labyrinthos",
       "zoneFr": "Labyrinthos",
@@ -6186,7 +6186,7 @@
     },
     {
       "id": "labyrinthos-22",
-      "type": "botany",
+      "type": "mining",
       "subType": "legendary",
       "zone": "Labyrinthos",
       "zoneFr": "Labyrinthos",
