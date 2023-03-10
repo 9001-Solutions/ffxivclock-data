@@ -4571,7 +4571,7 @@
       },
       "startTime": "16:00",
       "endTime": "17:00",
-      "itemIds": ["rarefied-chalcocite"]
+      "itemIds": ["rarefied-limonite", "rarefied-chalcocite"]
     },
     {
       "id": "the-fringes-10",
@@ -4661,7 +4661,7 @@
       },
       "startTime": "4:00",
       "endTime": "5:00",
-      "itemIds": ["rarefied-limonite", "rarefied-pyrite"]
+      "itemIds": ["rarefied-pyrite"]
     },
     {
       "id": "the-rak'tika-greatwood-unknown",
