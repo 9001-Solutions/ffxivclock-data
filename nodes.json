@@ -5357,11 +5357,11 @@
       "type": "botany",
       "subType": "unspoiled",
       "zone": "Kholusia",
-      "zoneFr": "unknown",
-      "zoneDe": "unknown",
-      "teleport": "Stilltide",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "zoneFr": "Kholusia",
+      "zoneDe": "Kholusia",
+      "teleport": "Wright",
+      "teleportFr": "Cherpant",
+      "teleportDe": "Werfting",
       "position": {
         "x": 27.8,
         "y": 32.7
@@ -5375,11 +5375,11 @@
       "type": "botany",
       "subType": "unspoiled",
       "zone": "Kholusia",
-      "zoneFr": "unknown",
-      "zoneDe": "unknown",
-      "teleport": "Stilltide",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
+      "zoneFr": "Kholusia",
+      "zoneDe": "Kholusia",
+      "teleport": "Wright",
+      "teleportFr": "Cherpant",
+      "teleportDe": "Werfting",
       "position": {
         "x": 27.8,
         "y": 32.7
