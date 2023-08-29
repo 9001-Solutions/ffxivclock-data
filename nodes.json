@@ -6038,7 +6038,7 @@
       },
       "startTime": "2:00",
       "endTime": "4:00",
-      "itemIds": ["paldao-log"]
+      "itemIds": ["paldao-log", "prime-sphongos"]
     },
     {
       "id": "elpis-14",
@@ -6074,7 +6074,7 @@
       },
       "startTime": "4:00",
       "endTime": "6:00",
-      "itemIds": ["bayberry"]
+      "itemIds": ["bayberry", "mornveil-tree-bark"]
     },
     {
       "id": "labyrinthos-16",
@@ -6110,7 +6110,7 @@
       },
       "startTime": "6:00",
       "endTime": "8:00",
-      "itemIds": ["raw-rutilated-quartz"]
+      "itemIds": ["raw-rutilated-quartz", "raw-zoisite"]
     },
     {
       "id": "garlemald-18",
@@ -6146,7 +6146,7 @@
       },
       "startTime": "8:00",
       "endTime": "10:00",
-      "itemIds": ["ilmenite"]
+      "itemIds": ["ilmenite", "prime-achondrite"]
     },
     {
       "id": "mare-lamentorum-20",
@@ -6201,6 +6201,126 @@
       "startTime": "22:00",
       "endTime": "0:00",
       "itemIds": ["ash-diatomite"]
+    },
+    {
+      "id": "labyrinthos-2",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": "unknown",
+      "startTime": "2:00",
+      "endTime": "3:00",
+      "itemIds": ["dark-cherry-log"]
+    },
+    {
+      "id": "ultima-thule-4",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Reah Tahra",
+      "teleportFr": "Reah Tahra",
+      "teleportDe": "Reah Tahra",
+      "position": "unknown",
+      "startTime": "4:00",
+      "endTime": "5:00",
+      "itemIds": ["softsilver-ore"]
+    },
+    {
+      "id": "thavnair-6",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Ultima Thule",
+      "zoneFr": "Ultima Thule",
+      "zoneDe": "Ultima Thule",
+      "teleport": "Reah Tahra",
+      "teleportFr": "Reah Tahra",
+      "teleportDe": "Reah Tahra",
+      "position": "unknown",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "itemIds": ["maghemite"]
+    },
+    {
+      "id": "elpis-8",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Elpis",
+      "zoneFr": "Elpis",
+      "zoneDe": "Elpis",
+      "teleport": "Anagnorsis",
+      "teleportFr": "Anagnorsis",
+      "teleportDe": "Anagnorsis",
+      "position": "unknown",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "itemIds": ["raw-spodumene"]
+    },
+    {
+      "id": "garlemald-10",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Garlemald",
+      "zoneFr": "Garlemald",
+      "zoneDe": "Garlemald",
+      "teleport": "Tertium",
+      "teleportFr": "Tertium",
+      "teleportDe": "Tertium",
+      "position": "unknown",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "itemIds": ["field-mustard"]
+    },
+    {
+      "id": "labyrinthos-10",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Labyrinthos",
+      "zoneFr": "Labyrinthos",
+      "zoneDe": "Labyrinthos",
+      "teleport": "Aporia",
+      "teleportFr": "Aporia",
+      "teleportDe": "Aporia",
+      "position": "unknown",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "itemIds": ["prime-chloroschist"]
+    },
+    {
+      "id": "mare-lamentorum-12",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Mare Lamentorum",
+      "zoneFr": "Mare Lamentorum",
+      "zoneDe": "Mare Lamentorum",
+      "teleport": "Bestways Burrow",
+      "teleportFr": "Bestways Burrow",
+      "teleportDe": "Bestways Burrow",
+      "position": "unknown",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "itemIds": ["lovingbloom"]
+    },
+    {
+      "id": "thavnair-12",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Yedlimad",
+      "teleportFr": "Yedlimad",
+      "teleportDe": "Yedlimad",
+      "position": "unknown",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "itemIds": ["prime-haritaki"]
     }
   ]
 }
