@@ -4333,7 +4333,7 @@
     },
     {
       "patch": 6.4,
-      "id": "Maghemite",
+      "id": "maghemite",
       "slot": "?",
       "name": "Maghemite",
       "nameFr": "Maghemite",
@@ -4348,7 +4348,7 @@
     },
     {
       "patch": 6.4,
-      "id": "Raw Spodumene",
+      "id": "raw-spodumene",
       "slot": "?",
       "name": "Raw Spodumene",
       "nameFr": "Raw Spodumene",
@@ -4438,7 +4438,7 @@
     },
     {
       "patch": 6.4,
-      "id": "Prime Achondrite",
+      "id": "prime-achondrite",
       "slot": "?",
       "name": "Prime Achondrite",
       "nameFr": "Prime Achondrite",
