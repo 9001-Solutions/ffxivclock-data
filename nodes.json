@@ -1910,7 +1910,10 @@
       "teleport": "Falcon's Nest",
       "teleportFr": "Nid Du Faucon",
       "teleportDe": "Falkenhorst",
-      "position": "unknown",
+      "position": {
+        "x": "23",
+        "y": "21"
+      },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["131"]
@@ -2627,7 +2630,10 @@
       "teleport": "Falcon's Nest",
       "teleportFr": "Nid Du Faucon",
       "teleportDe": "Falkenhorst",
-      "position": "unknown",
+      "position": {
+        "x": "23",
+        "y": "21"
+      },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["131"]
