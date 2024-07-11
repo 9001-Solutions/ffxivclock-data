@@ -4499,10 +4499,7 @@
       },
       "startTime": "2:00",
       "endTime": "3:00",
-      "itemIds": [
-        "rarefied-abalathian-spring-water",
-        "rarefied-aurum-regis-sand"
-      ]
+      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
     },
     {
       "id": "the-sea-of-clouds-14",
@@ -4520,10 +4517,7 @@
       },
       "startTime": "14:00",
       "endTime": "15:00",
-      "itemIds": [
-        "rarefied-abalathian-spring-water",
-        "rarefied-aurum-regis-sand"
-      ]
+      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
     },
     {
       "id": "the-sea-of-clouds-unknown",
@@ -5890,12 +5884,7 @@
       },
       "startTime": "10:00",
       "endTime": "12:00",
-      "itemIds": [
-        "potent-spice",
-        "double-edged-herb",
-        "prime-crystalbloom",
-        "sublime-crystalbloom"
-      ]
+      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom", "sublime-crystalbloom"]
     },
     {
       "id": "ultima-thule-22",
@@ -5913,12 +5902,7 @@
       },
       "startTime": "22:00",
       "endTime": "0:00",
-      "itemIds": [
-        "potent-spice",
-        "double-edged-herb",
-        "prime-crystalbloom",
-        "sublime-crystalbloom"
-      ]
+      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom", "sublime-crystalbloom"]
     },
     {
       "id": "thavnair-8",
@@ -6242,16 +6226,19 @@
       "id": "thavnair-6",
       "type": "mining",
       "subType": "legendary",
-      "zone": "Ultima Thule",
-      "zoneFr": "Ultima Thule",
-      "zoneDe": "Ultima Thule",
-      "teleport": "Reah Tahra",
-      "teleportFr": "Reah Tahra",
-      "teleportDe": "Reah Tahra",
-      "position": "unknown",
+      "zone": "Thavnair",
+      "zoneFr": "Thavnair",
+      "zoneDe": "Thavnair",
+      "teleport": "Unknown",
+      "teleportFr": "Unknown",
+      "teleportDe": "Unknown",
       "startTime": "6:00",
       "endTime": "7:00",
-      "itemIds": ["maghemite"]
+      "itemIds": ["maghemite"],
+      "position": {
+        "x": 23.5,
+        "y": 13.3
+      }
     },
     {
       "id": "elpis-8",
@@ -6327,6 +6314,510 @@
       "startTime": "12:00",
       "endTime": "13:00",
       "itemIds": ["prime-haritaki"]
+    },
+    {
+      "id": "kozamauka-0",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Earthenshire",
+      "teleportFr": "Earthenshire",
+      "teleportDe": "Earthenshire",
+      "position": {
+        "x": 7.8,
+        "y": 31
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["ipe-log"]
+    },
+    {
+      "id": "kozamauka-12",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Earthenshire",
+      "teleportFr": "Earthenshire",
+      "teleportDe": "Earthenshire",
+      "position": {
+        "x": 7.8,
+        "y": 31
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["ipe-log"]
+    },
+    {
+      "id": "shaaloani-2",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Sheshenewezi Springs",
+      "teleportFr": "Sheshenewezi Springs",
+      "teleportDe": "Sheshenewezi Springs",
+      "position": {
+        "x": 10.5,
+        "y": 31.2
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["nopaliflower"]
+    },
+    {
+      "id": "shaaloani-14",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Sheshenewezi Springs",
+      "teleportFr": "Sheshenewezi Springs",
+      "teleportDe": "Sheshenewezi Springs",
+      "position": {
+        "x": 10.5,
+        "y": 31.2
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["nopaliflower"]
+    },
+    {
+      "id": "living-memory-4",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 28.8,
+        "y": 16.8
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["blackseed-cotton-boll"]
+    },
+    {
+      "id": "living-memory-16",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 28.8,
+        "y": 16.8
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["blackseed-cotton-boll"]
+    },
+    {
+      "id": "living-memory-6",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 9.3,
+        "y": 15.2
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["harmonite-ore"]
+    },
+    {
+      "id": "living-memory-18",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 9.3,
+        "y": 15.2
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["harmonite-ore"]
+    },
+    {
+      "id": "urqopacha-8",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Worlar's Echo",
+      "teleportFr": "Worlar's Echo",
+      "teleportDe": "Worlar's Echo",
+      "position": {
+        "x": 36.8,
+        "y": 29.7
+      },
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["turali-alumen"]
+    },
+    {
+      "id": "urqopacha-20",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Worlar's Echo",
+      "teleportFr": "Worlar's Echo",
+      "teleportDe": "Worlar's Echo",
+      "position": {
+        "x": 36.8,
+        "y": 29.7
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["turali-alumen"]
+    },
+    {
+      "id": "shaaloani-10",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 36.9,
+        "y": 27.5
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["fine-silver-ore"]
+    },
+    {
+      "id": "shaaloani-22",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 36.9,
+        "y": 27.5
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["fine-silver-ore"]
+    },
+    {
+      "id": "living-memory-0",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 25,
+        "y": 17.2
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rarefied-ash-soil"]
+    },
+    {
+      "id": "living-memory-12",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Pyro",
+      "teleportFr": "Leynode Pyro",
+      "teleportDe": "Leynode Pyro",
+      "position": {
+        "x": 25,
+        "y": 17.2
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rarefied-ash-soil"]
+    },
+    {
+      "id": "urqopacha-0",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Wachunpelo",
+      "teleportFr": "Wachunpelo",
+      "teleportDe": "Wachunpelo",
+      "position": {
+        "x": 5.8,
+        "y": 23.7
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rarefied-mountain-flax"]
+    },
+    {
+      "id": "urqopacha-12",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Wachunpelo",
+      "teleportFr": "Wachunpelo",
+      "teleportDe": "Wachunpelo",
+      "position": {
+        "x": 5.8,
+        "y": 23.7
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rarefied-mountain-flax"]
+    },
+    {
+      "id": "yak-tel-2",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Yak T'el",
+      "zoneFr": "Yak T'el",
+      "zoneDe": "Yak T'el",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 36.8,
+        "y": 34.8
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["rarefied-sweet-kukuru-bean", "rarefied-dark-mahogany-log"]
+    },
+    {
+      "id": "yak-tel-14",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Yak T'el",
+      "zoneFr": "Yak T'el",
+      "zoneDe": "Yak T'el",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 36.8,
+        "y": 34.8
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["rarefied-sweet-kukuru-bean", "rarefied-dark-mahogany-log"]
+    },
+    {
+      "id": "heritage-found-4",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Yyasulani Station",
+      "teleportFr": "Yyasulani Station",
+      "teleportDe": "Yyasulani Station",
+      "position": {
+        "x": 34.4,
+        "y": 8.3
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["rarefied-white-gold-ore", "rarefied-rakaznar-ore"]
+    },
+    {
+      "id": "heritage-found-16",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Yyasulani Station",
+      "teleportFr": "Yyasulani Station",
+      "teleportDe": "Yyasulani Station",
+      "position": {
+        "x": 34.4,
+        "y": 8.3
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["rarefied-white-gold-ore", "rarefied-rakaznar-ore"]
+    },
+    {
+      "id": "shaaloani-6",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 31.6,
+        "y": 20.4
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["rarefied-acacia-bark", "rarefied-acacia-log"]
+    },
+    {
+      "id": "shaaloani-18",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 31.6,
+        "y": 20.4
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["rarefied-acacia-bark", "rarefied-acacia-log"]
+    },
+    {
+      "id": "shaaloani-8",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Sheshenewezi Springs",
+      "teleportFr": "Sheshenewezi Springs",
+      "teleportDe": "Sheshenewezi Springs",
+      "position": {
+        "x": 9.3,
+        "y": 24
+      },
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["rarefied-magnesite-ore", "rarefied-titanium-gold-ore"]
+    },
+    {
+      "id": "shaaloani-20",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Sheshenewezi Springs",
+      "teleportFr": "Sheshenewezi Springs",
+      "teleportDe": "Sheshenewezi Springs",
+      "position": {
+        "x": 9.3,
+        "y": 24
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["rarefied-magnesite-ore", "rarefied-titanium-gold-ore"]
+    },
+    {
+      "id": "kozamauka-10",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'Hanu",
+      "teleportFr": "Ok'Hanu",
+      "teleportDe": "Ok'Hanu",
+      "position": {
+        "x": 7,
+        "y": 7.5
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["rarefied-raw-dark-amber"]
+    },
+    {
+      "id": "kozamauka-22",
+      "type": "mining",
+      "subType": "unspoiled",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'Hanu",
+      "teleportFr": "Ok'Hanu",
+      "teleportDe": "Ok'Hanu",
+      "position": {
+        "x": 7,
+        "y": 7.5
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["rarefied-raw-dark-amber"]
+    },
+    {
+      "id": "living-memory-10",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8.5,
+        "y": 7.5
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["rarefied-windsbalm-bay-leaf"]
+    },
+    {
+      "id": "living-memory-22",
+      "type": "botany",
+      "subType": "unspoiled",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8.5,
+        "y": 7.5
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["rarefied-windsbalm-bay-leaf"]
     }
   ]
 }
