@@ -4514,7 +4514,7 @@
     {
       "patch": 7.0,
       "id": "blackseed-cotton-boll",
-      "slot": "6",
+      "slot": "4",
       "name": "Blackseed Cotton Boll",
       "nameFr": "Fleur de coton des îles",
       "nameDe": "Schwarzbaumwoll-Samenkapsel",
@@ -4529,7 +4529,7 @@
     {
       "patch": 7.0,
       "id": "harmonite-ore",
-      "slot": "6",
+      "slot": "3",
       "name": "Harmonite Ore",
       "nameFr": "Minerai de fer composite",
       "nameDe": "Harmoniterzklumpen",
@@ -4544,7 +4544,7 @@
     {
       "patch": 7.0,
       "id": "turali-alumen",
-      "slot": "6",
+      "slot": "2",
       "name": "Turali Alumen",
       "nameFr": "Alun turalien",
       "nameDe": "Turalalaun-Klumpen",
