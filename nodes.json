@@ -6430,9 +6430,9 @@
       "zone": "Living Memory",
       "zoneFr": "Living Memory",
       "zoneDe": "Living Memory",
-      "teleport": "Leynode Pyro",
-      "teleportFr": "Leynode Pyro",
-      "teleportDe": "Leynode Pyro",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
       "position": {
         "x": 9.3,
         "y": 15.2
@@ -6448,9 +6448,9 @@
       "zone": "Living Memory",
       "zoneFr": "Living Memory",
       "zoneDe": "Living Memory",
-      "teleport": "Leynode Pyro",
-      "teleportFr": "Leynode Pyro",
-      "teleportDe": "Leynode Pyro",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
       "position": {
         "x": 9.3,
         "y": 15.2
