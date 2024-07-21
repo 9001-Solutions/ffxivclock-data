@@ -4552,8 +4552,8 @@
         "y": 32.1
       },
       "startTime": "4:00",
-      "endTime": "5:00",
-      "itemIds": ["rarefied-chalcocite"]
+      "endTime": "6:00",
+      "itemIds": ["rarefied-limonite", "rarefied-chalcocite", "rarefied-pyrite"]
     },
     {
       "id": "the-dravanian-forelands-16",
@@ -4570,8 +4570,8 @@
         "y": 32.1
       },
       "startTime": "16:00",
-      "endTime": "17:00",
-      "itemIds": ["rarefied-limonite", "rarefied-chalcocite"]
+      "endTime": "18:00",
+      "itemIds": ["rarefied-limonite", "rarefied-chalcocite", "rarefied-pyrite"]
     },
     {
       "id": "the-fringes-10",
@@ -4628,42 +4628,6 @@
       "itemIds": ["rarefied-gyr-abanian-mineral-water"]
     },
     {
-      "id": "the-dravanian-forelands-4",
-      "type": "mining",
-      "subType": "unspoiled",
-      "zone": "The Dravanian Forelands",
-      "zoneFr": "Avant-pays dravanien",
-      "zoneDe": "dravanischen Vorland",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
-      "position": {
-        "x": 30.6,
-        "y": 32.1
-      },
-      "startTime": "4:00",
-      "endTime": "5:00",
-      "itemIds": ["rarefied-limonite"]
-    },
-    {
-      "id": "the-dravanian-forelands-16",
-      "type": "mining",
-      "subType": "unspoiled",
-      "zone": "The Dravanian Forelands",
-      "zoneFr": "Avant-pays dravanien",
-      "zoneDe": "dravanischen Vorland",
-      "teleport": "unknown",
-      "teleportFr": "unknown",
-      "teleportDe": "unknown",
-      "position": {
-        "x": 30.6,
-        "y": 32.1
-      },
-      "startTime": "4:00",
-      "endTime": "5:00",
-      "itemIds": ["rarefied-pyrite"]
-    },
-    {
       "id": "the-rak'tika-greatwood-unknown",
       "type": "mining",
       "subType": "unspoiled",
@@ -4676,7 +4640,7 @@
       "position": "unknown",
       "startTime": "0:00",
       "endTime": "1:00",
-      "itemIds": ["rarefied-manasilver-sand", "rarefied-pyrite"]
+      "itemIds": ["rarefied-manasilver-sand"]
     },
     {
       "id": "coerthas-western-highlands-unknown",
