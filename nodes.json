@@ -3189,8 +3189,8 @@
       "teleportFr": "Porta Praetoria",
       "teleportDe": "Porta Praetoria",
       "position": {
-        "x": 28,
-        "y": 10
+        "x": 31,
+        "y": 27
       },
       "startTime": "4:00",
       "endTime": "7:55",
