@@ -3113,12 +3113,12 @@
       "zone": "Yanxia",
       "zoneFr": "Yanxien",
       "zoneDe": "Yanxia",
-      "teleport": "The House of the Fierce",
-      "teleportFr": "Cercle Des Intrépides",
-      "teleportDe": "Klause Der Grimmigen",
+      "teleport": "Namai",
+      "teleportFr": "Namai",
+      "teleportDe": "Namai",
       "position": {
-        "x": 22,
-        "y": 12
+        "x": 32,
+        "y": 26
       },
       "startTime": "16:00",
       "endTime": "19:55",
