@@ -4750,6 +4750,36 @@
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied-windsbalm-bay-leaf.png"
+    },
+    {
+      "patch": 7.1,
+      "id": "optical-fibergrass",
+      "slot": "2",
+      "name": "Optical Fibergrass",
+      "nameFr": "Herbe optique",
+      "nameDe": "Optisches Gras",
+      "description": "The fibrous tendrils that form this peculiar grass have exceptional light-transmitting properties.",
+      "descriptionFr": "Une touffe d'herbe rarissime capable de transmettre des impulsions lumineuses.",
+      "descriptionDe": "Die Halme dieser Grasart sind so fein und filigran, das sie jeden noch so schwachen Lichtstrahl durch sich hindurch lassen.",
+      "level": "100*",
+      "gatheringSkill": "",
+      "perception": "4540",
+      "imageUrl": "optical-fibergrass.png"
+    },
+    {
+      "patch": 7.1,
+      "id": "alexandrian-ore",
+      "slot": "6",
+      "name": "Alexandrian Ore",
+      "nameFr": "Minerai alexandrin",
+      "nameDe": "Alexandrisches Erz",
+      "description": "A decent-sized piece of rock containing metal composites unique to Alexandria.",
+      "descriptionFr": "Un minerai à la composition particulière, qu'on ne trouve que sur les terres d'Alexandrie.",
+      "descriptionDe": "Ein Erz mit einer äußerst ungewöhnlichen Mineralzusammensetzung, das sich ausschließlich in Alexandria finden lässt.",
+      "level": "100*",
+      "gatheringSkill": "",
+      "perception": "4540",
+      "imageUrl": "alexandrian-ore.png"
     }
   ]
 }
