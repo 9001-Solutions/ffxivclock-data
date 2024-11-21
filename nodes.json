@@ -6367,7 +6367,7 @@
       },
       "startTime": "4:00",
       "endTime": "6:00",
-      "itemIds": ["blackseed-cotton-boll"]
+      "itemIds": ["blackseed-cotton-boll", "optical-fibergrass"]
     },
     {
       "id": "living-memory-16",
@@ -6385,7 +6385,7 @@
       },
       "startTime": "16:00",
       "endTime": "18:00",
-      "itemIds": ["blackseed-cotton-boll"]
+      "itemIds": ["blackseed-cotton-boll", "optical-fibergrass"]
     },
     {
       "id": "living-memory-6",
@@ -6403,7 +6403,7 @@
       },
       "startTime": "6:00",
       "endTime": "8:00",
-      "itemIds": ["harmonite-ore"]
+      "itemIds": ["harmonite-ore", "alexandrian-ore"]
     },
     {
       "id": "living-memory-18",
@@ -6421,7 +6421,7 @@
       },
       "startTime": "18:00",
       "endTime": "20:00",
-      "itemIds": ["harmonite-ore"]
+      "itemIds": ["harmonite-ore", "alexandrian-ore"]
     },
     {
       "id": "urqopacha-8",
