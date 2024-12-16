@@ -1129,20 +1129,6 @@
       "descriptionDe": "Ein Erzklumpen mit hohem Adamantium-Gehalt."
     },
     {
-      "id": "82",
-      "slot": 2,
-      "name": "Yellow Copper Ore",
-      "nameFr": "Minerai de cuivre jaune",
-      "nameDe": "Kupferkies",
-      "level": "50***",
-      "gatheringSkill": "80",
-      "perception": "220+",
-      "imageUrl": "Yellow Copper Ore5108.png",
-      "description": "A decent-sized piece of rock containing the metal copper mixed with traces of iron and sulphur.",
-      "descriptionFr": "Un morceau de minerai contenant du cuivre, du fer et du soufre.",
-      "descriptionDe": "Ein Gesteinsklumpen mit hohen Anteilen von Kupfer, Eisen und Schwefel."
-    },
-    {
       "id": "83",
       "slot": 1,
       "name": "Abalathian Rock Salt",
@@ -3208,21 +3194,6 @@
     },
     {
       "patch": 5.4,
-      "id": "rarefied-mythrite-sand",
-      "slot": "unknown",
-      "name": "Rarefied Mythrite Sand",
-      "nameFr": "Sable de mithrite collectionnable",
-      "nameDe": "Mythrit-Sandklumpen (Sammlerstück)",
-      "description": "Unconfirmed rumors tell of an eccentric Lalafell with plans to use these glowing grains to build a private beach. She'll probably need a few more handfuls...",
-      "descriptionDe": "Ein Sammlerstück für Wunschlieferungen. (Nur Zur Abgabe von Wunschlieferungen geeignet.)",
-      "descriptionFr": "Une marchandise exceptionelle et digne d'être exposée. [Strictement destiné à l'échange d'objets collectionnables]",
-      "level": "51",
-      "gatheringSkill": "",
-      "perception": "",
-      "imageUrl": "rarefied_mythrite_sand.png"
-    },
-    {
-      "patch": 5.4,
       "id": "rarefied-raw-azurite",
       "slot": "unknown",
       "name": "Rarefied Raw Azurite",
@@ -3685,21 +3656,6 @@
       "gatheringSkill": "",
       "perception": "",
       "imageUrl": "rarefied_pine_resin.png"
-    },
-    {
-      "patch": 5.4,
-      "id": "rarefied-rainbow-cotton-boll",
-      "slot": "unknown",
-      "name": "Rarefied Rainbow Cotton Boll",
-      "nameFr": "Fleur de coton arc-en-ciel collectionnable",
-      "nameDe": "Regenbogen-Baumwoll-Samenkapsel (Sammlerstück)",
-      "description": "Is it gold? Is it blue? Or mayhap green? Folk will spend all day arguing over the color of a dress made from these prismatic cotton fibers.",
-      "descriptionDe": "Ein Sammlerstück für Wunschlieferungen. (Nur Zur Abgabe von Wunschlieferungen geeignet.)",
-      "descriptionFr": "Une marchandise exceptionelle et digne d'être exposée. [Strictement destiné à l'échange d'objets collectionnables]",
-      "level": "55",
-      "gatheringSkill": "",
-      "perception": "",
-      "imageUrl": "rarefied_rainbow_cotton_boll.png"
     },
     {
       "patch": 5.4,
