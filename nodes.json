@@ -6851,7 +6851,7 @@
       },
       "startTime": "08:00",
       "endTime": "10:00",
-      "itemIds": ["raw-rhodochorite"]
+      "itemIds": ["raw-rhodochrosite"]
     },
     {
       "id": "kozamauka-20",
@@ -6869,7 +6869,7 @@
       },
       "startTime": "20:00",
       "endTime": "22:00",
-      "itemIds": ["raw-rhodochorite"]
+      "itemIds": ["raw-rhodochrosite"]
     },
     {
       "id": "yak-tel-10",
@@ -6906,6 +6906,42 @@
       "startTime": "22:00",
       "endTime": "00:00",
       "itemIds": ["octahedrite"]
+    },
+    {
+      "id": "heritage-found-6",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Yyasulani Station",
+      "teleportFr": "Yyasulani Station",
+      "teleportDe": "Yyasulani Station",
+      "position": {
+        "x": 34,
+        "y": 20.5
+      },
+      "startTime": "06:00",
+      "endTime": "08:00",
+      "itemIds": ["cochineal-pigment"]
+    },
+    {
+      "id": "heritage-found-18",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Yyasulani Station",
+      "teleportFr": "Yyasulani Station",
+      "teleportDe": "Yyasulani Station",
+      "position": {
+        "x": 34,
+        "y": 20.5
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["cochineal-pigment"]
     }
   ]
 }
