@@ -6710,6 +6710,186 @@
       "startTime": "22:00",
       "endTime": "0:00",
       "itemIds": ["rarefied-windsbalm-bay-leaf"]
+    },
+      {
+      "id": "yak-tel-0",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Yak Tel",
+      "zoneFr": "Yak Tel",
+      "zoneDe": "Yak Tel",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 34.7,
+        "y": 22.7
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["cordia-log"]
+    },
+      {
+      "id": "yak-tel-12",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Yak Tel",
+      "zoneFr": "Yak Tel",
+      "zoneDe": "Yak Tel",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 34.7,
+        "y": 22.7
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["cordia-log"]
+    },
+    {
+      "id": "heritage-found-2",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "The Outskirts",
+      "teleportFr": "The Outskirts",
+      "teleportDe": "The Outskirts",
+      "position": {
+        "x": 13.6,
+        "y": 16.7
+      },
+      "startTime": "02:00",
+      "endTime": "04:00",
+      "itemIds": ["fulgurite"]
+    },
+    {
+      "id": "heritage-found-14",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "The Outskirts",
+      "teleportFr": "The Outskirts",
+      "teleportDe": "The Outskirts",
+      "position": {
+        "x": 13.6,
+        "y": 16.7
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["fulgurite"]
+    },
+     {
+      "id": "shaaloani-4",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Mehwahhetsoan",
+      "teleportFr": "Mehwahhetsoan",
+      "teleportDe": "Mehwahhetsoan",
+      "position": {
+        "x": 34.8,
+        "y": 16.5
+      },
+      "startTime": "04:00",
+      "endTime": "06:00",
+      "itemIds": ["shaaloani-coffee"]
+    },
+    {
+      "id": "shaaloani-16",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Mehwahhetsoan",
+      "teleportFr": "Mehwahhetsoan",
+      "teleportDe": "Mehwahhetsoan",
+      "position": {
+        "x": 34.8,
+        "y": 16.5
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["shaaloani-coffee"]
+    },
+      {
+      "id": "kozamauka-8",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'hanu",
+      "teleportFr": "Ok'hanu",
+      "teleportDe": "Ok'hanu",
+      "position": {
+        "x": 12.1,
+        "y": 17.7
+      },
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "itemIds": ["raw-rhodochorite"]
+    },
+    {
+      "id": "kozamauka-20",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'hanu",
+      "teleportFr": "Ok'hanu",
+      "teleportDe": "Ok'hanu",
+      "position": {
+        "x": 12.1,
+        "y": 17.7
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["raw-rhodochorite"]
+    },
+     {
+      "id": "yak-tel-10",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Yak Tel",
+      "zoneFr": "Yak Tel",
+      "zoneDe": "Yak Tel",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 18,
+        "y": 37
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["octahedrite"]
+    },
+    {
+    "id": "yak-tel-10",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Yak Tel",
+      "zoneFr": "Yak Tel",
+      "zoneDe": "Yak Tel",
+      "teleport": "Mamook",
+      "teleportFr": "Mamook",
+      "teleportDe": "Mamook",
+      "position": {
+        "x": 18,
+        "y": 37
+      },
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "itemIds": ["octahedrite"]
     }
   ]
 }
