@@ -4463,7 +4463,10 @@
       },
       "startTime": "2:00",
       "endTime": "3:00",
-      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
+      "itemIds": [
+        "rarefied-abalathian-spring-water",
+        "rarefied-aurum-regis-sand"
+      ]
     },
     {
       "id": "the-sea-of-clouds-14",
@@ -4481,7 +4484,10 @@
       },
       "startTime": "14:00",
       "endTime": "15:00",
-      "itemIds": ["rarefied-abalathian-spring-water", "rarefied-aurum-regis-sand"]
+      "itemIds": [
+        "rarefied-abalathian-spring-water",
+        "rarefied-aurum-regis-sand"
+      ]
     },
     {
       "id": "the-sea-of-clouds-unknown",
@@ -5776,7 +5782,12 @@
       },
       "startTime": "10:00",
       "endTime": "12:00",
-      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom", "sublime-crystalbloom"]
+      "itemIds": [
+        "potent-spice",
+        "double-edged-herb",
+        "prime-crystalbloom",
+        "sublime-crystalbloom"
+      ]
     },
     {
       "id": "ultima-thule-22",
@@ -5794,7 +5805,12 @@
       },
       "startTime": "22:00",
       "endTime": "0:00",
-      "itemIds": ["potent-spice", "double-edged-herb", "prime-crystalbloom", "sublime-crystalbloom"]
+      "itemIds": [
+        "potent-spice",
+        "double-edged-herb",
+        "prime-crystalbloom",
+        "sublime-crystalbloom"
+      ]
     },
     {
       "id": "thavnair-8",
@@ -6711,7 +6727,7 @@
       "endTime": "0:00",
       "itemIds": ["rarefied-windsbalm-bay-leaf"]
     },
-      {
+    {
       "id": "yak-tel-0",
       "type": "botany",
       "subType": "legendary",
@@ -6729,7 +6745,7 @@
       "endTime": "2:00",
       "itemIds": ["cordia-log"]
     },
-      {
+    {
       "id": "yak-tel-12",
       "type": "botany",
       "subType": "legendary",
@@ -6783,7 +6799,7 @@
       "endTime": "16:00",
       "itemIds": ["fulgurite"]
     },
-     {
+    {
       "id": "shaaloani-4",
       "type": "botany",
       "subType": "legendary",
@@ -6819,7 +6835,7 @@
       "endTime": "18:00",
       "itemIds": ["shaaloani-coffee"]
     },
-      {
+    {
       "id": "kozamauka-8",
       "type": "mining",
       "subType": "legendary",
@@ -6855,7 +6871,7 @@
       "endTime": "22:00",
       "itemIds": ["raw-rhodochorite"]
     },
-     {
+    {
       "id": "yak-tel-10",
       "type": "mining",
       "subType": "legendary",
@@ -6874,7 +6890,7 @@
       "itemIds": ["octahedrite"]
     },
     {
-    "id": "yak-tel-10",
+      "id": "yak-tel-10",
       "type": "mining",
       "subType": "legendary",
       "zone": "Yak Tel",
