@@ -6743,7 +6743,7 @@
       },
       "startTime": "0:00",
       "endTime": "2:00",
-      "itemIds": ["cordia-log"]
+      "itemIds": ["cordia-log", "cordia-sap"]
     },
     {
       "id": "yak-tel-12",
@@ -6761,7 +6761,7 @@
       },
       "startTime": "12:00",
       "endTime": "14:00",
-      "itemIds": ["cordia-log"]
+      "itemIds": ["cordia-log", "cordia-sap"]
     },
     {
       "id": "heritage-found-2",
@@ -6779,7 +6779,7 @@
       },
       "startTime": "02:00",
       "endTime": "04:00",
-      "itemIds": ["fulgurite"]
+      "itemIds": ["fulgurite", "desert-lapis-ore"]
     },
     {
       "id": "heritage-found-14",
@@ -6797,7 +6797,7 @@
       },
       "startTime": "14:00",
       "endTime": "16:00",
-      "itemIds": ["fulgurite"]
+      "itemIds": ["fulgurite", "desert-lapis-ore"]
     },
     {
       "id": "shaaloani-4",
@@ -6942,6 +6942,222 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "itemIds": ["cochineal-pigment"]
+    },
+    {
+      "id": "kozama-uka-4",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'Hanu",
+      "teleportFr": "Ok'Hanu",
+      "teleportDe": "Ok'Hanu",
+      "position": {
+        "x": 15,
+        "y": 11
+      },
+      "startTime": "4:00",
+      "endTime": "6:00",
+      "itemIds": ["carnauba-leaf"]
+    },
+    {
+      "id": "kozama-uka-16",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Kozama'uka",
+      "zoneFr": "Kozama'uka",
+      "zoneDe": "Kozama'uka",
+      "teleport": "Ok'Hanu",
+      "teleportFr": "Ok'Hanu",
+      "teleportDe": "Ok'Hanu",
+      "position": {
+        "x": 15,
+        "y": 11
+      },
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "itemIds": ["carnauba-leaf"]
+    },
+    {
+      "id": "urqopacha-6",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Wanchupelo",
+      "teleportFr": "Wanchupelo",
+      "teleportDe": "Wanchupelo",
+      "position": {
+        "x": 5,
+        "y": 25
+      },
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "itemIds": ["urqopacha-flax"]
+    },
+    {
+      "id": "urqopacha-18",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Urqopacha",
+      "zoneFr": "Urqopacha",
+      "zoneDe": "Urqopacha",
+      "teleport": "Wanchupelo",
+      "teleportFr": "Wanchupelo",
+      "teleportDe": "Wanchupelo",
+      "position": {
+        "x": 5,
+        "y": 25
+      },
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "itemIds": ["urqopacha-flax"]
+    },
+    {
+      "id": "living-memory-8",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8,
+        "y": 10
+      },
+      "startTime": "8:00",
+      "endTime": "10:00",
+      "itemIds": ["fulgurpine-log"]
+    },
+    {
+      "id": "living-memory-20",
+      "type": "botany",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8,
+        "y": 10
+      },
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "itemIds": ["fulgurpine-log"]
+    },
+    {
+      "id": "shaaloani-0",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 23,
+        "y": 27
+      },
+      "startTime": "0:00",
+      "endTime": "2:00",
+      "itemIds": ["rose-garnet-ore"]
+    },
+    {
+      "id": "shaaloani-12",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Shaaloani",
+      "zoneFr": "Shaaloani",
+      "zoneDe": "Shaaloani",
+      "teleport": "Hhusatahwi",
+      "teleportFr": "Hhusatahwi",
+      "teleportDe": "Hhusatahwi",
+      "position": {
+        "x": 23,
+        "y": 27
+      },
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "itemIds": ["rose-garnet-ore"]
+    },
+    {
+      "id": "living-memory-2",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8,
+        "y": 14
+      },
+      "startTime": "2:00",
+      "endTime": "4:00",
+      "itemIds": ["windspath-water"]
+    },
+    {
+      "id": "living-memory-14",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Living Memory",
+      "zoneFr": "Living Memory",
+      "zoneDe": "Living Memory",
+      "teleport": "Leynode Aero",
+      "teleportFr": "Leynode Aero",
+      "teleportDe": "Leynode Aero",
+      "position": {
+        "x": 8,
+        "y": 14
+      },
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "itemIds": ["windspath-water"]
+    },
+    {
+      "id": "heritage-found-10",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Electrope Strike",
+      "teleportFr": "Electrope Strike",
+      "teleportDe": "Electrope Strike",
+      "position": {
+        "x": 24,
+        "y": 27
+      },
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "itemIds": ["dense-aluminum-ore"]
+    },
+    {
+      "id": "heritage-found-22",
+      "type": "mining",
+      "subType": "legendary",
+      "zone": "Heritage Found",
+      "zoneFr": "Heritage Found",
+      "zoneDe": "Heritage Found",
+      "teleport": "Electrope Strike",
+      "teleportFr": "Electrope Strike",
+      "teleportDe": "Electrope Strike",
+      "position": {
+        "x": 24,
+        "y": 27
+      },
+      "startTime": "22:00",
+      "endTime": "0:00",
+      "itemIds": ["dense-aluminum-ore"]
     }
   ]
 }
